@@ -1,0 +1,106 @@
+{
+    "1": {
+        "title": "🧬 Level 1: Organisms (Cells)",
+        "questions": [
+            { "q": "Which part of a cell contains the genetic material?", "options": [{"text": "Nucleus", "correct": true}, {"text": "Cytoplasm", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Vacuole", "correct": false}] },
+            { "q": "Which cell part is responsible for releasing energy through respiration?", "options": [{"text": "Mitochondria", "correct": true}, {"text": "Ribosomes", "correct": false}, {"text": "Chloroplasts", "correct": false}, {"text": "Nucleus", "correct": false}] },
+            { "q": "Which of these is ONLY found in plant cells?", "options": [{"text": "Cell Wall", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
+            { "q": "What is the function of Chloroplasts?", "options": [{"text": "Photosynthesis", "correct": true}, {"text": "Respiration", "correct": false}, {"text": "Storage", "correct": false}, {"text": "Protection", "correct": false}] },
+            { "q": "The 'jelly-like' substance where chemical reactions happen is called:", "options": [{"text": "Cytoplasm", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Wall", "correct": false}, {"text": "Cell Membrane", "correct": false}] },
+            { "q": "Which part controls what enters and leaves the cell?", "options": [{"text": "Cell Membrane", "correct": true}, {"text": "Cell Wall", "correct": false}, {"text": "Nucleus", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
+            { "q": "Groups of similar cells working together form a:", "options": [{"text": "Tissue", "correct": true}, {"text": "Organ", "correct": false}, {"text": "System", "correct": false}, {"text": "Organism", "correct": false}] }
+        ]
+    },
+    "2": {
+        "title": "🧪 Level 2: Matter (Particles)",
+        "questions": [
+            { "q": "In which state of matter are particles arranged randomly but close together?", "options": [{"text": "Liquid", "correct": true}, {"text": "Solid", "correct": false}, {"text": "Gas", "correct": false}, {"text": "Plasma", "correct": false}] },
+            { "q": "Which process describes a gas turning into a liquid?", "options": [{"text": "Condensation", "correct": true}, {"text": "Evaporation", "correct": false}, {"text": "Freezing", "correct": false}, {"text": "Sublimation", "correct": false}] },
+            { "q": "Particles in a gas move:", "options": [{"text": "Quickly in all directions", "correct": true}, {"text": "Slowly in fixed positions", "correct": false}, {"text": "By sliding over each other", "correct": false}, {"text": "They do not move", "correct": false}] },
+            { "q": "Diffusion is the movement of particles from:", "options": [{"text": "High to low concentration", "correct": true}, {"text": "Low to high concentration", "correct": false}, {"text": "One solid to another", "correct": false}, {"text": "Only in liquids", "correct": false}] },
+            { "q": "What happens to volume of a gas when it is compressed?", "options": [{"text": "It decreases", "correct": true}, {"text": "It increases", "correct": false}, {"text": "It stays the same", "correct": false}, {"text": "It disappears", "correct": false}] },
+            { "q": "The temperature at which a liquid turns to a gas is the:", "options": [{"text": "Boiling point", "correct": true}, {"text": "Melting point", "correct": false}, {"text": "Freezing point", "correct": false}, {"text": "Condensation point", "correct": false}] }
+        ]
+    },
+    "3": {
+        "title": "🚀 Level 3: Forces (Speed & Gravity)",
+        "questions": [
+            { "q": "Speed is calculated by:", "options": [{"text": "Distance ÷ Time", "correct": true}, {"text": "Time ÷ Distance", "correct": false}, {"text": "Distance × Time", "correct": false}, {"text": "Mass × Acceleration", "correct": false}] },
+            { "q": "What are the standard units for speed?", "options": [{"text": "m/s", "correct": true}, {"text": "kg", "correct": false}, {"text": "Newtons", "correct": false}, {"text": "Metres", "correct": false}] },
+            { "q": "Gravity is a force that:", "options": [{"text": "Pulls objects together", "correct": true}, {"text": "Pushes objects apart", "correct": false}, {"text": "Only exists on Earth", "correct": false}, {"text": "Has no effect on mass", "correct": false}] },
+            { "q": "If a car travels 60 miles in 2 hours, what is its speed?", "options": [{"text": "30 mph", "correct": true}, {"text": "120 mph", "correct": false}, {"text": "60 mph", "correct": false}, {"text": "20 mph", "correct": false}] },
+            { "q": "Mass is measured in kilograms, but Weight is measured in:", "options": [{"text": "Newtons", "correct": true}, {"text": "Kilograms", "correct": false}, {"text": "Grams", "correct": false}, {"text": "Metres", "correct": false}] },
+            { "q": "A 'Force Multiplier' makes it easier to move objects using:", "options": [{"text": "Levers", "correct": true}, {"text": "More weight", "correct": false}, {"text": "Less time", "correct": false}, {"text": "Gravity", "correct": false}] }
+        ]
+    },
+    "4": {
+        "title": "⚡ Level 4: Electromagnets",
+        "questions": [
+            { "q": "Which component is used to measure current in a circuit?", "options": [{"text": "Ammeter", "correct": true}, {"text": "Voltmeter", "correct": false}, {"text": "Resistor", "correct": false}, {"text": "Switch", "correct": false}] },
+            { "q": "Current is the flow of:", "options": [{"text": "Electrons", "correct": true}, {"text": "Protons", "correct": false}, {"text": "Neutrons", "correct": false}, {"text": "Atoms", "correct": false}] },
+            { "q": "In a series circuit, if one bulb breaks, the others will:", "options": [{"text": "Go out", "correct": true}, {"text": "Stay on", "correct": false}, {"text": "Get brighter", "correct": false}, {"text": "Get dimmer", "correct": false}] },
+            { "q": "Which material is a good conductor of electricity?", "options": [{"text": "Copper", "correct": true}, {"text": "Plastic", "correct": false}, {"text": "Wood", "correct": false}, {"text": "Glass", "correct": false}] },
+            { "q": "How can you make an electromagnet stronger?", "options": [{"text": "Add more coils of wire", "correct": true}, {"text": "Use a plastic core", "correct": false}, {"text": "Reduce the current", "correct": false}, {"text": "Use shorter wire", "correct": false}] }
+        ]
+    },
+    "5": {
+        "title": "🔥 Level 5: Energy (Transfer & Cost)",
+        "questions": [
+            { "q": "Energy cannot be created or destroyed, only:", "options": [{"text": "Transferred", "correct": true}, {"text": "Used up", "correct": false}, {"text": "Multiplied", "correct": false}, {"text": "Stored forever", "correct": false}] },
+            { "q": "What is the main energy transfer in a television?", "options": [{"text": "Electrical to Light/Sound", "correct": true}, {"text": "Light to Electrical", "correct": false}, {"text": "Heat to Sound", "correct": false}, {"text": "Kinetic to Heat", "correct": false}] },
+            { "q": "Which energy resource is non-renewable?", "options": [{"text": "Coal", "correct": true}, {"text": "Solar", "correct": false}, {"text": "Wind", "correct": false}, {"text": "Tidal", "correct": false}] },
+            { "q": "What units are used to measure energy?", "options": [{"text": "Joules", "correct": true}, {"text": "Watts", "correct": false}, {"text": "Volts", "correct": false}, {"text": "Amps", "correct": false}] },
+            { "q": "A 'Good Insulator' is a material that:", "options": [{"text": "Slows down heat transfer", "correct": true}, {"text": "Speeds up heat transfer", "correct": false}, {"text": "Conducts electricity", "correct": false}, {"text": "Is always a metal", "correct": false}] }
+        ]
+    },
+    "6": {
+        "title": "🌊 Level 6: Waves (Sound & Light)",
+        "questions": [
+            { "q": "Sound waves are caused by:", "options": [{"text": "Vibrations", "correct": true}, {"text": "Light", "correct": false}, {"text": "Electricity", "correct": false}, {"text": "Heat", "correct": false}] },
+            { "q": "Can sound travel through a vacuum (space)?", "options": [{"text": "No", "correct": true}, {"text": "Yes", "correct": false}, {"text": "Only if loud", "correct": false}, {"text": "Only low sounds", "correct": false}] },
+            { "q": "Which part of the ear vibrates first?", "options": [{"text": "Eardrum", "correct": true}, {"text": "Cochlea", "correct": false}, {"text": "Auditory Nerve", "correct": false}, {"text": "Brain", "correct": false}] },
+            { "q": "The 'Height' of a wave is called its:", "options": [{"text": "Amplitude", "correct": true}, {"text": "Frequency", "correct": false}, {"text": "Wavelength", "correct": false}, {"text": "Speed", "correct": false}] },
+            { "q": "When light hits a mirror, it is:", "options": [{"text": "Reflected", "correct": true}, {"text": "Refracted", "correct": false}, {"text": "Absorbed", "correct": false}, {"text": "Transmitted", "correct": false}] }
+        ]
+    },
+    "7": {
+        "title": "🧪 Level 7: Reactions (Acids & Metals)",
+        "questions": [
+            { "q": "Which pH value represents a strong acid?", "options": [{"text": "1", "correct": true}, {"text": "7", "correct": false}, {"text": "14", "correct": false}, {"text": "9", "correct": false}] },
+            { "q": "What colour does Universal Indicator turn in a neutral solution?", "options": [{"text": "Green", "correct": true}, {"text": "Red", "correct": false}, {"text": "Blue", "correct": false}, {"text": "Purple", "correct": false}] },
+            { "q": "Acid + Alkali → ?", "options": [{"text": "Salt + Water", "correct": true}, {"text": "Salt + Hydrogen", "correct": false}, {"text": "Water + Carbon Dioxide", "correct": false}, {"text": "No reaction", "correct": false}] },
+            { "q": "Which gas is produced when a metal reacts with an acid?", "options": [{"text": "Hydrogen", "correct": true}, {"text": "Oxygen", "correct": false}, {"text": "Carbon Dioxide", "correct": false}, {"text": "Nitrogen", "correct": false}] },
+            { "q": "What is the test for Hydrogen gas?", "options": [{"text": "Squeaky pop test", "correct": true}, {"text": "Glowing splint test", "correct": false}, {"text": "Limewater test", "correct": false}, {"text": "Blue litmus paper", "correct": false}] }
+        ]
+    },
+    "8": {
+        "title": "🌍 Level 8: Earth & Universe",
+        "questions": [
+            { "q": "Which layer of the Earth is the hottest?", "options": [{"text": "Inner Core", "correct": true}, {"text": "Crust", "correct": false}, {"text": "Mantle", "correct": false}, {"text": "Outer Core", "correct": false}] },
+            { "q": "The Earth's crust is divided into:", "options": [{"text": "Tectonic Plates", "correct": true}, {"text": "Continents only", "correct": false}, {"text": "Oceans only", "correct": false}, {"text": "Countries", "correct": false}] },
+            { "q": "How long does it take Earth to orbit the Sun once?", "options": [{"text": "365 days", "correct": true}, {"text": "24 hours", "correct": false}, {"text": "28 days", "correct": false}, {"text": "12 hours", "correct": false}] },
+            { "q": "What causes the seasons on Earth?", "options": [{"text": "Tilt of Earth's axis", "correct": true}, {"text": "Distance from the Sun", "correct": false}, {"text": "Speed of rotation", "correct": false}, {"text": "The Moon", "correct": false}] },
+            { "q": "Which planet is known as the 'Red Planet'?", "options": [{"text": "Mars", "correct": true}, {"text": "Venus", "correct": false}, {"text": "Jupiter", "correct": false}, {"text": "Saturn", "correct": false}] }
+        ]
+    },
+    "9": {
+        "title": "🌿 Level 9: Ecosystems",
+        "questions": [
+            { "q": "What do all food chains start with?", "options": [{"text": "A Producer (Plant)", "correct": true}, {"text": "A Predator", "correct": false}, {"text": "An Animal", "correct": false}, {"text": "The Moon", "correct": false}] },
+            { "q": "Organisms that eat only plants are called:", "options": [{"text": "Herbivores", "correct": true}, {"text": "Carnivores", "correct": false}, {"text": "Omnivores", "correct": false}, {"text": "Decomposers", "correct": false}] },
+            { "q": "What is the process where plants make their own food?", "options": [{"text": "Photosynthesis", "correct": true}, {"text": "Respiration", "correct": false}, {"text": "Pollination", "correct": false}, {"text": "Fertilisation", "correct": false}] },
+            { "q": "In a food web, arrows show the flow of:", "options": [{"text": "Energy", "correct": true}, {"text": "Water", "correct": false}, {"text": "Air", "correct": false}, {"text": "Animals", "correct": false}] },
+            { "q": "Which part of a plant attracts insects for pollination?", "options": [{"text": "Petals", "correct": true}, {"text": "Roots", "correct": false}, {"text": "Stem", "correct": false}, {"text": "Leaves", "correct": false}] }
+        ]
+    },
+    "10": {
+        "title": "🧬 Level 10: Genes & Variation",
+        "questions": [
+            { "q": "Variation between individuals caused by their DNA is:", "options": [{"text": "Inherited Variation", "correct": true}, {"text": "Environmental Variation", "correct": false}, {"text": "Acquired Variation", "correct": false}, {"text": "Temporary Variation", "correct": false}] },
+            { "q": "Where is genetic information stored in a cell?", "options": [{"text": "Chromosomes", "correct": true}, {"text": "Cell Membrane", "correct": false}, {"text": "Cytoplasm", "correct": false}, {"text": "Cell Wall", "correct": false}] },
+            { "q": "In humans, how many chromosomes are in a normal body cell?", "options": [{"text": "46 (23 pairs)", "correct": true}, {"text": "23", "correct": false}, {"text": "92", "correct": false}, {"text": "10", "correct": false}] },
+            { "q": "An example of environmental variation is:", "options": [{"text": "Having a scar", "correct": true}, {"text": "Eye colour", "correct": false}, {"text": "Blood group", "correct": false}, {"text": "Natural hair colour", "correct": false}] },
+            { "q": "The structure of DNA is often described as a:", "options": [{"text": "Double Helix", "correct": true}, {"text": "Single Circle", "correct": false}, {"text": "Triple Ladder", "correct": false}, {"text": "Flat Square", "correct": false}] }
+        ]
+    }
+}
