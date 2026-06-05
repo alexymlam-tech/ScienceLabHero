@@ -80,15 +80,8 @@ class GameEngine {
 
         this.ui.rulesReadyBtn.addEventListener('click', () => {
             this.ui.rulesScreen.style.display = 'none';
-            // 如果遊戲進行中，直接恢復顯示遊戲內容
-            if (this.currentQuestions.length > 0) {
-                console.log("[DEBUG] Resuming game, setting content to flex.");
-                this.ui.content.style.display = 'flex';
-            } else {
-                console.log("[DEBUG] Starting new game...");
-                this.audio.initCtx();
-                this.startLevel(1);
-            }
+            this.audio.initCtx();
+            this.startLevel(1);
         });
 
         this.ui.rulesBtn.addEventListener('click', () => {
@@ -272,7 +265,7 @@ class GameEngine {
     }
 
     async showLeaderboard() {
-        this.ui.startScreen.style.display = 'none';
+        this.ui.rulesScreen.style.display = 'none';
         this.ui.gameOverScreen.style.display = 'none';
         this.ui.leaderboardScreen.style.display = 'flex';
         this.ui.leaderboardBody.innerHTML = '<tr><td colspan="5">Loading...</td></tr>';
