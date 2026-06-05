@@ -10,7 +10,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #222;
+    background-color: var(--primary);
     color: var(--light);
     display: flex;
     justify-content: center;
@@ -287,4 +287,9 @@ footer {
     from { transform: translate(-50%, -100%); opacity: 0; }
     to { transform: translate(-50%, 0); opacity: 1; }
 }
+
+/* Accessibility Themes */
+.theme-default { --primary: #2c3e50; --secondary: #3498db; --light: #ecf0f1; }
+.theme-contrast-yellow { --primary: #000; --secondary: #f1c40f; --light: #fff; }
+.theme-contrast-blue { --primary: #00008b; --secondary: #87ceeb; --light: #fff; }
 

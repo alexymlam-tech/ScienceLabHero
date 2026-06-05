@@ -188,6 +188,13 @@ class GameEngine {
         } else {
             btn.classList.add('wrong-ans'); this.audio.playSFX('fail');
             this.lives--; this.levelPerfect = false; this.updateUI();
+
+            // 自動顯示提示
+            const currentQ = this.currentQuestions[this.qIndex];
+            if (currentQ.hint) {
+                this.showToast("💡 Hint: " + currentQ.hint, "info");
+            }
+
             if (this.lives <= 0) {
                 this.showToast("💔 CRITICAL FAILURE!", "fail");
                 setTimeout(() => this.triggerGameOver(), 1000);
@@ -205,7 +212,9 @@ class GameEngine {
     }
 
     setTheme(themeClass) {
+        console.log("[DEBUG] Theme change requested:", themeClass);
         document.body.className = themeClass;
+        console.log("[DEBUG] Current body class:", document.body.className);
         this.showToast(`Mode: ${themeClass || 'Default'}`, "info");
     }
 

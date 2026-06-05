@@ -2,13 +2,13 @@
     "1": {
         "title": "🧬 Level 1: Organisms (Cells)",
         "questions": [
-            { "q": "Which part of a cell contains the genetic material?", "options": [{"text": "Nucleus", "correct": true}, {"text": "Cytoplasm", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Vacuole", "correct": false}] },
-            { "q": "Which cell part is responsible for releasing energy through respiration?", "options": [{"text": "Mitochondria", "correct": true}, {"text": "Ribosomes", "correct": false}, {"text": "Chloroplasts", "correct": false}, {"text": "Nucleus", "correct": false}] },
-            { "q": "Which of these is ONLY found in plant cells?", "options": [{"text": "Cell Wall", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
-            { "q": "What is the function of Chloroplasts?", "options": [{"text": "Photosynthesis", "correct": true}, {"text": "Respiration", "correct": false}, {"text": "Storage", "correct": false}, {"text": "Protection", "correct": false}] },
-            { "q": "The 'jelly-like' substance where chemical reactions happen is called:", "options": [{"text": "Cytoplasm", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Wall", "correct": false}, {"text": "Cell Membrane", "correct": false}] },
-            { "q": "Which part controls what enters and leaves the cell?", "options": [{"text": "Cell Membrane", "correct": true}, {"text": "Cell Wall", "correct": false}, {"text": "Nucleus", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
-            { "q": "Groups of similar cells working together form a:", "options": [{"text": "Tissue", "correct": true}, {"text": "Organ", "correct": false}, {"text": "System", "correct": false}, {"text": "Organism", "correct": false}] }
+            { "q": "Which part of a cell contains the genetic material?", "hint": "It's often called the 'brain' of the cell.", "options": [{"text": "Nucleus", "correct": true}, {"text": "Cytoplasm", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Vacuole", "correct": false}] },
+            { "q": "Which cell part is responsible for releasing energy through respiration?", "hint": "Think of energy production!", "options": [{"text": "Mitochondria", "correct": true}, {"text": "Ribosomes", "correct": false}, {"text": "Chloroplasts", "correct": false}, {"text": "Nucleus", "correct": false}] },
+            { "q": "Which of these is ONLY found in plant cells?", "hint": "It provides structure to plants.", "options": [{"text": "Cell Wall", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Membrane", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
+            { "q": "What is the function of Chloroplasts?", "hint": "Think of how plants make food.", "options": [{"text": "Photosynthesis", "correct": true}, {"text": "Respiration", "correct": false}, {"text": "Storage", "correct": false}, {"text": "Protection", "correct": false}] },
+            { "q": "The 'jelly-like' substance where chemical reactions happen is called:", "hint": "It fills the inside of the cell.", "options": [{"text": "Cytoplasm", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Cell Wall", "correct": false}, {"text": "Cell Membrane", "correct": false}] },
+            { "q": "Which part controls what enters and leaves the cell?", "hint": "It's the boundary layer.", "options": [{"text": "Cell Membrane", "correct": true}, {"text": "Cell Wall", "correct": false}, {"text": "Nucleus", "correct": false}, {"text": "Cytoplasm", "correct": false}] },
+            { "q": "Groups of similar cells working together form a:", "hint": "Cells -> ? -> Organ", "options": [{"text": "Tissue", "correct": true}, {"text": "Organ", "correct": false}, {"text": "System", "correct": false}, {"text": "Organism", "correct": false}] }
         ]
     },
     "2": {
