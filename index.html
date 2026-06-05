@@ -46,8 +46,7 @@
                         <li>🎯 Correct answer = 100 pts</li>
                         <li>🏆 Perfect Clear (No misses) = 500 pts Bonus</li>
                     </ul>
-                    <button id="start-game-btn">Ready for Challenge...</button>
-                    <button id="view-leaderboard-btn" style="margin-top: 10px; background: #34495e;">View Leaderboard</button>
+                    <button id="start-game-btn" class="blink-btn">Ready for Challenge...</button>
                 </div>
             </div>
 
@@ -89,10 +88,11 @@
         <footer>
             <p>Learn from the best of others, be the best of yourself. - MSA Science Dept</p>
             <div style="margin-top: 10px;">
-                <button onclick="window.game.setTheme('theme-contrast-yellow')" style="padding: 5px 10px; font-size: 0.8rem;">Yellow Mode</button>
-                <button onclick="window.game.setTheme('theme-contrast-blue')" style="padding: 5px 10px; font-size: 0.8rem;">Blue Mode</button>
-                <button onclick="window.game.setTheme('')" style="padding: 5px 10px; font-size: 0.8rem;">Reset</button>
-                <button id="rules-btn" style="padding: 5px 10px; font-size: 0.8rem;">How to Play</button>
+                <button onclick="window.game.setTheme('theme-contrast-yellow')" class="footer-btn">Yellow Mode</button>
+                <button onclick="window.game.setTheme('theme-contrast-blue')" class="footer-btn">Blue Mode</button>
+                <button onclick="window.game.setTheme('')" class="footer-btn">Reset</button>
+                <button id="rules-btn" class="footer-btn">How to Play</button>
+                <button id="view-leaderboard-btn" class="footer-btn" style="border-color: #f1c40f; color: #f1c40f;">Leaderboard</button>
             </div>
         </footer>
     </div>

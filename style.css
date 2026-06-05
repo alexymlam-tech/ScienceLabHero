@@ -214,7 +214,7 @@ footer {
     max-width: 90%;
 }
 
-#briefing-continue-btn, #rules-ready-btn {
+#briefing-continue-btn, #start-game-btn {
     margin-top: 30px;
     background: transparent;
     color: #f1c40f;
@@ -227,7 +227,7 @@ footer {
     animation: blink 1.5s infinite;
 }
 
-#briefing-continue-btn:hover, #rules-ready-btn:hover {
+#briefing-continue-btn:hover, #start-game-btn:hover {
     background: #f1c40f;
     color: #000;
     animation: none;
