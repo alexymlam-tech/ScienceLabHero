@@ -80,8 +80,14 @@ class GameEngine {
 
         this.ui.rulesReadyBtn.addEventListener('click', () => {
             this.ui.rulesScreen.style.display = 'none';
-            this.audio.initCtx();
-            this.startLevel(1);
+            // 如果遊戲進行中，直接回到遊戲畫面；否則開始新遊戲
+            if (this.currentQuestions.length > 0) {
+                console.log("[DEBUG] Resuming game...");
+            } else {
+                console.log("[DEBUG] Starting new game...");
+                this.audio.initCtx();
+                this.startLevel(1);
+            }
         });
 
         this.ui.rulesBtn.addEventListener('click', () => {
@@ -180,6 +186,7 @@ class GameEngine {
             setTimeout(() => {
                 this.qIndex++;
                 if (this.qIndex >= this.currentQuestions.length) {
+                    console.log(`[DEBUG] Level finished. Perfect: ${this.levelPerfect}`);
                     if (this.levelPerfect) {
                         this.score += BONUS_POINTS;
                         this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success");
@@ -191,12 +198,17 @@ class GameEngine {
             }, 800);
         } else {
             btn.classList.add('wrong-ans'); this.audio.playSFX('fail');
-            this.lives--; this.levelPerfect = false; this.updateUI();
+            this.lives--;
+            this.levelPerfect = false;
+            console.log(`[DEBUG] Incorrect answer. LevelPerfect set to false.`);
+            this.updateUI();
 
-            // 自動顯示提示
             const currentQ = this.currentQuestions[this.qIndex];
             if (currentQ.hint) {
+                console.log(`[DEBUG] Hint triggered: ${currentQ.hint}`);
                 this.showToast("💡 Hint: " + currentQ.hint, "info");
+            } else {
+                console.warn(`[DEBUG] No hint found for question: ${currentQ.q}`);
             }
 
             if (this.lives <= 0) {
