@@ -189,10 +189,13 @@ footer {
     letter-spacing: 2px;
 }
 
-.question-text {
-    margin: 15px 0;
-    line-height: 1.4;
-    text-align: center;
+#hint-display {
+    padding: 10px;
+    border: 1px dashed #f1c40f;
+    border-radius: 5px;
+    background: rgba(241, 196, 15, 0.1);
+    margin-top: 15px;
+    display: none; /* Initially hidden */
 }
 
 /* Rules Screen Animation */
