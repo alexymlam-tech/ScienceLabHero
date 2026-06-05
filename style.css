@@ -293,3 +293,21 @@ footer {
 .theme-contrast-yellow { --primary: #000; --secondary: #f1c40f; --light: #fff; }
 .theme-contrast-blue { --primary: #00008b; --secondary: #87ceeb; --light: #fff; }
 
+/* Footer Button Styling */
+.footer-btn {
+    padding: 3px 8px;
+    font-size: 0.7rem;
+    background: transparent;
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+    cursor: pointer;
+    margin: 0 3px;
+    border-radius: 3px;
+    transition: all 0.2s;
+}
+
+.footer-btn:hover {
+    background: var(--secondary);
+    color: #fff;
+}
+
