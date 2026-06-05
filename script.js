@@ -123,8 +123,10 @@ class GameEngine {
         return d.toLocaleDateString('en-GB') + "; " + d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
     }
 
-    showToast(message, type = "info") {
-        const toast = document.createElement('div'); toast.className = `toast ${type}`; toast.innerText = message;
+    showToast(message, type = "info", topPos = "50px") {
+        const toast = document.createElement('div'); toast.className = `toast ${type}`;
+        toast.style.top = topPos; // 動態設定位置
+        toast.innerText = message;
         document.body.appendChild(toast);
         setTimeout(() => { toast.classList.add('fade-out'); setTimeout(() => toast.remove(), 500); }, 3000);
     }
@@ -175,7 +177,7 @@ class GameEngine {
             btn.classList.add('correct-ans'); this.audio.playSFX('success');
             const pts = (this.level === 11 ? 500 : 100);
             this.score += pts;
-            this.showToast(`+${pts} Points`, "success");
+            this.showToast(`+${pts} Points`, "success", "50px");
             this.updateUI();
             setTimeout(() => {
                 this.qIndex++;
@@ -183,7 +185,7 @@ class GameEngine {
                     console.log(`[DEBUG] Level finished. Perfect: ${this.levelPerfect}`);
                     if (this.levelPerfect) {
                         this.score += BONUS_POINTS;
-                        this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success");
+                        this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success", "150px");
                         this.updateUI();
                     }
                     if (this.level >= 11) { this.showVictory(); }
