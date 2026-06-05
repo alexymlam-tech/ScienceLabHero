@@ -55,7 +55,6 @@ class GameEngine {
         this.ui = {
             level: document.getElementById('level-display'), score: document.getElementById('score-display'),
             lives: document.getElementById('lives-display'), content: document.getElementById('game-content'),
-            startBtn: document.getElementById('start-btn'), startScreen: document.getElementById('start-screen'),
             gameOverScreen: document.getElementById('game-over-screen'), leaderboardScreen: document.getElementById('leaderboard-screen'),
             finalScore: document.getElementById('final-score'), playerName: document.getElementById('player-name'),
             submitScoreBtn: document.getElementById('submit-score-btn'), leaderboardBody: document.getElementById('leaderboard-body'),
@@ -63,7 +62,7 @@ class GameEngine {
             briefingScreen: document.getElementById('briefing-screen'),
             briefingContinueBtn: document.getElementById('briefing-continue-btn'),
             rulesScreen: document.getElementById('rules-screen'),
-            rulesReadyBtn: document.getElementById('rules-ready-btn'),
+            rulesReadyBtn: document.getElementById('start-game-btn'),
             rulesBtn: document.getElementById('rules-btn')
         };
         this.init();
@@ -71,9 +70,8 @@ class GameEngine {
 
     async init() {
         // Init flow
-        this.ui.startScreen.style.display = 'none';
-        this.ui.rulesScreen.style.display = 'none';
         this.ui.briefingScreen.style.display = 'flex';
+        this.ui.rulesScreen.style.display = 'none';
 
         this.ui.briefingContinueBtn.addEventListener('click', () => {
             this.ui.briefingScreen.style.display = 'none';
@@ -82,14 +80,20 @@ class GameEngine {
 
         this.ui.rulesReadyBtn.addEventListener('click', () => {
             this.ui.rulesScreen.style.display = 'none';
-            this.ui.startScreen.style.display = 'flex';
+            this.audio.initCtx();
+            this.startLevel(1);
         });
 
         this.ui.rulesBtn.addEventListener('click', () => {
             this.ui.rulesScreen.style.display = 'flex';
         });
 
-        if (this.ui.startBtn) { this.ui.startBtn.disabled = true; this.ui.startBtn.innerText = "Initializing..."; }
+        if (this.ui.viewLeaderboardBtn) {
+            this.ui.viewLeaderboardBtn.addEventListener('click', () => this.showLeaderboard());
+        }
+        if (this.ui.submitScoreBtn) {
+            this.ui.submitScoreBtn.addEventListener('click', () => this.saveScore());
+        }
         try {
             const response = await fetch('questions.json?v=' + Date.now());
             if (!response.ok) throw new Error("CORS/Network");

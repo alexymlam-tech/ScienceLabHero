@@ -12,7 +12,10 @@
 <body>
     <div id="game-container">
         <header>
-            <h1>🔬 Science Lab Hero</h1>
+            <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                <h1>🔬 Science Lab Hero</h1>
+                <p style="font-size: 0.9rem; margin: 0;">Created by Alex Lam</p>
+            </div>
             <div id="stats">
                 <div class="stat-item">Level: <span id="level-display">1</span></div>
                 <div class="stat-item">Score: <span id="score-display">0</span></div>
@@ -43,17 +46,9 @@
                         <li>🎯 Correct answer = 100 pts</li>
                         <li>🏆 Perfect Clear (No misses) = 500 pts Bonus</li>
                     </ul>
-                    <button id="rules-ready-btn">Ready for Challenge...</button>
+                    <button id="start-game-btn">Ready for Challenge...</button>
+                    <button id="view-leaderboard-btn" style="margin-top: 10px; background: #34495e;">View Leaderboard</button>
                 </div>
-            </div>
-
-            <!-- Start Screen -->
-            <div id="start-screen" class="overlay" style="display: none;">
-                <h2>Ready for a Science Adventure?</h2>
-                <p>Solve lab puzzles and become a Year 7 Science Hero!</p>
-                <p style="font-weight: bold; color: #f1c40f; margin-bottom: 20px;">Created by Alex Lam</p>
-                <button id="start-btn">Start Game</button>
-                <button id="view-leaderboard-btn" style="background: #34495e; margin-top: 10px;">View Leaderboard</button>
             </div>
 
             <!-- Game Over Screen -->
