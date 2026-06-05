@@ -80,9 +80,10 @@ class GameEngine {
 
         this.ui.rulesReadyBtn.addEventListener('click', () => {
             this.ui.rulesScreen.style.display = 'none';
-            // 如果遊戲進行中，直接回到遊戲畫面；否則開始新遊戲
+            // 如果遊戲進行中，直接恢復顯示遊戲內容
             if (this.currentQuestions.length > 0) {
-                console.log("[DEBUG] Resuming game...");
+                console.log("[DEBUG] Resuming game, setting content to flex.");
+                this.ui.content.style.display = 'flex';
             } else {
                 console.log("[DEBUG] Starting new game...");
                 this.audio.initCtx();
