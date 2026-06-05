@@ -21,8 +21,34 @@
         </header>
 
         <main id="game-screen">
+            <!-- Briefing Screen -->
+            <div id="briefing-screen" class="overlay">
+                <div id="briefing-text" class="briefing-content">
+                    <p>[SYSTEM: CONNECTION ESTABLISHED]</p>
+                    <p>LOCATION: MSA BIOLOGY LAB</p>
+                    <p>CRIME REPORT: LAB CHAOS</p>
+                    <p>SITUATION: Experiment X-7 sabotaged!</p>
+                    <button id="briefing-continue-btn">Continue...</button>
+                </div>
+            </div>
+
+            <!-- Rules Screen -->
+            <div id="rules-screen" class="overlay" style="display: none;">
+                <div class="briefing-content">
+                    <h2>🔬 HOW TO PLAY</h2>
+                    <ul style="text-align: left; list-style: none;">
+                        <li>✅ 10 Levels + 1 Boss Level</li>
+                        <li>✅ 5 Questions per level</li>
+                        <li>❤️ 3 Strikes per level (Reset on clear)</li>
+                        <li>🎯 Correct answer = 100 pts</li>
+                        <li>🏆 Perfect Clear (No misses) = 500 pts Bonus</li>
+                    </ul>
+                    <button id="rules-ready-btn">Ready for Challenge...</button>
+                </div>
+            </div>
+
             <!-- Start Screen -->
-            <div id="start-screen" class="overlay">
+            <div id="start-screen" class="overlay" style="display: none;">
                 <h2>Ready for a Science Adventure?</h2>
                 <p>Solve lab puzzles and become a Year 7 Science Hero!</p>
                 <p style="font-weight: bold; color: #f1c40f; margin-bottom: 20px;">Created by Alex Lam</p>
@@ -67,6 +93,12 @@
 
         <footer>
             <p>Learn from the best of others, be the best of yourself. - MSA Science Dept</p>
+            <div style="margin-top: 10px;">
+                <button onclick="window.game.setTheme('theme-contrast-yellow')" style="padding: 5px 10px; font-size: 0.8rem;">Yellow Mode</button>
+                <button onclick="window.game.setTheme('theme-contrast-blue')" style="padding: 5px 10px; font-size: 0.8rem;">Blue Mode</button>
+                <button onclick="window.game.setTheme('')" style="padding: 5px 10px; font-size: 0.8rem;">Reset</button>
+                <button id="rules-btn" style="padding: 5px 10px; font-size: 0.8rem;">How to Play</button>
+            </div>
         </footer>
     </div>
 

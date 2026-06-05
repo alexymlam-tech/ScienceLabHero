@@ -10,6 +10,7 @@ const FALLBACK_QUESTIONS = {
         { "q": "Respiration happens in which part?", "options": [{"text": "Mitochondria", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Ribosome", "correct": false}, {"text": "Membrane", "correct": false}] }
     ]}
 };
+const BONUS_POINTS = 200;
 for(let i=2; i<=11; i++) {
     if(!FALLBACK_QUESTIONS[i]) {
         FALLBACK_QUESTIONS[i] = {
@@ -58,12 +59,36 @@ class GameEngine {
             gameOverScreen: document.getElementById('game-over-screen'), leaderboardScreen: document.getElementById('leaderboard-screen'),
             finalScore: document.getElementById('final-score'), playerName: document.getElementById('player-name'),
             submitScoreBtn: document.getElementById('submit-score-btn'), leaderboardBody: document.getElementById('leaderboard-body'),
-            viewLeaderboardBtn: document.getElementById('view-leaderboard-btn')
+            viewLeaderboardBtn: document.getElementById('view-leaderboard-btn'),
+            briefingScreen: document.getElementById('briefing-screen'),
+            briefingContinueBtn: document.getElementById('briefing-continue-btn'),
+            rulesScreen: document.getElementById('rules-screen'),
+            rulesReadyBtn: document.getElementById('rules-ready-btn'),
+            rulesBtn: document.getElementById('rules-btn')
         };
         this.init();
     }
 
     async init() {
+        // Init flow
+        this.ui.startScreen.style.display = 'none';
+        this.ui.rulesScreen.style.display = 'none';
+        this.ui.briefingScreen.style.display = 'flex';
+
+        this.ui.briefingContinueBtn.addEventListener('click', () => {
+            this.ui.briefingScreen.style.display = 'none';
+            this.ui.rulesScreen.style.display = 'flex';
+        });
+
+        this.ui.rulesReadyBtn.addEventListener('click', () => {
+            this.ui.rulesScreen.style.display = 'none';
+            this.ui.startScreen.style.display = 'flex';
+        });
+
+        this.ui.rulesBtn.addEventListener('click', () => {
+            this.ui.rulesScreen.style.display = 'flex';
+        });
+
         if (this.ui.startBtn) { this.ui.startBtn.disabled = true; this.ui.startBtn.innerText = "Initializing..."; }
         try {
             const response = await fetch('questions.json?v=' + Date.now());
@@ -104,7 +129,9 @@ class GameEngine {
 
     startLevel(lv) {
         this.level = lv; this.lives = 3; this.qIndex = 0; this.levelPerfect = true;
+        console.log(`[DEBUG] Starting Level: ${lv}`);
         const data = this.db[lv];
+        console.log(`[DEBUG] Data for level ${lv}:`, data);
         if (!data) { this.showVictory(); return; }
         if (lv === 11) {
             const bossPool = [];
@@ -142,10 +169,18 @@ class GameEngine {
         buttons.forEach(b => b.disabled = true);
         if (opt.correct) {
             btn.classList.add('correct-ans'); this.audio.playSFX('success');
-            this.score += (this.level === 11 ? 500 : 100); this.updateUI();
+            const pts = (this.level === 11 ? 500 : 100);
+            this.score += pts;
+            this.showToast(`+${pts} Points`, "success");
+            this.updateUI();
             setTimeout(() => {
                 this.qIndex++;
                 if (this.qIndex >= this.currentQuestions.length) {
+                    if (this.levelPerfect) {
+                        this.score += BONUS_POINTS;
+                        this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success");
+                        this.updateUI();
+                    }
                     if (this.level >= 11) { this.showVictory(); }
                     else { this.showToast(`Level ${this.level} Passed!`, "success"); this.startLevel(this.level + 1); }
                 } else { this.renderQuestion(); }
@@ -167,6 +202,11 @@ class GameEngine {
         if (this.ui.level) this.ui.level.innerText = (this.level === 11 ? "BOSS" : this.level);
         if (this.ui.score) this.ui.score.innerText = this.score;
         if (this.ui.lives) this.ui.lives.innerText = "❤️".repeat(this.lives);
+    }
+
+    setTheme(themeClass) {
+        document.body.className = themeClass;
+        this.showToast(`Mode: ${themeClass || 'Default'}`, "info");
     }
 
     triggerGameOver() {

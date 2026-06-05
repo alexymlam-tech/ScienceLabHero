@@ -195,6 +195,59 @@ footer {
     text-align: center;
 }
 
+/* Rules Screen Animation */
+#rules-screen {
+    z-index: 25;
+    background: #000;
+    justify-content: center;
+    align-items: center;
+    animation: slideUp 0.8s ease-out forwards;
+}
+
+.briefing-content {
+    font-family: 'Courier New', Courier, monospace;
+    color: #f1c40f;
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 1.8;
+    text-align: center;
+    max-width: 90%;
+}
+
+#briefing-continue-btn, #rules-ready-btn {
+    margin-top: 30px;
+    background: transparent;
+    color: #f1c40f;
+    border: 2px solid #f1c40f;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.3s;
+    animation: blink 1.5s infinite;
+}
+
+#briefing-continue-btn:hover, #rules-ready-btn:hover {
+    background: #f1c40f;
+    color: #000;
+    animation: none;
+}
+
+@keyframes slideUp {
+    from { transform: translateY(100vh); }
+    to { transform: translateY(0); }
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
 /* Toast Notification Styling */
 .toast {
     position: fixed;
