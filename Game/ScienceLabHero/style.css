@@ -10,7 +10,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #222;
+    background-color: var(--primary);
     color: var(--light);
     display: flex;
     justify-content: center;
@@ -189,10 +189,66 @@ footer {
     letter-spacing: 2px;
 }
 
-.question-text {
-    margin: 15px 0;
-    line-height: 1.4;
+#hint-display {
+    padding: 10px;
+    border: 1px dashed #f1c40f;
+    border-radius: 5px;
+    background: rgba(241, 196, 15, 0.1);
+    margin-top: 15px;
+    display: none; /* Initially hidden */
+}
+
+/* Rules Screen Animation */
+#rules-screen {
+    z-index: 25;
+    background: #000;
+    justify-content: center;
+    align-items: center;
+    animation: slideUp 0.8s ease-out forwards;
+}
+
+.briefing-content {
+    font-family: 'Courier New', Courier, monospace;
+    color: #f1c40f;
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 1.8;
     text-align: center;
+    max-width: 90%;
+}
+
+#briefing-continue-btn, #start-game-btn {
+    margin-top: 30px;
+    background: transparent;
+    color: #f1c40f;
+    border: 2px solid #f1c40f;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.3s;
+    animation: blink 1.5s infinite;
+}
+
+#briefing-continue-btn:hover, #start-game-btn:hover {
+    background: #f1c40f;
+    color: #000;
+    animation: none;
+}
+
+@keyframes slideUp {
+    from { transform: translateY(100vh); }
+    to { transform: translateY(0); }
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
 }
 
 /* Toast Notification Styling */
@@ -233,5 +289,28 @@ footer {
 @keyframes slideDown {
     from { transform: translate(-50%, -100%); opacity: 0; }
     to { transform: translate(-50%, 0); opacity: 1; }
+}
+
+/* Accessibility Themes */
+.theme-default { --primary: #2c3e50; --secondary: #3498db; --light: #ecf0f1; }
+.theme-contrast-yellow { --primary: #000; --secondary: #f1c40f; --light: #fff; }
+.theme-contrast-blue { --primary: #00008b; --secondary: #87ceeb; --light: #fff; }
+
+/* Footer Button Styling */
+.footer-btn {
+    padding: 3px 8px;
+    font-size: 0.7rem;
+    background: transparent;
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+    cursor: pointer;
+    margin: 0 3px;
+    border-radius: 3px;
+    transition: all 0.2s;
+}
+
+.footer-btn:hover {
+    background: var(--secondary);
+    color: #fff;
 }
 

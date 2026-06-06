@@ -10,6 +10,7 @@ const FALLBACK_QUESTIONS = {
         { "q": "Respiration happens in which part?", "options": [{"text": "Mitochondria", "correct": true}, {"text": "Nucleus", "correct": false}, {"text": "Ribosome", "correct": false}, {"text": "Membrane", "correct": false}] }
     ]}
 };
+const BONUS_POINTS = 200;
 for(let i=2; i<=11; i++) {
     if(!FALLBACK_QUESTIONS[i]) {
         FALLBACK_QUESTIONS[i] = {
@@ -54,17 +55,47 @@ class GameEngine {
         this.ui = {
             level: document.getElementById('level-display'), score: document.getElementById('score-display'),
             lives: document.getElementById('lives-display'), content: document.getElementById('game-content'),
-            startBtn: document.getElementById('start-btn'), startScreen: document.getElementById('start-screen'),
             gameOverScreen: document.getElementById('game-over-screen'), leaderboardScreen: document.getElementById('leaderboard-screen'),
             finalScore: document.getElementById('final-score'), playerName: document.getElementById('player-name'),
             submitScoreBtn: document.getElementById('submit-score-btn'), leaderboardBody: document.getElementById('leaderboard-body'),
-            viewLeaderboardBtn: document.getElementById('view-leaderboard-btn')
+            viewLeaderboardBtn: document.getElementById('view-leaderboard-btn'),
+            briefingScreen: document.getElementById('briefing-screen'),
+            briefingContinueBtn: document.getElementById('briefing-continue-btn'),
+            rulesScreen: document.getElementById('rules-screen'),
+            rulesReadyBtn: document.getElementById('start-game-btn'),
+            rulesBtn: document.getElementById('rules-btn'),
+            gameOverTitle: document.getElementById('game-over-title')
         };
+        this.activeToasts = []; // Initialize activeToasts array
         this.init();
     }
 
     async init() {
-        if (this.ui.startBtn) { this.ui.startBtn.disabled = true; this.ui.startBtn.innerText = "Initializing..."; }
+        // Init flow
+        this.ui.briefingScreen.style.display = 'flex';
+        this.ui.rulesScreen.style.display = 'none';
+
+        this.ui.briefingContinueBtn.addEventListener('click', () => {
+            this.ui.briefingScreen.style.display = 'none';
+            this.ui.rulesScreen.style.display = 'flex';
+        });
+
+        this.ui.rulesReadyBtn.addEventListener('click', () => {
+            this.ui.rulesScreen.style.display = 'none';
+            this.audio.initCtx();
+            this.startLevel(1);
+        });
+
+        this.ui.rulesBtn.addEventListener('click', () => {
+            this.ui.rulesScreen.style.display = 'flex';
+        });
+
+        if (this.ui.viewLeaderboardBtn) {
+            this.ui.viewLeaderboardBtn.addEventListener('click', () => this.showLeaderboard());
+        }
+        if (this.ui.submitScoreBtn) {
+            this.ui.submitScoreBtn.addEventListener('click', () => this.saveScore());
+        }
         try {
             const response = await fetch('questions.json?v=' + Date.now());
             if (!response.ok) throw new Error("CORS/Network");
@@ -94,17 +125,53 @@ class GameEngine {
         return d.toLocaleDateString('en-GB') + "; " + d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
     }
 
-    showToast(message, type = "info") {
-        const toast = document.createElement('div'); toast.className = `toast ${type}`; toast.innerText = message;
+    showToast(message, type = "info", pos = "top") {
+        const toast = document.createElement('div');
+        const toastId = 'toast-' + Date.now(); // Unique ID for each toast
+        toast.id = toastId;
+        toast.className = `toast ${type} ${pos}`;
+        toast.innerText = message;
+
+        // Calculate dynamic top position
+        let currentOffset = 0;
+        // Filter out toasts that are fading out or already removed
+        this.activeToasts = this.activeToasts.filter(t => document.getElementById(t.id));
+
+        for (const activeToast of this.activeToasts) {
+            currentOffset += activeToast.offsetHeight + 10; // Add height + margin
+        }
+        toast.style.top = `${50 + currentOffset}px`; // Start from base 50px
+
         document.body.appendChild(toast);
-        setTimeout(() => { toast.classList.add('fade-out'); setTimeout(() => toast.remove(), 500); }, 3000);
+        this.activeToasts.push(toast);
+
+        setTimeout(() => {
+            toast.classList.add('fade-out');
+            setTimeout(() => {
+                toast.remove();
+                // Remove from activeToasts after full removal from DOM
+                this.activeToasts = this.activeToasts.filter(t => t.id !== toastId);
+                // Re-calculate positions of remaining toasts to fill gaps
+                this.repositionToasts();
+            }, 500); // Wait for fade-out transition
+        }, 3000); // Toast display duration
+    }
+
+    repositionToasts() {
+        let currentOffset = 0;
+        this.activeToasts.forEach(toast => {
+            toast.style.top = `${50 + currentOffset}px`;
+            currentOffset += toast.offsetHeight + 10;
+        });
     }
 
     shuffle(array) { return [...array].sort(() => Math.random() - 0.5); }
 
     startLevel(lv) {
         this.level = lv; this.lives = 3; this.qIndex = 0; this.levelPerfect = true;
+        console.log(`[DEBUG] Starting Level: ${lv}`);
         const data = this.db[lv];
+        console.log(`[DEBUG] Data for level ${lv}:`, data);
         if (!data) { this.showVictory(); return; }
         if (lv === 11) {
             const bossPool = [];
@@ -142,20 +209,41 @@ class GameEngine {
         buttons.forEach(b => b.disabled = true);
         if (opt.correct) {
             btn.classList.add('correct-ans'); this.audio.playSFX('success');
-            this.score += (this.level === 11 ? 500 : 100); this.updateUI();
+            const pts = (this.level === 11 ? 500 : 100);
+            this.score += pts;
+            this.showToast(`+${pts} Points`, "success", "50px");
+            this.updateUI();
             setTimeout(() => {
                 this.qIndex++;
                 if (this.qIndex >= this.currentQuestions.length) {
+                    console.log(`[DEBUG] Level finished. Perfect: ${this.levelPerfect}`);
+                    if (this.levelPerfect) {
+                        this.score += BONUS_POINTS;
+                        this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success", "150px");
+                        this.updateUI();
+                    }
                     if (this.level >= 11) { this.showVictory(); }
                     else { this.showToast(`Level ${this.level} Passed!`, "success"); this.startLevel(this.level + 1); }
                 } else { this.renderQuestion(); }
             }, 800);
         } else {
             btn.classList.add('wrong-ans'); this.audio.playSFX('fail');
-            this.lives--; this.levelPerfect = false; this.updateUI();
+            this.lives--;
+            this.levelPerfect = false;
+            console.log(`[DEBUG] Incorrect answer. LevelPerfect set to false.`);
+            this.updateUI();
+
+            const currentQ = this.currentQuestions[this.qIndex];
+            if (currentQ.hint) {
+                console.log(`[DEBUG] Hint triggered: ${currentQ.hint}`);
+                this.showToast("💡 Hint: " + currentQ.hint, "info");
+            } else {
+                console.warn(`[DEBUG] No hint found for question: ${currentQ.q}`);
+            }
+
             if (this.lives <= 0) {
                 this.showToast("💔 CRITICAL FAILURE!", "fail");
-                setTimeout(() => this.triggerGameOver(), 1000);
+                setTimeout(() => this.triggerGameOver(false), 1000);
             } else {
                 this.showToast(`Incorrect! ${this.lives} left.`, "fail");
                 setTimeout(() => { buttons.forEach(b => b.disabled = false); btn.classList.remove('wrong-ans'); }, 800);
@@ -169,8 +257,23 @@ class GameEngine {
         if (this.ui.lives) this.ui.lives.innerText = "❤️".repeat(this.lives);
     }
 
-    triggerGameOver() {
-        this.ui.startScreen.style.display = 'none'; this.ui.content.innerHTML = '';
+    setTheme(themeClass) {
+        console.log("[DEBUG] Theme change requested:", themeClass);
+        document.body.className = themeClass;
+        console.log("[DEBUG] Current body class:", document.body.className);
+        this.showToast(`Mode: ${themeClass || 'Default'}`, "info");
+    }
+
+    triggerGameOver(isVictory = false) {
+        this.ui.briefingScreen.style.display = 'none';
+        this.ui.rulesScreen.style.display = 'none';
+        this.ui.content.innerHTML = '';
+
+        if (this.ui.gameOverTitle) {
+            this.ui.gameOverTitle.innerText = isVictory ? '🏆 LABS CLEARED!' : '💔 LAB EXPERIMENT FAILED!';
+            this.ui.gameOverTitle.style.color = isVictory ? 'var(--gold)' : 'var(--accent)';
+        }
+
         this.ui.gameOverScreen.style.display = 'flex';
         this.ui.finalScore.innerText = this.score;
     }
@@ -206,7 +309,7 @@ class GameEngine {
     }
 
     async showLeaderboard() {
-        this.ui.startScreen.style.display = 'none';
+        this.ui.rulesScreen.style.display = 'none';
         this.ui.gameOverScreen.style.display = 'none';
         this.ui.leaderboardScreen.style.display = 'flex';
         this.ui.leaderboardBody.innerHTML = '<tr><td colspan="5">Loading...</td></tr>';
@@ -259,7 +362,7 @@ class GameEngine {
 
     showVictory() {
         this.showToast("🏆 ALL LABS CLEARED!", "success");
-        setTimeout(() => this.triggerGameOver(), 1000);
+        setTimeout(() => this.triggerGameOver(true), 1000);
     }
 }
 
