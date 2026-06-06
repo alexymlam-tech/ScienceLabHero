@@ -102,11 +102,5 @@
             { "q": "An example of environmental variation is:", "options": [{"text": "Having a scar", "correct": true}, {"text": "Eye colour", "correct": false}, {"text": "Blood group", "correct": false}, {"text": "Natural hair colour", "correct": false}] },
             { "q": "The structure of DNA is often described as a:", "options": [{"text": "Double Helix", "correct": true}, {"text": "Single Circle", "correct": false}, {"text": "Triple Ladder", "correct": false}, {"text": "Flat Square", "correct": false}] }
         ]
-    },
-    "11": {
-        "title": "👹 BOSS LEVEL: Final Challenge",
-        "questions": [
-            { "q": "Prepare for the ultimate challenge!", "options": [{"text": "Continue", "correct": true}] }
-        ]
     }
 }

@@ -65,6 +65,7 @@ class GameEngine {
             rulesReadyBtn: document.getElementById('start-game-btn'),
             rulesBtn: document.getElementById('rules-btn')
         };
+        this.activeToasts = []; // Initialize activeToasts array
         this.init();
     }
 
@@ -123,12 +124,44 @@ class GameEngine {
         return d.toLocaleDateString('en-GB') + "; " + d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
     }
 
-    showToast(message, type = "info", topPos = "50px") {
-        const toast = document.createElement('div'); toast.className = `toast ${type}`;
-        toast.style.top = topPos; // 動態設定位置
+    showToast(message, type = "info", pos = "top") {
+        const toast = document.createElement('div');
+        const toastId = 'toast-' + Date.now(); // Unique ID for each toast
+        toast.id = toastId;
+        toast.className = `toast ${type} ${pos}`;
         toast.innerText = message;
+
+        // Calculate dynamic top position
+        let currentOffset = 0;
+        // Filter out toasts that are fading out or already removed
+        this.activeToasts = this.activeToasts.filter(t => document.getElementById(t.id));
+
+        for (const activeToast of this.activeToasts) {
+            currentOffset += activeToast.offsetHeight + 10; // Add height + margin
+        }
+        toast.style.top = `${50 + currentOffset}px`; // Start from base 50px
+
         document.body.appendChild(toast);
-        setTimeout(() => { toast.classList.add('fade-out'); setTimeout(() => toast.remove(), 500); }, 3000);
+        this.activeToasts.push(toast);
+
+        setTimeout(() => {
+            toast.classList.add('fade-out');
+            setTimeout(() => {
+                toast.remove();
+                // Remove from activeToasts after full removal from DOM
+                this.activeToasts = this.activeToasts.filter(t => t.id !== toastId);
+                // Re-calculate positions of remaining toasts to fill gaps
+                this.repositionToasts();
+            }, 500); // Wait for fade-out transition
+        }, 3000); // Toast display duration
+    }
+
+    repositionToasts() {
+        let currentOffset = 0;
+        this.activeToasts.forEach(toast => {
+            toast.style.top = `${50 + currentOffset}px`;
+            currentOffset += toast.offsetHeight + 10;
+        });
     }
 
     shuffle(array) { return [...array].sort(() => Math.random() - 0.5); }
@@ -231,7 +264,9 @@ class GameEngine {
     }
 
     triggerGameOver() {
-        this.ui.startScreen.style.display = 'none'; this.ui.content.innerHTML = '';
+        this.ui.briefingScreen.style.display = 'none';
+        this.ui.rulesScreen.style.display = 'none';
+        this.ui.content.innerHTML = '';
         this.ui.gameOverScreen.style.display = 'flex';
         this.ui.finalScore.innerText = this.score;
     }
