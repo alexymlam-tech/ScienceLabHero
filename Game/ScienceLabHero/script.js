@@ -222,7 +222,7 @@ class GameEngine {
                         this.showToast(`Perfect Clear! +${BONUS_POINTS} Bonus`, "success", "150px");
                         this.updateUI();
                     }
-                    if (this.level >= 11) { this.showVictory(); }
+                    if (this.level >= 11) { console.log(`[DEBUG] handleAnswer: Calling showVictory() for level ${this.level}`); this.showVictory(); }
                     else { this.showToast(`Level ${this.level} Passed!`, "success"); this.startLevel(this.level + 1); }
                 } else { this.renderQuestion(); }
             }, 800);
@@ -243,6 +243,7 @@ class GameEngine {
 
             if (this.lives <= 0) {
                 this.showToast("💔 CRITICAL FAILURE!", "fail");
+                console.log("[DEBUG] handleAnswer: Lives <= 0. Calling triggerGameOver(false).");
                 setTimeout(() => this.triggerGameOver(false), 1000);
             } else {
                 this.showToast(`Incorrect! ${this.lives} left.`, "fail");
@@ -265,6 +266,7 @@ class GameEngine {
     }
 
     triggerGameOver(isVictory = false) {
+        console.log(`[DEBUG] triggerGameOver() called with isVictory: ${isVictory}`);
         this.ui.briefingScreen.style.display = 'none';
         this.ui.rulesScreen.style.display = 'none';
         this.ui.content.innerHTML = '';
@@ -272,6 +274,7 @@ class GameEngine {
         if (this.ui.gameOverTitle) {
             this.ui.gameOverTitle.innerText = isVictory ? '🏆 LABS CLEARED!' : '💔 LAB EXPERIMENT FAILED!';
             this.ui.gameOverTitle.style.color = isVictory ? 'var(--gold)' : 'var(--accent)';
+            console.log(`[DEBUG] gameOverTitle set to: ${this.ui.gameOverTitle.innerText}, Color: ${this.ui.gameOverTitle.style.color}`);
         }
 
         this.ui.gameOverScreen.style.display = 'flex';
@@ -361,6 +364,7 @@ class GameEngine {
     }
 
     showVictory() {
+        console.log("[DEBUG] showVictory() called.");
         this.showToast("🏆 ALL LABS CLEARED!", "success");
         setTimeout(() => this.triggerGameOver(true), 1000);
     }
