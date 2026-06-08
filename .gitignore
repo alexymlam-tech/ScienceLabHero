@@ -1,34 +1,37 @@
-# Sensitive Files
+# 敏感文件
 .env
 .env.local
-.claude/
 *.json.txt
-.claude.json.txt
 
-# Claude Code Files
+# Claude Code 相關文件
+.claude/
 CLAUDE.md
 memory/
 
-# Temp/Draft Files
-*bak*
-*bak*.*
-"You are helping me import context f.txt"
+# 臨時文件 / 草稿文件 / 輸出文件
+*.bak*
+*.bak*.*
 Briefing_Report_*.md
 after_click.png
 after_search.png
 briefing_error.png
+*.log
+downloads/
+data/downloads/
+user_data/
+data/user_data/
+__pycache__/
+node_modules/
+Game/PascalRescue_DevLog_20260524.md # 舊的 dev log，確認已刪除或忽略
+Game/ScienceLabHero_DevLog_20260601.md # 舊的 dev log，確認已刪除或忽略
+temp/
 
-# Configuration Overrides
+# OS 文件
+Thumbs.db
+.DS_Store
+
+# LiteLLM Configuration (僅供參考，實際配置應在 config/ 內且可能被 .env 引用)
 *litellm_config.yaml*
 !litellm_config.yaml
 litellm_settings.yaml
 google_litellm_config.yaml
-
-# OS Files
-Thumbs.db
-.DS_Store
-
-# Temporary / Log files
-*.log
-data/outputs/
-data/output.md

@@ -1,0 +1,162 @@
+5.4.2.2(AO1)
+01.1{TAB}A base (1){TAB_RIGHT}(1)
+
+5.2.1.3/5.2.2.3(AO1)
+01.2{TAB}forces (1){TAB_RIGHT}(1)
+
+5.1.1.7/5.2.1.2(AO1/AO2)
+01.3{TAB}calcium loses electrons and oxygen gains electrons (1)
+{TAB}{TAB}{TAB}two electrons are transferred (1)
+{TAB}{TAB}{TAB}calcium has a 2+ charge (1)
+{TAB}{TAB}{TAB}oxide has a 2– charge (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 3 for incorrect reference to atom/ion or to oxygen / oxide{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.3.1.1(AO2)
+02.1{TAB}408 kg (1){TAB_RIGHT}(1)
+
+5.3.2.5(AO2)
+02.2{TAB}all points correct (2)
+{TAB}{TAB}{TAB}best fit line (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark if 5 points correct{TAB_RIGHT}(3)
+
+5.3.2.5(AO2)
+02.3{TAB}calculation: 1989 / 5525 × 100 (1)
+{TAB}{TAB}{TAB}answer: = 36 (%) (1){TAB_RIGHT}(2)
+
+5.3.1.2(AO2)
+02.4{TAB}calculation: relative formula mass of TiCl4 is 190 (1)
+{TAB}{TAB}{TAB}intermediate: 25.26 % (1)
+{TAB}{TAB}{TAB}answer: = 25.3 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer given to 3 significant figures
+{TAB}{TAB}{TAB}-{TAB}25.23 % with or without working gains 3 marks{TAB_RIGHT}(3)
+
+5.1.2.4/5.1.2.5/5.4.1.1(AO3)
+02.5{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}argon is unreactive
+{TAB}{TAB}{TAB}•{TAB}water (vapour) would react with sodium
+{TAB}{TAB}{TAB}•{TAB}air contains oxygen that would react with reactants
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow water (vapour) would react with titanium(IV) chloride
+{TAB}{TAB}{TAB}-{TAB}allow air contains oxygen that would react with products{TAB_RIGHT}(3)
+
+5.2.1.5/5.2.2.8(AO1)
+02.6{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}(titanium conducts electricity) because electrons in the outer shell of the metal atoms are delocalised
+{TAB}{TAB}{TAB}•{TAB}electrons are free to move
+{TAB}{TAB}{TAB}•{TAB}through the whole structure
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the delocalised electrons in the metal carry electrical charge through the metal{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 15 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.5(AO1)
+03.1{TAB}1 × 10–10 m (1){TAB_RIGHT}(1)
+
+5.1.1.5/5.1.2.1/5.1.2.5(AO3)
+03.2{TAB}1 / one (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow alkali metals{TAB_RIGHT}(1)
+
+5.1.1.5(AO3/AO2)
+03.3{TAB}R and S (1)
+{TAB}{TAB}{TAB}because they have the same number of protons (1)
+{TAB}{TAB}{TAB}and a different numbers of neutrons (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow same atomic number, different mass number{TAB_RIGHT}(3)
+
+5.1.2.3/5.1.2.6(AO2/AO1)
+03.4{TAB}Level 3: A relevant and coherent explanation of the trend in reactivity. (5-6)
+{TAB}{TAB}{TAB}Level 2: Linked statements to provide a simple explanation using either energy levels or distance. (3-4)
+{TAB}{TAB}{TAB}Level 1: Simple statements made about the halogens or the trend in reactivity. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Simple statements: • have 7 electrons in outer shell; • need to gain an electron; • form ions with a -1 charge; • halogens further down the group are less reactive; • halogens further down the group have more shells or energy levels
+{TAB}{TAB}{TAB}-{TAB}Linked statements: • have 7 electrons in outer shell so need to gain an electron to have the electronic structure of a noble gas; • halogens further down the group are less reactive because they have more shells or energy levels; • halogens further down the group have more shells or energy levels so less attractive force on the incoming electron; • halogens further down the group have more shells or energy levels so more ‘shielding’ against the incoming electron; • outer electrons of halogens further down group are further away from the attractive force of the nucleus; • an electron is less easily gained because there are more shells or outer electrons are further from nucleus{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.4.3.1/5.4.3.4(AO1)
+04.1{TAB}electrodes connected to d.c. power supply by wires (1)
+{TAB}{TAB}{TAB}electrodes labelled anode (+) and cathode (−) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}for this diagram ignore the material used for the electrodes as long as they are made from carbon or metals that are inert{TAB_RIGHT}(2)
+
+5.4.3.1/5.4.3.4/5.10.1.4(AO1/AO2)
+04.2{TAB}copper ions cause the blue colour (1)
+{TAB}{TAB}{TAB}copper ions are reduced/converted to copper atoms (1)
+{TAB}{TAB}{TAB}so the concentration of copper ions decreased (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer must be in terms on copper ions
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for copper ions are used up during electrolysis{TAB_RIGHT}(3)
+
+5.4.3.1/5.4.3.4(AO1/AO2)
+04.3{TAB}copper ions are positive (1)
+{TAB}{TAB}{TAB}so are attracted to the inert cathode or inert negative electrode (1)
+{TAB}{TAB}{TAB}copper ions gain electrons at the inert cathode or inert negative electrode (1)
+{TAB}{TAB}{TAB}so they are reduced to form copper atoms (1){TAB_RIGHT}(4)
+
+5.3.2.1/2/3/5(AO2)
+04.4{TAB}measurement: 50 cm3 contains 4 g CuSO4 (1)
+{TAB}{TAB}{TAB}calculation: Mr CuSO4 = 159.5 (1)
+{TAB}{TAB}{TAB}calculation: 4 g CuSO4 reacts with 4 / 159.5 × 56 g Fe (1)
+{TAB}{TAB}{TAB}answer: = 1.4 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}accept 1.4(g) with no working shown for 4 marks
+{TAB}{TAB}{TAB}-{TAB}allow 1.40(43887) without working shown for 3 marks{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.4(AO1)
+05.1{TAB}bonded pair of electrons and 6 non-bonded electrons on chlorine (1){TAB_RIGHT}(1)
+
+5.4.2.1/2/4/5(AO3/AO2/AO1)
+05.2{TAB}Level 3: A detailed and coherent explanation of comparative results of a reaction in terms of concentration and ionisation. (5-6)
+{TAB}{TAB}{TAB}Level 2: A description of a reaction with results is given but may miss some details. (3-4)
+{TAB}{TAB}{TAB}Level 1: Simple statements are made. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Simple statements/descriptions: • correct comparative pH, such as, 0–3 (strong) 4–6 (weak); • named reaction, such as, with a reactive metal or a named carbonate; • comparative results or observations of the named reaction, such as, faster reaction (strong) or greater volume of gas produced in a given time (strong)
+{TAB}{TAB}{TAB}-{TAB}Explanations of different results: • weak acids are only partially ionised in aqueous solution; • strong acids are completely ionised in aqueous solution/ greater concentration of H+ ions; • aqueous solutions of acids at the same concentration/ same state of division of metal / powder, same temperature{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 7 marks{BOLD}{ALIGN RIGHT}
+
+5.5.1.2(AO1)
+06.1{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}the relative energies of the reactants, products and the overall energy change
+{TAB}{TAB}{TAB}•{TAB}the activation energy{TAB_RIGHT}(2)
+
+5.5.1.3(AO2)
+06.2{TAB}calculation: (4 × 413) + (2 × 498) = 2 648 (1)
+{TAB}{TAB}{TAB}calculation: (2 × 805) + (4 × 464) = 3 466 (1)
+{TAB}{TAB}{TAB}answer: (3466 – 2648 =) 818 (kJ/mol) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow max 2 marks for one ecf{TAB_RIGHT}(3)
+
+5.4.1.2/5.4.2.1/5.5.1.1(AO1/AO2)
+06.3{TAB}Level 3: A coherent method is described with relevant detail, which demonstrates a broad understanding of scientific techniques. (5-6)
+{TAB}{TAB}{TAB}Level 2: The bulk of a method is described with mostly relevant detail. (3-4)
+{TAB}{TAB}{TAB}Level 1: Simple statements are made which demonstrate some understanding. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Named apparatus: • thermometer; • measuring cylinder; • stirring rod; • spatula; • plastic cup (with lid) or beaker; • stopwatch; • filter paper or watch glass; • balance
+{TAB}{TAB}{TAB}-{TAB}Method: • weigh the same mass of each metal in each same state of division eg powder; • measure a set volume of sulfuric acid into a plastic cup or beaker; • measure and record the temperature of the sulfuric acid; • add metal W into the plastic cup or beaker; • stir and record the highest temperature or record the temperature after a set time; • calculate the increase in temperature; • repeat the method for metals X, Y and Z; • repeat for each metal at least three times to calculate a mean
+{TAB}{TAB}{TAB}-{TAB}Safe use: • comment on safe use should include wearing safety glasses{TAB_RIGHT}(6)
+
+5.4.1.2(AO3)
+06.4{TAB}order: W > Y > X > Z (1)
+{TAB}{TAB}{TAB}reason: W reacts with most solutions whereas Z reacts with none of the solutions (1)
+{TAB}{TAB}{TAB}reason: Y is more reactive than X because Y reacts more with sulfuric acid (1){TAB_RIGHT}(3)
+
+5.4.1.2/5.4.2.1(AO3)
+06.5{TAB}magnesium is most reactive because not displaced by any metal (1)
+{TAB}{TAB}{TAB}zinc is second most reactive because displaced by only one metal (1)
+{TAB}{TAB}{TAB}copper and hydrogen cannot be placed in order or are least reactive because they both are displaced by the most/three metals (2)
+{TAB}{TAB}{TAB}experiment: add sulfuric acid to copper because copper is less reactive than hydrogen then copper would not react with sulfuric acid to displace hydrogen (1){TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 18 marks{BOLD}{ALIGN RIGHT}

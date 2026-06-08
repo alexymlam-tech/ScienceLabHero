@@ -1,0 +1,340 @@
+()
+01.1 230 V 1 AO1/1{TAB}6.2.3.1{TAB_RIGHT}(1)
+
+(AO1/1)
+01.2 Earth{TAB}Neutral
+{TAB}{TAB}{TAB}must be in the correct order 1
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+
+()
+01.3 It is easy to identify each wire. 1 AO3/1a{TAB}6.2.3.2{TAB_RIGHT}(1)
+
+(AO1/1)
+01.4 current{TAB}shock
+{TAB}{TAB}{TAB}must be in the correct order 1
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+
+()
+01.5 50 Hz 1 AO1/1{TAB}6.2.3.1{TAB_RIGHT}(1)
+
+(AO2/1)
+01.6 output = 25 x 16{TAB}400 (kV) (1)
+{TAB}{TAB}{TAB}shown for 2 marks
+{TAB}{TAB}{TAB}6.2.4.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 400 (kV) with no working
+
+()
+01.7 It reduces the energy lost due to{TAB}heating
+{TAB}{TAB}{TAB}1 AO2/1
+{TAB}{TAB}{TAB}6.2.4.3{TAB_RIGHT}(1)
+
+()
+01.8 It is safer for consumers 1 AO2/1{TAB}6.2.4.3
+{TAB}{TAB}{TAB}Total 11
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}7 of 13
+{TAB}{TAB}{TAB}Question 2
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+()
+02.1 The nucleus will emit a neutron. 1 AO1/1{TAB}6.4.2.1{TAB_RIGHT}(1)
+
+(AO1/1)
+02.2 Similarity{TAB}same mass number (1)
+{TAB}{TAB}{TAB}difference
+{TAB}{TAB}{TAB}different atomic number
+{TAB}{TAB}{TAB}(protons + neutrons)
+{TAB}{TAB}{TAB}protons
+{TAB}{TAB}{TAB}6.4.2.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow same number of nucleons
+{TAB}{TAB}{TAB}-{TAB}allow different number of
+
+()
+02.3{TAB}Radioactive decay is random.
+{TAB}{TAB}{TAB}1 AO1/1
+{TAB}{TAB}{TAB}6.4.2.3{TAB_RIGHT}(1)
+
+()
+02.4 1.3 (billion years) allow 1.2-1.4 (billion years){TAB}drawn from ~ 550
+{TAB}{TAB}{TAB}2 AO2/1
+{TAB}{TAB}{TAB}6.4.2.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for horizontal line
+
+()
+02.5 alpha 1 AO1/1{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Total 7
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}8 of 13
+{TAB}{TAB}{TAB}Question 3
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 0 marks{BOLD}{ALIGN RIGHT}
+
+()
+03.1 1 x 10-10 m 1 AO1/1{TAB}6.4.1.1{TAB_RIGHT}(1)
+
+()
+03.2 (a helium atom) has 2 electrons accept it has more mass{TAB}1 AO2/1
+{TAB}{TAB}{TAB}6.4.1.1{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow it is not charged
+
+()
+03.3 2 1 AO2/1{TAB}6.4.1.2{TAB_RIGHT}(1)
+
+(AO2/1)
+03.4 neutral{TAB}(because) protons have positive (1)
+{TAB}{TAB}{TAB}charge and electrons have
+{TAB}{TAB}{TAB}negative charge
+{TAB}{TAB}{TAB}(and) there are equal numbers
+{TAB}{TAB}{TAB}of protons and electrons
+{TAB}{TAB}{TAB}accept 0 or ‘no charge’
+{TAB}{TAB}{TAB}6.4.1.2{TAB_RIGHT}(1)
+
+(AO3/1b)
+03.5 helium will one day run out{TAB}there will be none left for (1)
+{TAB}{TAB}{TAB}medical uses so balloons waste
+{TAB}{TAB}{TAB}helium
+{TAB}{TAB}{TAB}6.4.1.2
+{TAB}{TAB}{TAB}Total 8
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}9 of 13
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1/2)
+04.1 thermometer{TAB}stopclock/stopwatch (1)
+{TAB}{TAB}{TAB}accept measuring cylinder
+{TAB}{TAB}{TAB}accept top pan balance
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}WS2.3{TAB_RIGHT}(1)
+
+(AO1/2)
+04.2 independent: type of oil{TAB}dependent: temperature rise in (1)
+{TAB}{TAB}{TAB}°C
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}WS2.4{TAB_RIGHT}(1)
+
+(AO1/2)
+04.3 wear safety goggles{TAB}oil not heated directly (1)
+{TAB}{TAB}{TAB}accept any reasonable comment
+{TAB}{TAB}{TAB}about not handling hot
+{TAB}{TAB}{TAB}apparatus.
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}WS2.4{TAB_RIGHT}(1)
+
+(AO3/3b)
+04.4 repeat the experiment{TAB}and calculate the mean (1)
+{TAB}{TAB}{TAB}temperature rise
+{TAB}{TAB}or{TAB}heat the oil for a longer period of
+{TAB}{TAB}{TAB}time (1)
+{TAB}{TAB}{TAB}to get a wider range of
+{TAB}{TAB}{TAB}temperatures (1)
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}WS2.7{TAB_RIGHT}(1)
+
+(AO3/1a)
+04.5 (17 + 17 + 18) / 3 (= 17.33){TAB}temperature rise = 17 (°C) (1)
+{TAB}{TAB}{TAB}accept 17 (°C) with no working
+{TAB}{TAB}{TAB}shown for 2 marks
+{TAB}{TAB}{TAB}shown for 1 mark
+{TAB}{TAB}{TAB}6.1.1.4{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 17.33 with no working
+
+(AO1/1/AO2/1)
+04.6 E = 0.025 x 1800 x 20 (J){TAB}E = 900 (J) (1)
+{TAB}{TAB}{TAB}Joule
+{TAB}{TAB}{TAB}shown for the 2 calculation
+{TAB}{TAB}{TAB}marks
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}Total 13
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}10 of 13
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO / Spec.
+{TAB}{TAB}{TAB}Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 900 without working
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 0 marks{BOLD}{ALIGN RIGHT}
+
+()
+05.1 Level 3: A clear, logical explanation containing accurate{TAB}ideas presented in the correct order with links between (3-4)
+{TAB}{TAB}{TAB}ideas.
+{TAB}{TAB}{TAB}5–6 6 2 AO2/1
+{TAB}{TAB}{TAB}2 AO2/1
+{TAB}{TAB}{TAB}2 AO1/1
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}Level 2: Key ideas presented with some linked together to
+{TAB}{TAB}{TAB}form a partial explanation.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: Fragmented ideas, some may be relevant,
+{TAB}{TAB}{TAB}insufficient links to form an explanation.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content. 0
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB} current in the wire causes heating
+{TAB}{TAB}{TAB} increases temperature of the metal wires / ice
+{TAB}{TAB}{TAB}Solid
+{TAB}{TAB}{TAB} arrangement of particles is regular
+{TAB}{TAB}{TAB} particles vibrate about a fixed position
+{TAB}{TAB}{TAB}Melting
+{TAB}{TAB}{TAB} internal energy of the ice increases, increasing the
+{TAB}{TAB}{TAB}temperature to melting point
+{TAB}{TAB}{TAB} so (as the temperature increases) particles vibrate faster
+{TAB}{TAB}{TAB} eventually particles vibrate fast enough to break free from the
+{TAB}{TAB}{TAB}(strong) bonds
+{TAB}{TAB}{TAB} therefore the arrangement of particles becomes irregular
+{TAB}{TAB}{TAB}Liquid
+{TAB}{TAB}{TAB} arrangement of particles is irregular
+{TAB}{TAB}{TAB} particles movement (translational) is random
+{TAB_RIGHT}(?)
+
+(AO3/3a)
+05.2 The current in the heating{TAB}element (1)
+{TAB}{TAB}{TAB}The mass of ice
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+()
+05.3 latent heat of fusion 1 AO1/1{TAB}6.3.2.3{TAB_RIGHT}(1)
+
+(AO2/1)
+05.4 45 / 120 = 0.375{TAB}0.38 (1)
+{TAB}{TAB}{TAB}shown for 2 marks
+{TAB}{TAB}{TAB}shown for 1 mark
+{TAB}{TAB}{TAB}6.1.2.2
+{TAB}{TAB}{TAB}Total 11
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}11 of 13
+{TAB}{TAB}{TAB}Question 6
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 0.38 with no working
+{TAB}{TAB}{TAB}-{TAB}allow 0.375 with no working
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 0 marks{BOLD}{ALIGN RIGHT}
+
+()
+06.1 0.093 A{TAB}1 AO2/1
+{TAB}{TAB}{TAB}6.2.2{TAB_RIGHT}(1)
+
+()
+06.2 0.093 A 1 AO2/1{TAB}6.2.2{TAB_RIGHT}(1)
+
+(AO1/1)
+06.3 (increasing the resistance){TAB}decreases the current (1)
+{TAB}{TAB}{TAB}therefore (the lamp will be)
+{TAB}{TAB}{TAB}dimmer
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO1/1)
+06.4 potential difference = current ×{TAB}resistance
+{TAB}{TAB}{TAB}accept correct rearrangement
+{TAB}{TAB}{TAB}with R as subject
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO2/1)
+06.5 3.3 = 0.15 x R{TAB}R = 3.3 / 0.15 (Ω) (1)
+{TAB}{TAB}{TAB}R = 22 (Ω)
+{TAB}{TAB}{TAB}shown for 3 marks
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 22 (Ω) without working
+
+(AO1/1)
+06.6 line drawn from the origin with a{TAB}decreasing gradient.
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Total 9
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}12 of 13
+{TAB}{TAB}{TAB}Question 7
+{TAB}{TAB}{TAB}Question Answers Extra information Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1/1)
+07.1 the store of chemical energy (in{TAB}the battery) decreases (1)
+{TAB}{TAB}{TAB}the internal energy of the
+{TAB}{TAB}{TAB}surrounding air increases.
+{TAB}{TAB}{TAB}accept description of energy
+{TAB}{TAB}{TAB}becoming less usefully stored
+{TAB}{TAB}{TAB}for 2 marks
+{TAB}{TAB}{TAB}6.1.2.1{TAB_RIGHT}(1)
+
+()
+07.2 kinetic energy = ½ mass x{TAB}velocity2
+{TAB}{TAB}{TAB}1 AO1/1
+{TAB}{TAB}{TAB}6.1.1.2{TAB_RIGHT}(1)
+
+(AO2/1)
+07.3 EK = ½ × 0.8 × 122{TAB}EK = 57.6 (J) (1)
+{TAB}{TAB}{TAB}shown for 2 marks
+{TAB}{TAB}{TAB}6.1.1.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 57.6 (J) without working
+
+(AO2/1/AO3/2b)
+07.4 lower proportion of wasted{TAB}energy (1)
+{TAB}{TAB}{TAB}higher proportion of energy is
+{TAB}{TAB}{TAB}converted into kinetic energy
+{TAB}{TAB}{TAB}accept less energy is wasted
+{TAB}{TAB}{TAB}accept more kinetic energy
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}MARK SCHEME – COMBINED SCIENCE PHYSICS PAPER 1F – SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}SPECIMEN MATERIAL
+{TAB}{TAB}{TAB}13 of 13
+{TAB}{TAB}{TAB}Question Answers Mark AO /
+{TAB}{TAB}{TAB}Spec. Ref.
+{TAB}{TAB}{TAB}7.5 Level 2: A relevant and coherent argument which demonstrates
+{TAB}{TAB}{TAB}processing and numerical analysis of the information presented
+{TAB}{TAB}{TAB}and draw a conclusion which is logically consistent with the
+{TAB}{TAB}{TAB}reasoning and refers to payback time for the vehicles.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Level 1: Simple comparisons are made which demonstrate a basic
+{TAB}{TAB}{TAB}ability to numerically analyse the information presented. The
+{TAB}{TAB}{TAB}conclusion, if present, may not be consistent with the calculations.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content 0
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB} The electric car costs £12 000 more to buy
+{TAB}{TAB}{TAB} Running cost of electric car = £3 000
+{TAB}{TAB}{TAB} Running cost of petrol engine car = £24 000
+{TAB}{TAB}{TAB} Total cost of electric car = £30 000
+{TAB}{TAB}{TAB} Total cost of petrol engine car = £39 000
+{TAB}{TAB}{TAB} The electric car cost £1 750 less to run each year
+{TAB}{TAB}{TAB} The electric car will save £9 000
+{TAB}{TAB}{TAB} Additional cost is covered in 6.9 years
+{TAB}{TAB}{TAB} So the electric car will be cheaper over the 12 year lifetime
+{TAB}{TAB}{TAB}or
+{TAB}{TAB}{TAB}Electric
+{TAB}{TAB}{TAB}27000 / 12 = 2250
+{TAB}{TAB}{TAB}Annual cost = 2250 + 250 = 2500
+{TAB}{TAB}{TAB}Petrol
+{TAB}{TAB}{TAB}15000 / 12 = 1250
+{TAB}{TAB}{TAB}Annual cost = 1250 + 2000 = 3250
+{TAB}{TAB}{TAB}So electric is £750 cheaper per year
+{TAB}{TAB}{TAB}Total 11
+{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 0 marks{BOLD}{ALIGN RIGHT}

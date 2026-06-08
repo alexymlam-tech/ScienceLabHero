@@ -1,0 +1,252 @@
+5.4.3.4(AO2)
+01.1{TAB}chlorine (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO2)
+01.2{TAB}copper is less reactive than hydrogen (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO3)
+01.3{TAB}1.8 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer in range 1.7‒1.9{TAB_RIGHT}(1)
+
+5.4.3.4(AO2)
+01.4{TAB}calculation: 3.02 + 3.01 + x3 = 3.06 (1)
+{TAB}{TAB}{TAB}answer: = 3.15 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 3.15 (mg) scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow any other suitable method
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 9.18 for 1 mark{TAB_RIGHT}(2)
+
+5.3.2.5(AO2)
+01.5{TAB}calculation: 50/1000 or 1/20 or 0.05 (1)
+{TAB}{TAB}{TAB}calculation: (0.05) × 300 (1)
+{TAB}{TAB}{TAB}answer: = 15 (g) (1)
+{TAB}{TAB}or{TAB}calculation: 300/1000 or 3/10 or 0.3 (1)
+{TAB}{TAB}{TAB}calculation: (0.3) × 50 (1)
+{TAB}{TAB}{TAB}answer: = 15 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 15 (g) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}the second mark is dependent on the first mark being scored
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 150 or 15 000 for 1 mark{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.7/5.1.2.1(AO2)
+02.1{TAB}(difference): sodium has one and chlorine has seven electrons in outer level / shell (1)
+{TAB}{TAB}or{TAB}number of electrons
+{TAB}{TAB}{TAB}(similarity): both have three / same number of levels / shells (1)
+{TAB}{TAB}or{TAB}have electrons in third level / shell
+{TAB}{TAB}or{TAB}both have incomplete (outer) levels / shells
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}number of electrons must be correct if quoted
+{TAB}{TAB}{TAB}-{TAB}allow both have 2 electrons in inner shell
+{TAB}{TAB}{TAB}-{TAB}or both have 8 electrons in second shell
+{TAB}{TAB}{TAB}-{TAB}or both are one electron away from full outer level / shell{TAB_RIGHT}(2)
+
+5.2.1.2(AO1)
+02.2{TAB}sodium (atom) loses one (outer shell electron) (1)
+{TAB}{TAB}{TAB}chlorine (atom) gains one (electron) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow marks from suitable diagram(s)
+{TAB}{TAB}{TAB}-{TAB}allow moves / transfers for loses
+{TAB}{TAB}{TAB}-{TAB}do not accept sodium ion loses
+{TAB}{TAB}{TAB}-{TAB}do not accept chloride
+{TAB}{TAB}{TAB}-{TAB}transfer of 1 electron from chlorine to sodium max 2 marks
+{TAB}{TAB}{TAB}-{TAB}reference to sharing or covalent bonding max 3 marks{TAB_RIGHT}(4)
+
+5.5.1.2(AO1)
+02.3{TAB}axis: any curve / line going up and then down (1)
+{TAB}{TAB}{TAB}relative: products line below reactants (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore labels
+{TAB}{TAB}{TAB}-{TAB}allow curve to start / finish anywhere along reactant / product lines{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.3(AO3/AO1)
+03{TAB}Level 3: Relevant points (reasons / causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• uses sulfuric acid not hydrochloric acid or sulfuric acid needed; • uses copper carbonate / oxide not calcium carbonate or copper carbonate / oxide needed; • add solid until solid remains or is in excess or no more reacts / dissolves; • so that most / all of the acid reacts; • filter; • to remove excess or unreacted carbonate / oxide / solid; • heat gently or partially evaporate or leave; • until crystals appear or to crystallise
+{TAB}{TAB}{TAB}-{TAB}for level 3 the correct chemicals must have been selected{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.6(AO1)
+04.1{TAB}g (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept upper case (G)
+{TAB}{TAB}{TAB}-{TAB}do not accept gas{TAB_RIGHT}(1)
+
+5.1.2.6/5.2.1.4(AO1/AO2)
+04.2{TAB}one shared pair anywhere in overlap (1)
+{TAB}{TAB}{TAB}6 other electrons on each atom (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow dots or crosses or mixture for all marks
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons{TAB_RIGHT}(2)
+
+5.1.1.5/5.1.2.6(AO2)
+04.3{TAB}18 (1){TAB_RIGHT}(1)
+
+5.1.1.1/5.1.2.6(AO2)
+04.4{TAB}formula: AlBr3 (1)
+{TAB}{TAB}{TAB}equation: 2 Al + 3 Br2 → 2 AlBr3 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore state symbols
+{TAB}{TAB}{TAB}-{TAB}ignore charges
+{TAB}{TAB}{TAB}-{TAB}ignore brackets as eg Al(Br)3
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for balancing their equation with an incorrect product{TAB_RIGHT}(2)
+
+5.1.2.6(AO1/AO2)
+04.5{TAB}chlorine is a smaller atom / has fewer energy levels / outer shell closer to nucleus (1)
+{TAB}{TAB}{TAB}chlorine has less shielding / greater attraction between the nucleus and the outer shell or incoming electron (1)
+{TAB}{TAB}{TAB}therefore chlorine can gain an electron (into the outer shell) more easily (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 if outer shell / level not mentioned
+{TAB}{TAB}{TAB}-'it' refers to chlorine
+{TAB}{TAB}{TAB}-{TAB}allow converse reasons for bromine being less reactive
+{TAB}{TAB}{TAB}-{TAB}ignore chlorine has fewer electrons
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for correct trend in reactivity in Group 7
+{TAB}{TAB}{TAB}-{TAB}do not accept reference to incorrect particles eg chloride atom{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.2.3.1(AO1)
+05.1{TAB}covalent bonds (1)
+{TAB}{TAB}{TAB}giant structure / macromolecule (1)
+{TAB}{TAB}{TAB}lots of energy needed to break / overcome (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 for incorrect reference to particles or bonds
+{TAB}{TAB}{TAB}-{TAB}allow each C has 4 bonds
+{TAB}{TAB}{TAB}-{TAB}allow giant covalent structure for 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow giant ionic / lattice structure for 1 mark
+{TAB}{TAB}{TAB}-{TAB}ignore lattice
+{TAB}{TAB}{TAB}-{TAB}allow disrupt structure
+{TAB}{TAB}{TAB}-{TAB}ignore heat and high temperature
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for strong / many bonds{TAB_RIGHT}(3)
+
+5.2.2.3(AO1)
+05.2{TAB}dissolved (in water) or aqueous (1)
+{TAB}{TAB}{TAB}molten / liquid (1)
+{TAB}{TAB}{TAB}so ions are mobile or free moving (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 for incorrect reference to particles or bonds
+{TAB}{TAB}{TAB}-{TAB}allow in solution{TAB_RIGHT}(3)
+
+5.2.1.5/5.2.2.8(AO1)
+05.3{TAB}delocalised electrons (from outer shell) (1)
+{TAB}{TAB}{TAB}(free to) move (1)
+{TAB}{TAB}{TAB}energy transferred (through structure) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 for incorrect reference to particles or bonds
+{TAB}{TAB}{TAB}-{TAB}ignore conducts thermal energy
+{TAB}{TAB}{TAB}-{TAB}ignore electricity
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for ions / atoms vibrate{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.3.1.3(AO1)
+06.1{TAB}CaO (1)
+{TAB}{TAB}{TAB}CO2 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}either order
+{TAB}{TAB}{TAB}-{TAB}ignore names{TAB_RIGHT}(2)
+
+5.3.1.2/5.3.1.3/5.1.1.5(AO2)
+06.2{TAB}calculation: [12 + (3 × 16)] or 60 (1)
+{TAB}{TAB}{TAB}calculation: (197 − 60 =) 137 (1)
+{TAB}{TAB}{TAB}answer: barium or Ba (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 137 scores the 2 calculation marks
+{TAB}{TAB}{TAB}-{TAB}barium or Ba without working scores this mark{TAB_RIGHT}(3)
+
+5.3.1.2/5.3.1.3(AO2)
+06.3{TAB}working: Y increase and X increase measured from graph (1)
+{TAB}{TAB}{TAB}working: substitution into ΔY/ΔX (1)
+{TAB}{TAB}{TAB}answer: 167 (1)
+{TAB}{TAB}{TAB}units: cm3/g (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 160‒174 scores the 2 calculation marks
+{TAB}{TAB}{TAB}-{TAB}allow answer in range 160‒174
+{TAB}{TAB}{TAB}-{TAB}allow cm3 g–1
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for the inverse (ΔX/ΔY) or 0.006{TAB_RIGHT}(3)
+
+5.3.1.2/5.3.1.3(AO3)
+06.4{TAB}measurement: volume to 240 cm3 mass = 1.45 g (1)
+{TAB}{TAB}{TAB}ratio: 1:100 (ie 24 000/240) (1)
+{TAB}{TAB}{TAB}calculation: 100 × 1.45 (1)
+{TAB}{TAB}{TAB}answer: 145 (1)
+{TAB}{TAB}or{TAB}method using answer from question 06.3: x = y/m (1)
+{TAB}{TAB}{TAB}conversion: 24 (dm3) to 24 000 (cm3) (1)
+{TAB}{TAB}{TAB}calculation: 24 000/answer from 06.3 (1)
+{TAB}{TAB}{TAB}answer: 144 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 140‒150 scores 4 marks
+{TAB}{TAB}{TAB}-{TAB}an answer of 0.14‒0.15 scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}allow answer based on any reading from the graph
+{TAB}{TAB}{TAB}-{TAB}allow ratio from their volume eg 24 000/250
+{TAB}{TAB}{TAB}-{TAB}allow range 140‒150{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.3/5.4.2.4(AO3/AO1/AO2)
+07.1{TAB}Level 3: Relevant points (reasons / causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}A is sodium oxide because it has highest pH or pH = 14 or is a strong alkali; B is phosphorus oxide because it has lowest pH or pH = 3 or is an acid; C is magnesium oxide because it has 2nd highest pH or pH = 9 or is a (weak) alkali; D is silicon dioxide because it is neutral or pH = 7
+{TAB}{TAB}{TAB}-{TAB}OR A and B are sodium oxide or phosphorus oxide because both soluble or no solid remains; C is magnesium oxide because it will be the colourless solution with solid remaining; D is silicon dioxide because it will be the colourless liquid with solid remaining
+{TAB}{TAB}{TAB}-{TAB}for level 3 the solids must be correctly identified{TAB_RIGHT}(6)
+
+5.4.2.5(AO1/AO3)
+07.2{TAB}dilution by a factor of 100 (1)
+{TAB}{TAB}{TAB}answer: (pH=) 5 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of (pH=) 5 gains 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow pH changes by 1 when solution is diluted by factor of 10 or allow pH changes by 2{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.1(AO1)
+08.1{TAB}hydrogen or H2 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow hydrogen gas
+{TAB}{TAB}{TAB}-{TAB}ignore H without the 2 subscript{TAB_RIGHT}(1)
+
+5.1.1.2(AO1)
+08.2{TAB}filtration / filter (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow magnet or decant
+{TAB}{TAB}{TAB}-{TAB}ignore heating{TAB_RIGHT}(1)
+
+5.3.2.2(AO2)
+08.3{TAB}calculation: (Mg) 0.12/24 or 0.005 (moles) (1)
+{TAB}{TAB}{TAB}ratio: (Fe) 2/3 × 0.005 = 0.00333 (moles) (1)
+{TAB}{TAB}{TAB}calculation: (mass Fe) = 0.00333 × 56 (1)
+{TAB}{TAB}{TAB}intermediate: = 0.1866 (g) (1)
+{TAB}{TAB}{TAB}answer: = 187 (mg) (1)
+{TAB}{TAB}or{TAB}ratio: 72 g Mg → 112 g Fe (1)
+{TAB}{TAB}{TAB}calculation: 1 g Mg → 112/72 or 1.56 g Fe (1)
+{TAB}{TAB}{TAB}calculation: 0.12 g Mg → 112/72 × 0.12 (1)
+{TAB}{TAB}{TAB}intermediate: = 0.1866 (g) (1)
+{TAB}{TAB}{TAB}answer: = 187 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 185‒190 (mg) scores 5 marks
+{TAB}{TAB}{TAB}-{TAB}an answer of 0.185‒0.19 scores 4 marks
+{TAB}{TAB}{TAB}-{TAB}mark is for ÷ by 24
+{TAB}{TAB}{TAB}-{TAB}mark is for × 2/3
+{TAB}{TAB}{TAB}-{TAB}mark is for × 56
+{TAB}{TAB}{TAB}-{TAB}an answer of 280 (mg) scores 4 marks
+{TAB}{TAB}{TAB}-{TAB}an answer of 0.280 scores 3 marks (no ratio from equation){TAB_RIGHT}(5)
+
+5.4.1.2/5.4.1.4(AO2/AO1)
+08.4{TAB}Fe3+ (1)
+{TAB}{TAB}{TAB}reason: reduction is gain of electrons (1)
+{TAB}{TAB}{TAB}equation: Fe3+ + 3e- → Fe (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow change in oxidation state / (+)3 to 0{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 8: 10 marks{BOLD}{ALIGN RIGHT}

@@ -1,0 +1,304 @@
+4.4.1.2(AO1)
+01.1{TAB}6 CO2 + 6 H2O → C6H12O6 + 6 O2 (1){TAB_RIGHT}(1)
+
+4.4.1.2(AO1)
+01.2{TAB}distance of the pondweed from the lamp (1){TAB_RIGHT}(1)
+
+4.4.1.2/4.2.2.1(AO3/AO2)(RPA 5)
+01.3{TAB}bubbles (of gas) would be produced faster (1)
+{TAB}{TAB}{TAB}(because) enzymes work faster (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow more / bigger bubbles of gas would be produced (in a given time)
+{TAB}{TAB}{TAB}-{TAB}allow (because) photosynthesis is controlled by enzymes
+{TAB}{TAB}{TAB}-{TAB}allow (because) photosynthesis would be faster{TAB_RIGHT}(2)
+
+4.4.1.2(AO3)(RPA 5)
+01.4{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}use an LED (lamp)
+{TAB}{TAB}{TAB}•{TAB}place a tank / beaker of water between the lamp and tube / pondweed
+{TAB}{TAB}{TAB}•{TAB}put the tube in a beaker of water
+{TAB}{TAB}{TAB}•{TAB}put the tube in a (thermostatically controlled) water bath
+{TAB}{TAB}{TAB}•{TAB}place a piece of glass between the lamp and tube / pondweed
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow use a light that does not emit (a lot of) infrared / thermal radiation
+{TAB}{TAB}{TAB}-{TAB}allow place a heat shield between the lamp and tube / pondweed
+
+4.4.1.2(AO3)(RPA 5)
+01.5{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}measure the volume of gas produced
+{TAB}{TAB}{TAB}•{TAB}allow the pondweed time to equilibrate
+{TAB}{TAB}{TAB}•{TAB}repeat and calculate a mean
+{TAB}{TAB}or{TAB}repeat and remove anomalies
+{TAB}{TAB}{TAB}•{TAB}control the concentration of carbon dioxide (in the water)
+{TAB}{TAB}{TAB}•{TAB}use the same bulb / lamp
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow amount for volume
+{TAB}{TAB}{TAB}-{TAB}allow use a cylinder / gas syringe to collect the gas
+{TAB}{TAB}{TAB}-{TAB}allow a description of this
+{TAB}{TAB}{TAB}-{TAB}ignore repeat unqualified
+{TAB}{TAB}{TAB}-{TAB}allow put the pondweed in sodium hydrogen carbonate (solution) or sodium bicarbonate (solution)
+{TAB}{TAB}{TAB}-{TAB}allow use the same type / size / age / piece of pondweed
+{TAB}{TAB}{TAB}-{TAB}allow record the number of bubbles of gas produced in a longer period of time
+
+4.4.1.2(AO2)(RPA 5)
+01.6{TAB}3 (bubbles of gas produced per minute) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 3.2 (bubbles of gas produced per minute)
+{TAB}{TAB}{TAB}-{TAB}do not accept 3.0 (bubbles of gas produced per minute){TAB_RIGHT}(1)
+
+4.4.1.2(AO3)(RPA 5)
+01.7{TAB}as light intensity decreases the rate of photosynthesis decreases (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow as distance from lamp increases rate of photosynthesis decreases
+{TAB}{TAB}{TAB}-{TAB}allow as distance from lamp increases number of bubbles produced decreases{TAB_RIGHT}(1)
+
+4.4.1.2(AO2)(RPA 5)
+01.8{TAB}all points plotted correctly (2)
+{TAB}{TAB}{TAB}line of best fit through their points (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for four points plotted correctly
+{TAB}{TAB}{TAB}-{TAB}do not accept line extended to 0, 0
+{TAB}{TAB}{TAB}-{TAB}ignore extrapolations of line{TAB_RIGHT}(3)
+
+4.4.1.2(AO3)(RPA 5)
+01.9{TAB}8 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct value from their line ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow value in range 6 to 9 if a curved line of best fit is not drawn{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 13 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.1(AO1)(RPA 3)
+02{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Protein
+{TAB}{TAB}{TAB}-{TAB}• grind up food
+{TAB}{TAB}{TAB}-{TAB}• add Biuret (reagent / solution)
+{TAB}{TAB}{TAB}-{TAB}or add copper sulfate (solution) and sodium hydroxide (solution)
+{TAB}{TAB}{TAB}-{TAB}or add Biuret 1 and Biuret 2
+{TAB}{TAB}{TAB}-{TAB}• turns purple / lilac
+{TAB}{TAB}{TAB}-{TAB}Starch
+{TAB}{TAB}{TAB}-{TAB}• add iodine (solution)
+{TAB}{TAB}{TAB}-{TAB}• turns black / blue-black / dark blue
+{TAB}{TAB}{TAB}-{TAB}- ignore blue / purple
+{TAB}{TAB}{TAB}-{TAB}Sugar
+{TAB}{TAB}{TAB}-{TAB}• grind up food
+{TAB}{TAB}{TAB}-{TAB}• mix with water
+{TAB}{TAB}{TAB}-{TAB}• add Benedict’s (reagent / solution)
+{TAB}{TAB}{TAB}-{TAB}• heat mixture (≥ 65 °C)
+{TAB}{TAB}{TAB}-{TAB}• in a water bath
+{TAB}{TAB}{TAB}-{TAB}• turns (brick) red / orange / brown / green / yellow
+{TAB}{TAB}{TAB}-{TAB}For Level 3 correct references to all three tests are needed.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 6 marks{BOLD}{ALIGN RIGHT}
+
+4.4.2.1(AO1)
+03.1{TAB}releases energy (to the surroundings) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow transfers (thermal) energy to the surroundings
+{TAB}{TAB}{TAB}-{TAB}ignore transfers energy unqualified{TAB_RIGHT}(1)
+
+4.4.2.1(AO3)
+03.2{TAB}to keep oxygen out (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to keep air out
+{TAB}{TAB}{TAB}-{TAB}allow (because) fermentation is an anaerobic reaction
+{TAB}{TAB}{TAB}-{TAB}allow to prevent aerobic respiration{TAB_RIGHT}(1)
+
+4.4.2.1(AO3)
+03.3{TAB}to allow the mixture / yeast / cells to reach the temperature (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to reach 2 °C
+{TAB}{TAB}{TAB}-{TAB}allow so yeast can equilibrate
+{TAB}{TAB}{TAB}-{TAB}allow idea that contraction of gas (on cooling) would hinder results collection{TAB_RIGHT}(1)
+
+4.4.2.1/4.2.2.1(AO2)
+03.4{TAB}(2 °C is) too cold for enzymes / yeast to work (1)
+{TAB}{TAB}{TAB}(so) no carbon dioxide / gas produced (1)
+{TAB}{TAB}{TAB}enzymes become active at 35 °C so carbon dioxide / gas was produced (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or (so) fermentation did not occur or fermentation was very slow
+{TAB}{TAB}{TAB}-{TAB}allow (at 2 °C) few / no collisions (between sugar and enzymes)
+{TAB}{TAB}{TAB}-{TAB}do not accept an incorrect gas
+{TAB}{TAB}{TAB}-{TAB}allow at 35 °C the enzymes started to work so carbon dioxide / gas was produced{TAB_RIGHT}(3)
+
+4.4.2.1/4.2.2.1(AO1/AO2)
+03.5{TAB}ideal / suitable temperature for enzymes / yeast to work (1)
+{TAB}{TAB}{TAB}(so) carbon dioxide / gas produced (rapidly) (1)
+{TAB}{TAB}{TAB}(after time / ≥ 15 minutes) rate / fermentation slowed (1)
+{TAB}{TAB}{TAB}(because) sugar / glucose / food began to run out (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or (because) increased concentration of ethanol / alcohol started to kill the cells
+{TAB}{TAB}{TAB}-{TAB}do not accept an incorrect gas
+{TAB}{TAB}{TAB}-{TAB}allow (after time / ≥ 15 minutes) less gas produced per minute{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 10 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.1/4.3.1.2/4.3.1.3/4.3.1.5(AO1)
+04.1{TAB}Gonorrhoea – bacteria (1)
+{TAB}{TAB}{TAB}Malaria – protist (1)
+{TAB}{TAB}{TAB}Measles – virus (1){TAB_RIGHT}(3)
+
+4.3.1.1/4.3.1.5(AO2)
+04.2{TAB}reduces breeding / reproduction (in mosquitos) (1)
+{TAB}{TAB}{TAB}(so) fewer mosquitos to bite people (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or (so) fewer mosquitos to pass on pathogen / protist
+{TAB}{TAB}{TAB}-{TAB}allow fewer (mosquito) eggs fertilised
+{TAB}{TAB}{TAB}-{TAB}allow no offspring produced (by sterile mosquitos)
+{TAB}{TAB}{TAB}-{TAB}allow (so) less likely to be bitten by mosquitos
+{TAB}{TAB}{TAB}-{TAB}ignore fewer mosquitos to pass on malaria / disease{TAB_RIGHT}(2)
+
+4.1.1.5/4.3.1.2(AO2)
+04.3{TAB}electron microscope (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore microscope unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore scanning / transmission
+{TAB}{TAB}{TAB}-{TAB}do not accept light microscope{TAB_RIGHT}(1)
+
+4.1.1.1/4.1.1.5/4.3.1.2/4.3.1.4(AO2)
+04.4{TAB}conversion: (16 μm =) 1.6 × 10^-5 m or (2.5 × 10^-7 m =) 0.25 μm (1)
+{TAB}{TAB}{TAB}calculation: 1.6 × 10^-5 / 2.5 × 10^-7 or 16 / 0.25 (1)
+{TAB}{TAB}{TAB}answer: 64 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 0.000 016 / 0.000 000 25
+{TAB}{TAB}{TAB}-{TAB}allow incorrect attempt at conversion or not converted value for length correctly substituted
+{TAB}{TAB}{TAB}-{TAB}allow a correctly calculated value using an incorrectly or not converted value for length
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark only for 16 / 2.5 = 6.4{TAB_RIGHT}(3)
+
+4.3.1.2/4.4.1.1/4.4.1.2/4.4.1.3/4.4.2.1(AO1/AO2)
+04.5{TAB}discolouration in leaves (1)
+{TAB}{TAB}{TAB}(so) reduced photosynthesis (1)
+{TAB}{TAB}{TAB}(so) less glucose produced so less amino acids / proteins / cellulose made (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or less chlorophyll in leaves
+{TAB}{TAB}{TAB}-{TAB}the idea of less is only needed once
+{TAB}{TAB}{TAB}-{TAB}ignore mosaic pattern of leaves unqualified
+{TAB}{TAB}{TAB}-{TAB}allow less light absorbed
+{TAB}{TAB}{TAB}-{TAB}allow (so) less glucose so less energy for synthesis of chemicals
+{TAB}{TAB}{TAB}-{TAB}or allow (so) less glucose for respiration (so) less energy transferred for growth{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 12 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.2(AO2)
+05.1{TAB}D (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO3)
+05.2{TAB}C (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO1)
+05.3{TAB}right atrium → right ventricle → pulmonary artery (1){TAB_RIGHT}(1)
+
+4.2.2.4(AO1/AO3)
+05.4{TAB}Level 3: A judgement, strongly linked and logically supported by a sufficient range of correct reasons, is given. (5-6)
+{TAB}{TAB}{TAB}Level 2: Some logically linked reasons are given. There may also be a simple judgement. (3-4)
+{TAB}{TAB}{TAB}Level 1: Relevant points are made. They are not logically linked. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Advantages of statins
+{TAB}{TAB}{TAB}-{TAB}• easy to take or not invasive (procedure)
+{TAB}{TAB}{TAB}-{TAB}• decrease blood cholesterol
+{TAB}{TAB}{TAB}-{TAB}• slow down build-up of fatty materials in arteries
+{TAB}{TAB}{TAB}-{TAB}• maintain blood flow to heart muscle cells
+{TAB}{TAB}{TAB}-{TAB}• low cost (compared to stent operation)
+{TAB}{TAB}{TAB}-{TAB}Disadvantages of statins
+{TAB}{TAB}{TAB}-{TAB}• might be side effects of drug eg muscle pain
+{TAB}{TAB}{TAB}-{TAB}• effects take time to happen
+{TAB}{TAB}{TAB}-{TAB}• drug will need to be taken long term
+{TAB}{TAB}{TAB}-{TAB}• might forget to take drug
+{TAB}{TAB}{TAB}-{TAB}Advantages of stent
+{TAB}{TAB}{TAB}-{TAB}• blocked artery is held open
+{TAB}{TAB}{TAB}-{TAB}• blood flow to heart muscle cells is increased
+{TAB}{TAB}{TAB}-{TAB}• stent will remain in place for a long time
+{TAB}{TAB}{TAB}-{TAB}• effect of stent is immediate
+{TAB}{TAB}{TAB}-{TAB}• rapid recovery from operation
+{TAB}{TAB}{TAB}-{TAB}Disadvantages of stent
+{TAB}{TAB}{TAB}-{TAB}• risk of infection from operation
+{TAB}{TAB}{TAB}-{TAB}• risk of surgery eg heart attack or bleeding
+{TAB}{TAB}{TAB}-{TAB}• risk of thrombosis or blood clot
+{TAB}{TAB}{TAB}-{TAB}For Level 3, arguments for and against both treatments are needed.{TAB_RIGHT}(6)
+
+4.2.2.2/4.2.2.4/4.4.2.1(AO2)
+05.5{TAB}heart (muscle) cannot contract / pump as effectively / powerfully (1)
+{TAB}{TAB}{TAB}(so) less blood pumped out of heart or to body (on each beat / contraction) (1)
+{TAB}{TAB}{TAB}(so) less oxygen (reaches cells / body) for (aerobic) respiration (1)
+{TAB}{TAB}{TAB}(so) breathing rate increases to supply more oxygen (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow heart (muscle) is not as strong
+{TAB}{TAB}{TAB}-{TAB}ignore reference to rate of blood flow
+{TAB}{TAB}{TAB}-{TAB}allow (so) more anaerobic respiration
+{TAB}{TAB}{TAB}-{TAB}allow (so) breathing rate increases to repay oxygen debt
+{TAB}{TAB}{TAB}-{TAB}allow (so) breathing rate increases to break down lactic acid{TAB_RIGHT}(4)
+
+4.1.2.3/4.2.2.4(AO1/AO2)
+05.6{TAB}stem cells are undifferentiated cells (1)
+{TAB}{TAB}{TAB}(therefore) can form heart (muscle) cells (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow stem cells can differentiate
+{TAB}{TAB}{TAB}-{TAB}allow stem cells can develop into different types of cell
+{TAB}{TAB}{TAB}-{TAB}ignore stem cells can become specialised
+{TAB}{TAB}{TAB}-{TAB}ignore stem cells are not specialised
+{TAB}{TAB}{TAB}-{TAB}allow (therefore) can form muscle cells{TAB_RIGHT}(2)
+
+4.1.2.3(AO3)
+05.7{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}cells will not be rejected
+{TAB}{TAB}{TAB}•{TAB}no risk of damage to embryo
+{TAB}{TAB}{TAB}•{TAB}adult can give consent
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse if clearly referring to embryonic stem cells
+{TAB}{TAB}{TAB}-{TAB}allow no (potential) human life destroyed / damaged
+{TAB}{TAB}{TAB}-{TAB}ignore unethical unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore religion unqualified
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 17 marks{BOLD}{ALIGN RIGHT}
+
+4.1.3.2/4.2.1/4.2.3.1/4.2.3.2(AO1)
+06.1{TAB}(absorbed from soil) by osmosis (1)
+{TAB}{TAB}{TAB}through root hair (cells) (1)
+{TAB}{TAB}{TAB}travels through xylem (vessels) to the leaves (1)
+{TAB}{TAB}{TAB}lost through stomata (to atmosphere) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}idea of driven by evaporation / transpiration
+{TAB}{TAB}{TAB}-{TAB}allow (absorbed from soil) by diffusion through root hair (cells)
+{TAB}{TAB}{TAB}-{TAB}ignore travels upwards in the xylem unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore evaporation / transpiration unqualified{TAB_RIGHT}(4)
+
+4.2.3.2(AO1)
+06.2{TAB}translocation (1){TAB_RIGHT}(1)
+
+4.1.1.3/4.2.1/4.2.3.1/4.2.3.2(AO1/AO2)
+06.3{TAB}have pores in the end walls (1)
+{TAB}{TAB}{TAB}(so) dissolved sugars / food / contents can move from cell to cell (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or no nucleus or few / no sub-cellular structures (1)
+{TAB}{TAB}{TAB}-{TAB}to maximise space for movement of dissolved sugars / food / contents (1)
+{TAB}{TAB}{TAB}-{TAB}allow sap for dissolved sugars
+{TAB}{TAB}{TAB}-{TAB}allow few / no organelles
+{TAB}{TAB}{TAB}-{TAB}ignore cells are empty
+{TAB}{TAB}{TAB}-{TAB}allow thick / rigid cell wall (1)
+{TAB}{TAB}{TAB}-{TAB}to withstand pressure inside cell (1){TAB_RIGHT}(2)
+
+4.1.1.2/4.1.1.3/4.1.3.3/4.2.3.1/4.2.3.2/4.4.2.1(AO3/AO2)
+06.4{TAB}(the process): requires energy / is an active process / uses active transport (1)
+{TAB}{TAB}{TAB}(reason): cells have many mitochondria (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow flow of dissolved sugars / food in sieve tube cell is not impeded (1)
+{TAB}{TAB}{TAB}-{TAB}(reason) companion cell is flattened (1){TAB_RIGHT}(2)
+
+4.2.1/4.2.3.1/4.2.3.2/4.4.1.3/4.4.2.3(AO1/AO2)
+06.5{TAB}sugars are made in the leaves by photosynthesis (1)
+{TAB}{TAB}{TAB}all cells / tissues need sugar for respiration (1)
+{TAB}{TAB}{TAB}(sugars) transported to meristems for growth / cell division / mitosis (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or (sugars) transported for storage as starch / fat / oil
+{TAB}{TAB}{TAB}-{TAB}allow glucose for sugar
+{TAB}{TAB}{TAB}-{TAB}allow sugars are not made in the root / meristems (by photosynthesis)
+{TAB}{TAB}{TAB}-{TAB}allow every cell / tissue needs sugar for respiration
+{TAB}{TAB}{TAB}-{TAB}allow whole plant needs sugar as an energy source{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 12 marks{BOLD}{ALIGN RIGHT}

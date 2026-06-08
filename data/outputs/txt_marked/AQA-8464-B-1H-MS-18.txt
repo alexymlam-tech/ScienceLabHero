@@ -1,0 +1,347 @@
+4.1.1.1/4.1.1.2(AO1)
+01.1{TAB}nucleus – eukaryotic cells
+{TAB}{TAB}{TAB}permanent vacuole – plant cells only
+{TAB}{TAB}{TAB}plasmids – prokaryotic cells (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for one or two correct links{TAB_RIGHT}(2)
+
+4.1.1.2(AO1)
+01.2{TAB}vacuole
+{TAB}{TAB}{TAB}ribosome
+{TAB}{TAB}{TAB}cell wall (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}tick box takes precedence
+{TAB}{TAB}{TAB}-{TAB}if no tick is given, look at both the figure and the circling of words in the table
+{TAB}{TAB}{TAB}-{TAB}if writing is seen on the figure and in the table both must be correct{TAB_RIGHT}(1)
+
+4.1.1.2(AO2)
+01.3{TAB}turn the (fine focusing) knob until the cells are in focus (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow focus it
+{TAB}{TAB}{TAB}-{TAB}do not accept increase magnification
+{TAB}{TAB}{TAB}-{TAB}ignore decrease magnification
+{TAB}{TAB}{TAB}-{TAB}ignore clear
+{TAB}{TAB}{TAB}-{TAB}ignore references to resolution / illumination
+{TAB}{TAB}{TAB}-{TAB}ignore zoom in / out{TAB_RIGHT}(1)
+
+4.1.1.2(AO2)
+01.4{TAB}(rotate the) nosepiece / objective lens (1)
+{TAB}{TAB}{TAB}to a higher power (lens) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow change the (objective / eyepiece) lens
+{TAB}{TAB}{TAB}-{TAB}allow (to) increase the magnification
+{TAB}{TAB}{TAB}-{TAB}a comparator is required
+{TAB}{TAB}{TAB}-{TAB}ignore change / adjust the magnification
+{TAB}{TAB}{TAB}-{TAB}allow stronger or more powerful lens
+{TAB}{TAB}{TAB}-{TAB}ignore references to resolution / illumination unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore zoom in / out
+{TAB}{TAB}{TAB}-{TAB}ignore references to an electron microscope{TAB_RIGHT}(2)
+
+4.1.1.2(AO2)
+01.5{TAB}conversion: 112 000 (μm) or 0.28 (mm) (1)
+{TAB}{TAB}{TAB}calculation: 112 / 0.28 or 112 000 / 280 (1)
+{TAB}{TAB}{TAB}magnification: 400 (×) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 400 (×) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for no conversion of units 112 / 280
+{TAB}{TAB}{TAB}-{TAB}or incorrect value from step 1 correctly substituted
+{TAB}{TAB}{TAB}-{TAB}do not accept if units are given
+{TAB}{TAB}{TAB}-{TAB}if no other mark scored allow 1 mark for: magnification = size of image / size of real object
+{TAB}{TAB}{TAB}-{TAB}a triangle with words or letters in is insufficient, as the correct rearrangement is needed{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.4/4.2.2.5/4.3.1.1/4.3(AO1/AO2)
+02.1{TAB}is not caused by a pathogen / infective organism (1)
+{TAB}{TAB}{TAB}(so) is not passed / spread (from person to person) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow not caused by a microorganism / microbe
+{TAB}{TAB}{TAB}-{TAB}ignore not caused by infection
+{TAB}{TAB}{TAB}-{TAB}ignore named pathogen unless bacteria, virus and fungus all mentioned
+{TAB}{TAB}{TAB}-{TAB}allow cannot be spread / caught
+{TAB}{TAB}{TAB}-{TAB}allow is not infectious / contagious{TAB_RIGHT}(2)
+
+4.2.2.4(AO1)
+02.2{TAB}reduced / restricted / stopped blood flow (1)
+{TAB}{TAB}{TAB}(so) less oxygen reaches heart (muscle / cells) (1)
+{TAB}{TAB}{TAB}(so heart muscle / cells) cannot respire (enough)
+{TAB}{TAB}{TAB}or
+{TAB}{TAB}{TAB}or{TAB}(so heart muscle / cells) do not release (enough) energy (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ‘it’ for heart
+{TAB}{TAB}{TAB}-{TAB}it does not matter where blood flow is restricted to – heart / body
+{TAB}{TAB}{TAB}-{TAB}must reference heart / it
+{TAB}{TAB}{TAB}-{TAB}allow no oxygen reaches the heart (muscle / cells)
+{TAB}{TAB}{TAB}-{TAB}do not accept do not make / produce / create energy
+{TAB}{TAB}{TAB}-{TAB}ignore references to breathing / suffocation
+{TAB}{TAB}{TAB}-{TAB}ignore blood clots / blockages{TAB_RIGHT}(3)
+
+4.2.2.2/4.2.2.4/4.2.2.5/4.2.2.6(AO1/AO2)
+02.3{TAB}Level 3: Relevant points (factors / effects) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (factors / effects) are identified and there are attempts at logical linking. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Indicative content{BOLD}
+{TAB}{TAB}{TAB}medical risk factors:
+{TAB}{TAB}{TAB}•{TAB}high blood pressure
+{TAB}{TAB}{TAB}•{TAB}high cholesterol
+{TAB}{TAB}{TAB}•{TAB}diabetes
+{TAB}{TAB}{TAB}•{TAB}genetic factors
+{TAB}{TAB}{TAB}•{TAB}medications
+{TAB}{TAB}{TAB}lifestyle risk factors:
+{TAB}{TAB}{TAB}•{TAB}smoking
+{TAB}{TAB}{TAB}•{TAB}obesity
+{TAB}{TAB}{TAB}•{TAB}lack of exercise
+{TAB}{TAB}{TAB}•{TAB}high fat / energy diet
+{TAB}{TAB}{TAB}•{TAB}eating insufficient fruit / vegetables
+{TAB}{TAB}{TAB}•{TAB}alcohol
+{TAB}{TAB}{TAB}•{TAB}high salt intake
+{TAB}{TAB}{TAB}•{TAB}exposure to air pollution
+{TAB}{TAB}{TAB}•{TAB}certain drugs / correct named drug
+{TAB}{TAB}{TAB}examples of links:
+{TAB}{TAB}{TAB}•{TAB}smoking – high bp / cholesterol / fatty deposition
+{TAB}{TAB}{TAB}•{TAB}obesity – lack of exercise / high bp / cholesterol / fatty deposition / diabetes
+{TAB}{TAB}{TAB}•{TAB}exercise – obesity / bp / diabetes
+{TAB}{TAB}{TAB}•{TAB}diet – obesity / cholesterol / diabetes
+{TAB}{TAB}{TAB}•{TAB}alcohol – bp / cholesterol
+{TAB}{TAB}{TAB}•{TAB}high salt intake - high blood pressure
+{TAB}{TAB}{TAB}•{TAB}genetic factors – bp / cholesterol / diabetes / obesity
+{TAB}{TAB}{TAB}•{TAB}medication – can affect blood / blood vessels / metabolism
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}the main discriminator is the quality of linking
+{TAB}{TAB}{TAB}-{TAB}both lifestyle and medical factors are required for level 3{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1(AO2)
+03.1{TAB}6CO2 + 6H2O  C6H12O6 + 6O2{TAB_RIGHT}(1)
+
+4.4.1.1(AO1)
+03.2{TAB}endothermic{TAB_RIGHT}(1)
+
+4.4.1.2(AO3)
+03.3{TAB}measure the volume of gas released (1)
+{TAB}{TAB}{TAB}increase length of time (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow use a measuring cylinder / capillary tube / (gas) syringe
+{TAB}{TAB}{TAB}-{TAB}allow sensible length of time
+{TAB}{TAB}{TAB}-{TAB}allow video the investigation so you could re-count the bubbles later
+{TAB}{TAB}{TAB}-{TAB}allow repeat the measurement at each distance several times and calculate a mean
+{TAB}{TAB}{TAB}-{TAB}ignore references to using other distances{TAB_RIGHT}(2)
+
+4.4.1.2(AO3)
+03.4{TAB}temperature affects rate of photosynthesis
+{TAB}{TAB}{TAB}or
+{TAB}{TAB}{TAB}or{TAB}temperature affects rate of bubble production (1)
+{TAB}{TAB}{TAB}(because) reaction / photosynthesis is controlled by enzymes (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct description of effect of temperature on rate
+{TAB}{TAB}{TAB}-{TAB}allow high temperatures denature enzymes
+{TAB}{TAB}{TAB}-{TAB}enzymes being denatured must be linked to high temperature{TAB_RIGHT}(2)
+
+4.4.1.2(AO2/AO3)
+03.5{TAB}calculation: evidence of squaring for two distances that double: 25 and 100 or 100 and 400 (1)
+{TAB}{TAB}{TAB}inverse square: calculate 1/d2 for two distances that double: 0.04 and 0.01 or 0.01 and 0.0025 (1)
+{TAB}{TAB}{TAB}conclusion: (therefore as distance doubles) light intensity is quartered (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 2 marks for these calculations without working
+{TAB}{TAB}{TAB}-{TAB}ignore calculations for a third distance as long as two where the distance doubles are correct{TAB_RIGHT}(3)
+
+4.4.1.2(AO2/AO3)
+03.6{TAB}2 (bubbles would be produced) (1)
+{TAB}{TAB}{TAB}(as) very little light / energy for photosynthesis to occur (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept no light
+{TAB}{TAB}{TAB}-{TAB}allow 2 marks for a quarter of the bubbles are produced as light distance doubles so 2 bubbles would be expected{TAB_RIGHT}(2)
+
+4.4.1.2(AO3)
+03.7{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}•{TAB}use different concentrations of sodium hydrogencarbonate solution (1)
+{TAB}{TAB}{TAB}•{TAB}distance from light source
+{TAB}{TAB}{TAB}•{TAB}temperature of solution
+{TAB}{TAB}{TAB}•{TAB}same plant
+{TAB}{TAB}{TAB}•{TAB}time for plant to equilibrate (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow three concentration values
+{TAB}{TAB}{TAB}-{TAB}ignore different concentrations of carbon dioxide
+{TAB}{TAB}{TAB}-{TAB}ignore different amounts of sodium hydrogen carbonate solution
+{TAB}{TAB}{TAB}-{TAB}max 2 marks for control variables
+{TAB}{TAB}{TAB}-{TAB}allow light intensity
+{TAB}{TAB}{TAB}-{TAB}ignore light unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore same lamp
+{TAB}{TAB}{TAB}-{TAB}allow type / size of plant
+{TAB}{TAB}{TAB}-{TAB}allow time for plant to adjust to different solution
+{TAB}{TAB}{TAB}-{TAB}ignore time unqualified
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.1.3.2(AO3)
+04.1{TAB}to control for the starting mass (of the pieces of carrot) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow because the pieces of carrot were not all the same mass at the start
+{TAB}{TAB}{TAB}-{TAB}do not accept were not all the same size
+{TAB}{TAB}{TAB}-{TAB}do not accept as a control variable{TAB_RIGHT}(1)
+
+4.1.3.2(AO2)
+04.2{TAB}suitable scale and label for y-axis (1)
+{TAB}{TAB}{TAB}all points plotted correctly (2)
+{TAB}{TAB}{TAB}line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 5 or 6 per 2 cm
+{TAB}{TAB}{TAB}-{TAB}do not accept 5 per 1 cm
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ a square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 4 correct points{TAB_RIGHT}(4)
+
+4.1.3.2(AO3)
+04.3{TAB}value from student’s line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ a square{TAB_RIGHT}(1)
+
+4.1.3.2(AO1/AO2)
+04.4{TAB}mass decreased (1)
+{TAB}{TAB}{TAB}(due to) loss of water by osmosis (1)
+{TAB}{TAB}{TAB}through a partially / selectively / semi permeable membrane (1)
+{TAB}{TAB}{TAB}(as) concentration of sugar solution is greater than concentration of sugar (solution) inside cells / carrot
+{TAB}{TAB}{TAB}or
+{TAB}{TAB}{TAB}or{TAB}(as) the concentration of water is less outside the cells / carrot than the concentration inside the cells / carrot (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore diffusion
+{TAB}{TAB}{TAB}-{TAB}a clear reference to concentration of water or concentration of sugar is required for the fourth mark
+{TAB}{TAB}{TAB}-{TAB}allow (as) concentration of sugar solution inside cells / carrot is lower than the concentration of sugar solution (in the tube or around the carrot)
+{TAB}{TAB}{TAB}-{TAB}allow answers in terms of dilute and concentrated solutions{TAB_RIGHT}(4)
+
+4.1.3.2(AO3)
+04.5{TAB}the (partially permeable / cell) membrane was damaged (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow idea that cell membrane is no longer intact
+{TAB}{TAB}{TAB}-{TAB}or is more permeable / leaky
+{TAB}{TAB}{TAB}-{TAB}allow the membrane is denatured
+{TAB}{TAB}{TAB}-{TAB}ignore cells are dead{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 11 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.2(AO2)
+05.1{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}not everyone would go to the doctor
+{TAB}{TAB}{TAB}•{TAB}sample will not always be sent for analysis
+{TAB}{TAB}{TAB}•{TAB}some cases not tested / diagnosed / confirmed (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow not all cases recorded
+{TAB}{TAB}{TAB}-{TAB}allow only medically confirmed cases recorded
+{TAB}{TAB}{TAB}-{TAB}ignore some cases are unknown
+{TAB}{TAB}{TAB}-{TAB}allow idea that doctor may make a judgemental error or mis-diagnosis
+
+4.3.1.2(AO2)
+05.2{TAB}calculation: 1939 / 2030 × 100 (1)
+{TAB}{TAB}{TAB}percentage: 96 / 95.5 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 96 / 95.5 scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark only for 95 or other incorrect rounding
+{TAB}{TAB}{TAB}-{TAB}allow for 1 mark: (91 / 2030 × 100) = 4.5%
+{TAB}{TAB}{TAB}-{TAB}allow 2 marks for correct rounding of 95.51724138
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for correct calculation using incorrect subtraction only if working shown{TAB_RIGHT}(2)
+
+4.3.1.1/4.3.1.7(AO1)
+05.3{TAB}most people are immune so do not become ill (from infection) (1)
+{TAB}{TAB}{TAB}less chance of non-immune / unvaccinated individuals being exposed to pathogen / measles / virus (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow herd / community immunity so do not become ill (from infection)
+{TAB}{TAB}{TAB}-{TAB}allow most people are immune so do not become infected
+{TAB}{TAB}{TAB}-{TAB}ignore most people are immune so don’t get / catch it
+{TAB}{TAB}{TAB}-{TAB}reference to an organism is needed
+{TAB}{TAB}{TAB}-{TAB}allow ‘it’ for the measles virus
+{TAB}{TAB}{TAB}-{TAB}allow fewer people to pass it on to non-immune people{TAB_RIGHT}(2)
+
+4.2.2.3/4.3.1.2/4.3.1.6/4.3.1.7(AO1/AO2)
+05.4{TAB}Level 3: Relevant points (comparisons / reasons) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (comparisons / reasons) are identified and there are attempts at logical linking. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Indicative content{BOLD}
+{TAB}{TAB}{TAB}differences (after exposure to measles virus):
+{TAB}{TAB}{TAB}•{TAB}greater number / higher concentration of antibodies produced
+{TAB}{TAB}{TAB}•{TAB}quantitative statement, eg 9 times higher or 0.8 to 7.2
+{TAB}{TAB}{TAB}•{TAB}antibodies produced sooner – idea of immediate response
+{TAB}{TAB}{TAB}•{TAB}antibodies produced quicker
+{TAB}{TAB}{TAB}•{TAB}antibodies stay (in higher concentration) for longer
+{TAB}{TAB}{TAB}explanation:
+{TAB}{TAB}{TAB}•{TAB}white blood cells / leucocytes / lymphocytes / B cells
+{TAB}{TAB}{TAB}•{TAB}reference to previous exposure (of white blood cells) to pathogen / virus
+{TAB}{TAB}{TAB}•{TAB}(white blood cells) recognise pathogen / virus / antigen
+{TAB}{TAB}{TAB}•{TAB}memory cells
+{TAB}{TAB}{TAB}•{TAB}production of specific / correct antibodies
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore phagocytes / macrophages{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 11 marks{BOLD}{ALIGN RIGHT}
+
+4.1.2.3/4.2.3.1(AO1)
+06.1{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}meristem(s)
+{TAB}{TAB}{TAB}•{TAB}tip of shoot
+{TAB}{TAB}{TAB}•{TAB}tip of root (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore stem and embryo
+
+4.1.2.3(AO1)
+06.2{TAB}to produce large numbers of identical plants{TAB_RIGHT}(1)
+
+4.1.2.1/4.1.2.2(AO2)
+06.3{TAB}6 × 10−12 (grams){TAB_RIGHT}(1)
+
+4.1.2.2(AO2)
+06.4{TAB}calculation: 28 / 360 × 15 or 1.166666666(r) (1)
+{TAB}{TAB}{TAB}time: 1.17 (hours) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 1.17 (hours) scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow 7 / 90 × 15
+{TAB}{TAB}{TAB}-{TAB}allow correct rounding
+{TAB}{TAB}{TAB}-{TAB}allow 1.16
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 1 hour 10 minutes or 1 and 1/6 hours or 70 minutes only if units given{TAB_RIGHT}(2)
+
+4.1.2.1/4.1.2.2(AO1)
+06.5{TAB}stage 1: cell growth or increase in number of organelles (1)
+{TAB}{TAB}{TAB}DNA replicates or two copies of each chromosome form (1)
+{TAB}{TAB}{TAB}stage 2 / mitosis: one set of chromosomes moves to each end of cell (1)
+{TAB}{TAB}{TAB}nucleus divides (1)
+{TAB}{TAB}{TAB}stage 3: cytoplasm / cell membrane divides to form two (genetically) identical cells (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 4 if correct sequence but no reference to stage numbers
+{TAB}{TAB}{TAB}-{TAB}max 4 marks if no stage numbers given
+{TAB}{TAB}{TAB}-{TAB}ignore names of phases
+{TAB}{TAB}{TAB}-{TAB}marks can be awarded for labelled diagrams
+{TAB}{TAB}{TAB}-{TAB}allow increase in named organelle eg ribosomes / mitochondria
+{TAB}{TAB}{TAB}-{TAB}allow DNA duplicates / doubles
+{TAB}{TAB}{TAB}-{TAB}ignore genetic information replicates
+{TAB}{TAB}{TAB}-{TAB}if this statement given as part of stage 2 allow max 4 marks
+{TAB}{TAB}{TAB}-{TAB}allow chromosomes separate or are pulled apart
+{TAB}{TAB}{TAB}-{TAB}allow nucleus splits into two
+{TAB}{TAB}{TAB}-{TAB}allow cytokinesis{TAB_RIGHT}(5)
+
+4.1.2.3/4.1.1.4/4.6.2.4(AO1/AO3)
+06.6{TAB}any {BOLD}2{BOLD} from advantages:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}•{TAB}may be used to cure / treat (current / future) diseases or cure medical conditions or produce replacement cells / tissues / organs
+{TAB}{TAB}{TAB}•{TAB}cells / tissues of any type could be produced
+{TAB}{TAB}{TAB}•{TAB}cells unlikely to be rejected by the patient
+{TAB}{TAB}{TAB}•{TAB}many cells produced
+{TAB}{TAB}{TAB}•{TAB}cells produced could be used for research
+{TAB}{TAB}{TAB}•{TAB}would reduce waiting time for organ transplants (2)
+{TAB}{TAB}{TAB}any {BOLD}2{BOLD} from disadvantages:
+{TAB}{TAB}{TAB}•{TAB}potential life is killed / destroyed
+{TAB}{TAB}{TAB}•{TAB}shortage of donors / eggs
+{TAB}{TAB}{TAB}•{TAB}egg donation / collection has risks
+{TAB}{TAB}{TAB}•{TAB}do not yet know risks / side effects of the procedure on the patient
+{TAB}{TAB}{TAB}•{TAB}may transfer (viral) infection
+{TAB}{TAB}{TAB}•{TAB}poor success rate to produce viable eggs / embryo (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to cost
+{TAB}{TAB}{TAB}-{TAB}allow example eg diabetes / paralysis
+{TAB}{TAB}{TAB}-{TAB}ignore used for medical treatments
+{TAB}{TAB}{TAB}-{TAB}allow cells differentiate into many types
+{TAB}{TAB}{TAB}-{TAB}ignore identical cells are produced unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore references to cost
+{TAB}{TAB}{TAB}-{TAB}ignore unethical unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore references to religion / beliefs
+{TAB}{TAB}{TAB}-{TAB}allow embryo is destroyed
+{TAB}{TAB}{TAB}-{TAB}ignore cells destroyed or wasted
+{TAB}{TAB}{TAB}-{TAB}allow may cause tumours / cancer
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 14 marks{BOLD}{ALIGN RIGHT}

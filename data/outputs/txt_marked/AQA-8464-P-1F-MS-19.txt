@@ -1,0 +1,424 @@
+(AO1 in isolation/AO1.1)
+01.1{TAB}LED
+{TAB}{TAB}{TAB}6.2.1.1
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO1.1)
+01.2{TAB}the same as
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+
+(AO2.2)
+01.3{TAB}1500 – 900 (1)
+{TAB}{TAB}{TAB}600 (thousand)
+{TAB}{TAB}{TAB}an answer of 600 (thousand) or 600 000 scores 2 marks
+{TAB}{TAB}{TAB}two correct readings from the graph scores 1 mark
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}WS 3.2
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a range of 1480 to 1520 and a range of 880 to 920
+{TAB}{TAB}{TAB}-{TAB}allow an answer in the range of 560 (thousand) to 640 (thousand) consistent with their allowed readings
+
+(AO3.3a)
+01.4{TAB}repeat the experiment using exactly the same method
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO2.1)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO1 in isolation/AO1.1)
+01.6{TAB}power = (current)2 × resistance
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO1.1)
+01.7{TAB}temperature increases
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+
+(AO2.1)
+01.8{TAB}Q = 0.020 × 180 (1)
+{TAB}{TAB}{TAB}Q = 3.6 (C) (9)
+{TAB}{TAB}{TAB}an answer of 3.6 (C) scores 2 marks
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}WS 3.3
+{TAB}{TAB}{TAB}E
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(10)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO3/3a)
+02.1{TAB}the brightness of the lamp
+{TAB}{TAB}{TAB}6.1.3c
+{TAB}{TAB}{TAB}WS 2.2
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO3/3b)
+02.2{TAB}zero error
+{TAB}{TAB}{TAB}6.1.3c
+{TAB}{TAB}{TAB}WS 3.7
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO3/1b)
+02.3{TAB}C
+{TAB}{TAB}{TAB}6.1.3c
+{TAB}{TAB}{TAB}WS 3.7
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+()
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO3/1a)
+10.0{TAB}6.1.3c
+{TAB}{TAB}{TAB}WS 3.5
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 10
+
+{ALIGN RIGHT}{BOLD}Total Question 10: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO2.1)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 12%
+
+(AO1.1)
+02.6{TAB}replenished
+{TAB}{TAB}{TAB}in isolation
+{TAB}{TAB}{TAB}6.1.3b
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+
+(AO2.1)
+02.7{TAB}E = 490 × 31 (1)
+{TAB}{TAB}{TAB}E = 15 190
+{TAB}{TAB}{TAB}E = 15 000 (J)
+{TAB}{TAB}{TAB}an answer of 15 000 (J) scores 3 marks
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 15 200 if correct substitution is seen
+{TAB}{TAB}{TAB}-{TAB}allow an answer to 2 s.f. consistent with their calculated value of E using E=QV
+
+(AO3.2a)
+02.8{TAB}less fossil fuel is burned
+{TAB}{TAB}{TAB}6.1.3e
+{TAB}{TAB}{TAB}A
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+()
+03.1{TAB}they changed direction
+{TAB}{TAB}{TAB}AO 1/1
+{TAB}{TAB}{TAB}6.4.1.3
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow deflected/reflected/repelled
+
+(AO2/2)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 3.0 × 10-5 (nm)
+
+()
+03.3{TAB}A
+{TAB}{TAB}{TAB}AO 1/1
+{TAB}{TAB}{TAB}6.4.1.1
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO3/2b)
+03.4{TAB}1100 (°C)
+{TAB}{TAB}{TAB}6.3.2.3
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+
+(AO3/2b)
+03.5{TAB}8 (minutes)
+{TAB}{TAB}{TAB}6.3.2.3
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 12 (minutes)
+
+(AO3/1a)
+03.6{TAB}the rate of change of temperature of the gold
+{TAB}{TAB}{TAB}6.1.1.3, 6.3.2.2
+{TAB}{TAB}{TAB}A
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 12 marks{BOLD}{ALIGN RIGHT}
+
+(AO1/1)
+04.1{TAB}Pa91234
+{TAB}{TAB}{TAB}6.4.1.2
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO2.2)
+04.2{TAB}points correctly plotted to within 1 mm (1)
+{TAB}{TAB}{TAB}a curved line of best fit passing within 1 mm of all 5 points
+{TAB}{TAB}{TAB}6.4.2.3
+{TAB}{TAB}{TAB}WS 3.2
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore any line beyond 200 seconds
+
+(AO2/2)
+04.3{TAB}70 (s)
+{TAB}{TAB}{TAB}6.4.2.3
+{TAB}{TAB}{TAB}WS 3.5
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer between 65 and 75 (s)
+{TAB}{TAB}{TAB}-{TAB}allow an answer consistent with their drawn line
+
+(AO3/2b)
+04.4{TAB}70 (s)
+{TAB}{TAB}{TAB}6.4.2.3
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer between 65 and 75 (s)
+{TAB}{TAB}{TAB}-{TAB}allow their answer to question 04.3
+
+(AO1.1)
+04.5{TAB}beta
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO1.1)
+04.6{TAB}articles in scientific journals are peer reviewed
+{TAB}{TAB}{TAB}oversimplified/inaccurate/biased
+{TAB}{TAB}{TAB}6.4.2.4
+{TAB}{TAB}{TAB}WS 1.6
+{TAB}{TAB}{TAB}E
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow articles in scientific journals are based on evidence/data
+{TAB}{TAB}{TAB}-{TAB}allow newspaper articles may be
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 13 marks{BOLD}{ALIGN RIGHT}
+
+(AO1.1)
+05.1{TAB}to stop the metal case of the toaster becoming live if a fault occurs
+{TAB}{TAB}{TAB}6.2.3.2
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO1 in isolation/AO1.1)
+05.2{TAB}yellow (1)
+{TAB}{TAB}{TAB}brown
+{TAB}{TAB}{TAB}blue
+{TAB}{TAB}{TAB}6.2.3.2
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+
+(AO2.1)
+05.3{TAB}E = 850 ×120 (1)
+{TAB}{TAB}{TAB}E = 102 000 (J)
+{TAB}{TAB}{TAB}an answer of 102 000 (J) scores 2 marks
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}WS 3.3
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+
+(AO1.1)
+05.4{TAB}elastic potential (1)
+{TAB}{TAB}{TAB}kinetic
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+
+(AO1 in isolation/AO1.1)
+05.5{TAB}gravitational potential energy = mass × gravitational field strength × height
+{TAB}{TAB}or{TAB}Ep = m g h
+{TAB}{TAB}{TAB}6.1.1.2
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow gpe
+{TAB}{TAB}{TAB}-{TAB}allow any correct re-arrangement
+
+(AO2.1)
+05.6{TAB}0.049 = 0.050 × 9.8 × h (1)
+{TAB}{TAB}{TAB}h = 0.0490.050 × 9.8
+{TAB}{TAB}{TAB}h = 0.10 (m)
+{TAB}{TAB}{TAB}an answer of 0.10 (m) scores 3 marks
+{TAB}{TAB}{TAB}6.1.1.2
+{TAB}{TAB}{TAB}WS 3.3
+{TAB}{TAB}{TAB}E
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 14 marks{BOLD}{ALIGN RIGHT}
+
+(AO1/1)
+06.1{TAB}ammeter in series with the resistor, voltmeter in parallel with the resistor
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 2.4
+{TAB}{TAB}{TAB}A{TAB_RIGHT}(1)
+
+(AO1/1)
+06.2{TAB}current decreased
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 3.6
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore slows down
+
+(AO1/2)
+06.3{TAB}reverse the connections to the cell
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 2.2
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow battery for cell
+{TAB}{TAB}{TAB}-{TAB}allow reverse the cell
+
+(AO1/2)
+06.4{TAB}(directly) proportional
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 3.5
+{TAB}{TAB}{TAB}G{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not allow inversely proportional
+{TAB}{TAB}{TAB}-{TAB}do not allow indirectly proportional
+
+(AO1/1)
+06.5{TAB}potential difference = current × resistance
+{TAB}{TAB}or{TAB}V=IR
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 3.3
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow voltage for potential difference
+{TAB}{TAB}{TAB}-{TAB}allow any correct re-arrangement
+
+(AO2/1)
+06.6{TAB}3.0 = 0.12 × R (1)
+{TAB}{TAB}{TAB}R = 3.00.12
+{TAB}{TAB}{TAB}R = 25 (Ω)
+{TAB}{TAB}{TAB}an answer of 25 (Ω) scores 3 marks
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}RP 16
+{TAB}{TAB}{TAB}WS 3.3
+{TAB}{TAB}{TAB}E
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB}{TAB}{TAB}ID{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 15 marks{BOLD}{ALIGN RIGHT}
+
+(AO2.1)
+07.1{TAB}pressure decreased (1)
+{TAB}{TAB}{TAB}because molecules have less (kinetic) energy
+{TAB}{TAB}{TAB}so fewer collisions (with the wall/container each second)
+{TAB}{TAB}{TAB}6.3.3.1
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow less speed/velocity
+{TAB}{TAB}{TAB}-{TAB}allow collide with less force
+{TAB}{TAB}{TAB}-{TAB}allow less force on the walls
+
+(AO2.1)
+07.2{TAB}0.70 = m × 330 (1)
+{TAB}{TAB}or{TAB}700 = m × 330 000
+{TAB}{TAB}{TAB}m =0.70330
+{TAB}{TAB}{TAB}or m =700330 000
+{TAB}{TAB}{TAB}m = 0.0021 (kg)
+{TAB}{TAB}{TAB}an answer of 0.0021(212121…) scores 3 marks
+{TAB}{TAB}{TAB}3 marks can only be awarded for m = 0.0021(212121…) (kg)
+{TAB}{TAB}{TAB}6.3.2.2
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct rearrangement using converted value(s) of E to J and/or L to J/kg
+{TAB}{TAB}{TAB}-{TAB}allow 0.0021(212121…)
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation using converted value(s) of E and/or L
+
+(AO3/2b)
+07.3{TAB}Substance
+{TAB}{TAB}{TAB}Solid
+{TAB}{TAB}{TAB}Liquid
+{TAB}{TAB}{TAB}Gas
+{TAB}{TAB}{TAB}Oxygen
+{TAB}{TAB}{TAB}
+{TAB}{TAB}{TAB}Nitrogen
+{TAB}{TAB}{TAB}
+{TAB}{TAB}{TAB}Carbon dioxide
+{TAB}{TAB}{TAB}
+{TAB}{TAB}{TAB}2 correct answers scores 1 mark.
+{TAB}{TAB}{TAB}if more than one tick in a row, neither can score a mark
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}E{TAB_RIGHT}(1)
+
+(AO1.1)
+07.4{TAB}Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (3-4)
+{TAB}{TAB}{TAB}5–6
+{TAB}{TAB}{TAB}6.3.1.2
+{TAB}{TAB}{TAB}E
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}cooling
+{TAB}{TAB}{TAB}•{TAB}as the argon cools the particles slow down
+{TAB}{TAB}{TAB}•{TAB}particles in a liquid move slower than particles in a gas
+{TAB}{TAB}{TAB}•{TAB}particles in a solid move slower than particles in a liquid
+{TAB}{TAB}{TAB}•{TAB}as the liquid/solid cools the particles get closer together
+{TAB}{TAB}{TAB}•{TAB}as the liquid/solid cools the density increases
+{TAB}{TAB}{TAB}gas to liquid
+{TAB}{TAB}{TAB}•{TAB}particles change from being spread apart to touching each other
+{TAB}{TAB}{TAB}•{TAB}particles will (collide with other particles more often and) change direction more often
+{TAB}{TAB}{TAB}liquid to solid
+{TAB}{TAB}{TAB}•{TAB}particles change from a random arrangement to a regular pattern
+{TAB}{TAB}{TAB}•{TAB}particles change from moving freely to fixed positions
+{TAB}{TAB}{TAB}•{TAB}particles change from moving freely/randomly to vibrating
+{TAB}{TAB}{TAB}explanation
+{TAB}{TAB}{TAB}•{TAB}(internal) energy (of the argon) decreases
+{TAB}{TAB}{TAB}•{TAB}(kinetic) energy (of the particles) decreases with temperature
+{TAB}{TAB}{TAB}•{TAB}(potential) energy (of the particles) changes with change of state (of the argon)
+{TAB}{TAB}{TAB}•{TAB}forces between particles in a gas are negligible/zero
+{TAB}{TAB}{TAB}•{TAB}attractive forces act between atoms when they are close to
+{TAB}{TAB}{TAB}each other
+{TAB}{TAB}{TAB}•{TAB}attractive forces between particles are stronger in a solid than in a liquid
+{TAB}{TAB}{TAB}to access level 3 there must be an explanation of changes to arrangement and movement of particles during either cooling or a change of state
+{TAB_RIGHT}(?)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 14 marks{BOLD}{ALIGN RIGHT}

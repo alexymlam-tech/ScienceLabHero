@@ -1,0 +1,249 @@
+5.2.2.7(AO3)
+01.1{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}mass of copper produced increased (from 1900 to 2010)
+{TAB}{TAB}{TAB}•{TAB}before 1930 the mass of copper produced increased slightly
+{TAB}{TAB}{TAB}•{TAB}after 1930 the mass of copper produced increased rapidly
+{TAB}{TAB}{TAB}•{TAB}the highest mass of copper was produced in 2010
+{TAB}{TAB}{TAB}•{TAB}the lowest mass of copper was produced in 1900
+{TAB}{TAB}{TAB}•{TAB}the increase in the mass of copper produced was not linear
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a value in the range 1925 to 1930
+{TAB}{TAB}{TAB}-{TAB}allow the highest mass of copper produced was 15.8 (× 109 kilograms)
+{TAB}{TAB}{TAB}-{TAB}allow the lowest mass of copper produced was 0.2 (× 109 kilograms){TAB_RIGHT}(2)
+
+5.2.2.7(AO1)
+01.2{TAB}(alloy of copper and zinc is harder because) the atoms are different sizes (1)
+{TAB}{TAB}{TAB}(so the) layers are distorted (1)
+{TAB}{TAB}{TAB}(so the) layers cannot easily slide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (so the) atoms cannot slide over each other{TAB_RIGHT}(3)
+
+5.2.2.7(AO2)
+01.3{TAB}calculation: (% copper = 100 – 13.5 =) 86.5 (%) (1)
+{TAB}{TAB}{TAB}calculation: (mass of copper =) 86.5 / 100 × 5.25 (1)
+{TAB}{TAB}{TAB}intermediate: = 4.54125 (g) (1)
+{TAB}{TAB}{TAB}answer: = 4.54 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrectly determined percentage of copper
+{TAB}{TAB}{TAB}-{TAB}allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses the values in the question{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2(AO1)
+02.1{TAB}H2SO4 (1){TAB_RIGHT}(1)
+
+5.4.2.3(AO1)
+02.2{TAB}so all the acid reacts (1){TAB_RIGHT}(1)
+
+5.1.1.2/5.4.2.3(AO1)(RPA 8)
+02.3{TAB}heat the solution (to remove some of the water) (1)
+{TAB}{TAB}{TAB}leave to cool / crystallise (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to filtration
+{TAB}{TAB}{TAB}-{TAB}allow evaporate some of the water / solution{TAB_RIGHT}(2)
+
+5.3.1.3(AO2/AO3)
+02.4{TAB}all points correctly plotted (2)
+{TAB}{TAB}{TAB}line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 3 or 4 points correctly plotted{TAB_RIGHT}(3)
+
+5.3.1.3(AO1)
+02.5{TAB}a gas escapes (from the test tube) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow carbon dioxide escapes
+{TAB}{TAB}{TAB}-{TAB}ignore copper carbonate thermally decomposes{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.1/5.2.1.2/5.2.1.3/5.2.1.4/5.2.2.3/5.2.2.4(AO1)
+03{TAB}Level 2: Scientifically relevant features are identified; the way(s) in which they are similar/different is made clear and (where appropriate) the magnitude of the similarity/difference is noted. (4-6)
+{TAB}{TAB}{TAB}Level 1: Relevant features are identified and differences noted. (1-3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Similarities: • both have strong bonds; • particles have full outer shells
+{TAB}{TAB}{TAB}-{TAB}Differences: • sodium chloride is a compound; • sodium chloride is made from two elements; • oxygen is an element; • sodium chloride is a giant structure of ions; • oxygen is a small molecule; • sodium chloride has ionic bonds; • sodium chloride consists of oppositely charged ions; • electrons are transferred from sodium atoms to chlorine atoms; • oxygen is covalent; • oxygen (molecules) are made up of oxygen atoms; • joined by double covalent bond; • electrons are shared between oxygen atoms; • with weak forces between oxygen molecules
+{TAB}{TAB}{TAB}-{TAB}For Level 2, there must be a comparison of either the structure or bonding of both sodium chloride and oxygen, and a description of magnitude.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2(AO3)
+04.1{TAB}magnesium (1){TAB_RIGHT}(1)
+
+5.1.2.5/5.4.1.2/5.5.1.1(AO2)(RPA 10)
+04.2{TAB}measurement: 21.1 (°C) (1)
+{TAB}{TAB}{TAB}measurement: 14.4 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of an incorrect start temperature{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+04.3{TAB}any two from: (2)
+{TAB}{TAB}{TAB}•{TAB}surface area of metal
+{TAB}{TAB}{TAB}•{TAB}25 cm3 / volume of copper sulfate solution
+{TAB}{TAB}{TAB}•{TAB}concentration of copper sulfate solution
+{TAB}{TAB}{TAB}•{TAB}mass / 1 g of metal
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore amount / temperature / stirring{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO3/AO2)(RPA 10)
+04.4{TAB}calculation: 9.2 + 9.5 + 9.2 / 3 or 27.9 / 3 (1)
+{TAB}{TAB}{TAB}answer: = 9.3 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 8.8 (°C){TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+04.5{TAB}(metal A / zinc) is less reactive (than magnesium) (1)
+{TAB}{TAB}or{TAB}(metal A / zinc) is lower in reactivity series (1)
+{TAB}{TAB}or{TAB}change in temperature is lower (with metal A / zinc) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse{TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+04.6{TAB}stays the same (1){TAB_RIGHT}(1)
+
+5.1.2.5/5.4.1.2/5.5.1.1(AO2)(RPA 10)
+04.7{TAB}too dangerous (1)
+{TAB}{TAB}or{TAB}too reactive (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow potassium would react with water{TAB_RIGHT}(1)
+
+5.3.2.5(AO2)(RPA 10)
+04.8{TAB}substitution: 25 / 100 × 1.8 or 1 / 4 × 1.8 (1)
+{TAB}{TAB}{TAB}answer: = 0.45 (g) (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 14 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.2(AO1)
+05.1{TAB}atomic weight (1){TAB_RIGHT}(1)
+
+5.1.2.2(AO3)
+05.2{TAB}(because) properties were similar (1)
+{TAB}{TAB}or{TAB}(because) iodine has similar / same properties as bromine / chlorine / fluorine (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow symbols{TAB_RIGHT}(1)
+
+5.1.2.5/5.2.2.1(AO3)
+05.3{TAB}solid (1){TAB_RIGHT}(1)
+
+5.1.2.4/5.2.2.1(AO2)
+05.4{TAB}scale on the y-axis up to 180 (1)
+{TAB}{TAB}{TAB}bar for sodium at 98 (°C) (1)
+{TAB}{TAB}{TAB}bar for potassium at 63 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore scale beyond 180
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± half a small square{TAB_RIGHT}(3)
+
+5.1.2.3/5.2.1.2(AO2/AO1)
+05.5{TAB}lithium (atom) loses one electron (1)
+{TAB}{TAB}{TAB}chlorine (atom) gains one electron (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}ions are formed
+{TAB}{TAB}{TAB}•{TAB}lithium forms positive ion
+{TAB}{TAB}{TAB}•{TAB}chlorine forms negative ion
+{TAB}{TAB}{TAB}•{TAB}form a full outer shell(s) / level(s)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 marks if reference to incorrect particle / bonding
+{TAB}{TAB}{TAB}-{TAB}allow ionic bonding / noble gas structure is formed{TAB_RIGHT}(3)
+
+5.1.2.3/5.1.2.5(AO1/AO2)
+05.6{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}reactivity of elements increases going down the group
+{TAB}{TAB}{TAB}•{TAB}potassium has more shells
+{TAB}{TAB}{TAB}•{TAB}potassium can lose an (outer) electron more easily
+{TAB}{TAB}{TAB}•{TAB}potassium has an outer shell / electron further away from the nucleus
+{TAB}{TAB}{TAB}•{TAB}potassium has more shielding (of the outer shell / electron)
+{TAB}{TAB}{TAB}•{TAB}potassium has a weaker attraction between nucleus and outer shell / electron
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow energy levels for shells
+{TAB}{TAB}{TAB}-{TAB}allow converse for lithium{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.4/5.1.1.5(AO2)
+06.1{TAB}13 (1)
+{TAB}{TAB}{TAB}14 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only{TAB_RIGHT}(2)
+
+5.4.1.1/5.4.1.3(AO1)
+06.2{TAB}loss of oxygen (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (Al3+) gain of electrons
+{TAB}{TAB}{TAB}-{TAB}allow aluminium oxide loses oxygen{TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.2/5.4.3.3(AO1)
+06.3{TAB}(at high temperature) oxygen reacts with carbon / electrode (1)
+{TAB}{TAB}{TAB}(so the positive) electrode burns / wears away (1)
+{TAB}{TAB}{TAB}to produce carbon dioxide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow anode for (positive) electrode
+{TAB}{TAB}{TAB}-{TAB}C + O2 → CO2 scores MP1 and MP3{TAB_RIGHT}(3)
+
+5.2.2.3/5.2.2.8/5.2.3.2(AO1/AO2)
+06.4{TAB}(delocalised) electron(s) (1)
+{TAB}{TAB}{TAB}ion(s) (1)
+{TAB}{TAB}{TAB}(delocalised) electron(s) (1){TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.4(AO2)
+07.1{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}not to scale
+{TAB}{TAB}{TAB}•{TAB}not 3 dimensional / D
+{TAB}{TAB}{TAB}•{TAB}incorrect arrangement in space
+{TAB}{TAB}{TAB}•{TAB}electrons / shells not shown
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow size of atoms incorrect
+{TAB}{TAB}{TAB}-{TAB}allow atoms are separated{TAB_RIGHT}(1)
+
+5.2.2.4(AO1)
+07.2{TAB}weak (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow weaker{TAB_RIGHT}(1)
+
+5.2.1.4(AO2)
+07.3{TAB}CH4O (1){TAB_RIGHT}(1)
+
+5.2.3.1(AO1)
+07.4{TAB}4 (1){TAB_RIGHT}(1)
+
+5.2.3.1(AO1)
+07.5{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}(very) hard
+{TAB}{TAB}{TAB}•{TAB}(very) high melting point
+{TAB}{TAB}{TAB}•{TAB}does not conduct electricity
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow strong
+{TAB}{TAB}{TAB}-{TAB}allow high thermal conductivity
+{TAB}{TAB}{TAB}-{TAB}ignore shiny{TAB_RIGHT}(2)
+
+5.2.2.6(AO1)
+07.6{TAB}graphite (1)
+{TAB}{TAB}{TAB}silicon dioxide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow graphene / silica / silicon / polymer(s) / fullerene / carbon nanotubes
+{TAB}{TAB}{TAB}-{TAB}ignore buckminsterfullerene{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.3.1.3/5.4.2.2(AO3)
+08{TAB}Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• weigh test tube
+{TAB}{TAB}{TAB}-{TAB}• add metal carbonate
+{TAB}{TAB}{TAB}-{TAB}• weigh test tube and metal carbonate
+{TAB}{TAB}{TAB}-{TAB}• heat
+{TAB}{TAB}{TAB}-{TAB}• allow to cool
+{TAB}{TAB}{TAB}-{TAB}• weigh test tube and metal oxide
+{TAB}{TAB}{TAB}-{TAB}• repeat (heat, cool and weigh) until no change in mass
+{TAB}{TAB}{TAB}-{TAB}• determine mass of metal carbonate used
+{TAB}{TAB}{TAB}-{TAB}• determine mass of carbon dioxide produced
+{TAB}{TAB}{TAB}-{TAB}• repeat with different metal carbonate(s)
+{TAB}{TAB}{TAB}-{TAB}an alternative method can be based on any mass of metal carbonates and at end divide by this mass to find mass carbon dioxide per gram metal carbonate
+{TAB}{TAB}{TAB}-{TAB}level 3 change in mass is determined for at least one other carbonate{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 8: 6 marks{BOLD}{ALIGN RIGHT}

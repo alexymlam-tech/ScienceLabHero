@@ -1,0 +1,317 @@
+4.1.1.1/4.1.1.2(AO1)
+01.1{TAB}{BOLD}A{BOLD} – (cell) membrane (1)
+{TAB}{TAB}{TAB}{BOLD}B{BOLD} – nucleus (1)
+{TAB}{TAB}{TAB}{BOLD}C{BOLD} – cytoplasm (1){TAB_RIGHT}(3)
+
+4.1.1.2(AO1)
+01.2{TAB}to control the activities of the whole cell{TAB_RIGHT}(1)
+
+01.3{TAB}to release energy in respiration{TAB_RIGHT}(1)
+
+4.1.1.2(AO1)(RPA1)
+01.4{TAB}stage (1)
+{TAB}{TAB}{TAB}eyepiece lens (1)
+{TAB}{TAB}{TAB}mirror (1)
+{TAB}{TAB}{TAB}objective lens (1){TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}must be in this order
+{TAB}{TAB}{TAB}-{TAB}allow eyepiece
+{TAB}{TAB}{TAB}-{TAB}ignore lens unqualified
+{TAB}{TAB}{TAB}-{TAB}allow objective
+{TAB}{TAB}{TAB}-{TAB}ignore lens unqualified
+
+4.1.1.5(AO2)
+01.5{TAB}measurement: 36 (mm) (1)
+{TAB}{TAB}{TAB}conversion: 36 000 (μm) (1)
+{TAB}{TAB}{TAB}substitution: 36 000 / 40 (1)
+{TAB}{TAB}{TAB}magnification: 900 (1){TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow in the range of 35 to 37 (mm)
+{TAB}{TAB}{TAB}-{TAB}allow an answer using studentany {BOLD}one'{BOLD} s measurement × 1000
+{TAB}{TAB}{TAB}-{TAB}allow studentany {BOLD}one'{BOLD} s converted measurement divided by 40
+{TAB}{TAB}{TAB}-{TAB}do not accept if units given
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 13 marks{BOLD}{ALIGN RIGHT}
+
+4.2.3.2(AO3)
+02.1{TAB}(as a) control
+{TAB}{TAB}or{TAB}(to) compare (the other results to){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to show the effect of fan / wind
+{TAB}{TAB}{TAB}-{TAB}do not accept control variable
+
+4.2.3.2(AO2)
+02.2{TAB}(loss of mass / water) increases{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow mass of leaves decreases more
+{TAB}{TAB}{TAB}-{TAB}allow more (mass / water) is lost
+
+4.2.3.2(AO2)
+02.3{TAB}loss of water (1)
+{TAB}{TAB}{TAB}(because water) evaporated (1)
+{TAB}{TAB}{TAB}from stomata / stoma (1){TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow by transpiration
+{TAB}{TAB}{TAB}-{TAB}allow diffusion
+{TAB}{TAB}{TAB}-{TAB}ignore from guard cells
+
+4.2.3.2(AO2)
+02.4{TAB}greater{TAB_RIGHT}(1)
+
+4.2.3.2(AO3)
+02.5{TAB}do the investigation again using the same method{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 7 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.3(AO1)
+03.1{TAB}C{TAB_RIGHT}(1)
+
+4.2.2.3(AO1)
+03.2{TAB}platelets{TAB_RIGHT}(1)
+
+4.2.2.1/4.2.2.3(AO1)
+03.3{TAB}any {BOLD}two{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}oxygen
+{TAB}{TAB}{TAB}•{TAB}hormones
+{TAB}{TAB}{TAB}•{TAB}urea
+{TAB}{TAB}{TAB}•{TAB}carbon dioxide
+{TAB}{TAB}{TAB}•{TAB}water
+{TAB}{TAB}{TAB}•{TAB}glucose
+{TAB}{TAB}{TAB}•{TAB}amino acids
+{TAB}{TAB}{TAB}•{TAB}fatty acids
+{TAB}{TAB}{TAB}•{TAB}glycerol
+{TAB}{TAB}{TAB}•{TAB}antibodies
+{TAB}{TAB}{TAB}•{TAB}lactic acid
+{TAB}{TAB}{TAB}•{TAB}minerals
+{TAB}{TAB}{TAB}•{TAB}vitamins
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow sugar
+{TAB}{TAB}{TAB}-{TAB}allow {BOLD}2{BOLD} named minerals / vitamins / hormones / drugs for {BOLD}2{BOLD} marks
+{TAB}{TAB}{TAB}-{TAB}allow other correctly named substances such as proteins
+
+4.2.2.2(AO3)
+03.4{TAB}any {BOLD}one{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}blood is under lower pressure
+{TAB}{TAB}{TAB}•{TAB}easier to stop the bleeding
+{TAB}{TAB}{TAB}•{TAB}easier to puncture the vein
+{TAB}{TAB}{TAB}•{TAB}easier to access (vein / blood)
+{TAB}{TAB}{TAB}•{TAB}less painful
+{TAB}{TAB}{TAB}•{TAB}blood flows smoothly
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse if clearly referring to arteries
+{TAB}{TAB}{TAB}-{TAB}allow less bleeding (after the donation)
+{TAB}{TAB}{TAB}-{TAB}allow (veins) have thinner walls
+{TAB}{TAB}{TAB}-{TAB}allow (veins) are closer to the surface (of the skin)
+{TAB}{TAB}{TAB}-{TAB}ignore references to safety
+{TAB}{TAB}{TAB}-{TAB}ignore references to oxygenated and deoxygenated blood
+
+4.2.2.3(AO3)
+03.5{TAB}(advantage) any {BOLD}one{BOLD} from: {TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}improved quality of life
+{TAB}{TAB}{TAB}•{TAB}lives are saved or deaths are reduced
+{TAB}{TAB}{TAB}•{TAB}reduced anaemia
+{TAB}{TAB}{TAB}•{TAB}restores blood levels (following severe burns / blood-loss)
+{TAB}{TAB}{TAB}(disadvantage) any {BOLD}one{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}risk of infection
+{TAB}{TAB}{TAB}•{TAB}risk of rejection
+{TAB}{TAB}{TAB}•{TAB}allergic reaction
+{TAB}{TAB}{TAB}•{TAB}bruising{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore more blood unqualified
+{TAB}{TAB}{TAB}-{TAB}allow blood type must match
+{TAB}{TAB}{TAB}-{TAB}allow wrong blood type given
+{TAB}{TAB}{TAB}-{TAB}ignore religion
+
+4.2.2.3(AO3)
+03.6{TAB}(advantage) any {BOLD}one{BOLD} from: {TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}(pleasure from) helping others
+{TAB}{TAB}or{TAB}(happiness from) saving lives
+{TAB}{TAB}{TAB}•{TAB}reveal potential health problems{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}(disadvantage) any {BOLD}one{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}pain (when donating)
+{TAB}{TAB}{TAB}•{TAB}risk of infection
+{TAB}{TAB}{TAB}•{TAB}time (spent while donating)
+{TAB}{TAB}{TAB}•{TAB}feeling unwell (after donation)
+{TAB}{TAB}{TAB}•{TAB}bruising (from the donation site)
+{TAB}{TAB}{TAB}•{TAB}reduced physical activity for the rest of the day
+{TAB}{TAB}{TAB}•{TAB}possibility of rebleeding
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow feel good factor
+{TAB}{TAB}{TAB}-{TAB}allow examples such as HIV
+{TAB}{TAB}{TAB}-{TAB}allow dizzy / hot / sweating / trembling / nauseous / fainting
+{TAB}{TAB}{TAB}-{TAB}allow fatigue
+{TAB}{TAB}{TAB}-{TAB}ignore religion
+
+{ALIGN RIGHT}{BOLD}Total Question 3:9 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.3(AO1)
+04.1{TAB}pain when urinating{TAB_RIGHT}(1)
+
+4.3.1.3/4.2.2.5(AO3)
+04.2{TAB}any {BOLD}one{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}not all cases are reported / recorded
+{TAB}{TAB}{TAB}•{TAB}(there may be) false positives / negatives
+{TAB}{TAB}{TAB}•{TAB}references to population numbers only being estimates
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow people may not know they have it
+{TAB}{TAB}{TAB}-{TAB}allow idea of misdiagnosis
+
+4.3.1.3(AO2)
+04.3{TAB}bar chart{TAB_RIGHT}(1)
+
+4.3.1.3(AO3)
+04.4{TAB}to compare
+{TAB}{TAB}or{TAB}different cities have different population sizes{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow cities are different sizes
+
+4.2.2.4/4.2.2.6(AO2)
+04.5{TAB}high fat diet (1)
+{TAB}{TAB}{TAB}smoking (1){TAB_RIGHT}(2)
+
+4.2.2.4(AO2)
+04.6{TAB}a stent{TAB_RIGHT}(1)
+
+4.2.2.4/4.2.2.3/4.4.2.1(AO2)
+04.7{TAB}less / no blood (flow){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}(so) less / no oxygen (to heart muscle / cells){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}(so) less / no respiration{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow less energy available
+{TAB}{TAB}{TAB}-{TAB}ignore reference to lactic acid
+
+{ALIGN RIGHT}{BOLD}Total Question 4:10 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1(AO1)
+05.1{TAB}(reactants) water (1)
+{TAB}{TAB}{TAB}(products) oxygen (1){TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}{TAB}
+{TAB}{TAB}{TAB}-{TAB}allow H₂O
+{TAB}{TAB}{TAB}-{TAB}allow O₂
+
+4.4.1.1/4.4.2.1(AO1)
+05.2{TAB}C₆H₁₂O₆{TAB_RIGHT}(1)
+
+4.4.1.3/4.4.2.3(AO1)
+05.3{TAB}any {BOLD}two{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}respiration
+{TAB}{TAB}{TAB}•{TAB}to convert to starch
+{TAB}{TAB}{TAB}•{TAB}to produce / store fat / oil
+{TAB}{TAB}{TAB}•{TAB}to produce cellulose
+{TAB}{TAB}{TAB}•{TAB}to produce amino acids or to produce protein
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow energy (source)
+{TAB}{TAB}{TAB}-{TAB}do not accept energy produced / made / created
+{TAB}{TAB}{TAB}-{TAB}do not accept energy for respiration
+{TAB}{TAB}{TAB}-{TAB}allow produce / store starch
+{TAB}{TAB}{TAB}-{TAB}ignore used for growth of the plant
+
+4.4.1.2/4.4.1.3/4.4.2.3(AO3/AO2)
+05.4{TAB}higher / increase in temperature
+{TAB}{TAB}or{TAB}more carbon dioxide (1)
+{TAB}{TAB}{TAB}(so) more photosynthesis (1)
+{TAB}{TAB}{TAB}(so) more glucose / sugar made (1)
+{TAB}{TAB}{TAB}(so) more protein / cellulose made (1){TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow warmer
+{TAB}{TAB}{TAB}-{TAB}allow combustion / burning releases carbon dioxide
+{TAB}{TAB}{TAB}-{TAB}allow faster photosynthesis
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.1(AO3)
+06.1{TAB}any {BOLD}two{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}less (fructose / sugar) needed
+{TAB}{TAB}{TAB}•{TAB}cheaper to produce / buy the drink
+{TAB}{TAB}{TAB}•{TAB}less energy in the drink (so people are more likely to buy it)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore fructose is sweeter than glucose
+{TAB}{TAB}{TAB}-{TAB}allow less (sugar) tax
+{TAB}{TAB}{TAB}-{TAB}allow more profit
+{TAB}{TAB}{TAB}-{TAB}ignore cheaper unqualified
+{TAB}{TAB}{TAB}-{TAB}allow less calories / J / KJ in the drink
+{TAB}{TAB}{TAB}-{TAB}allow less (fructose / sugar) needed so would be cheaper for 2 marks
+
+4.2.2.1 (AO1)( RPA3)
+06.2{TAB}add Benedict's (reagent / solution) (1)
+{TAB}{TAB}{TAB}heat reagent / solution (1)
+{TAB}{TAB}{TAB}green / yellow / orange / brown / (brick) red (1){TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow appropriate method of heating
+{TAB}{TAB}{TAB}-{TAB}if a temperature is given, must be at least 60 °C
+{TAB}{TAB}{TAB}-{TAB}ignore warm
+{TAB}{TAB}{TAB}-{TAB}ignore starting colour
+
+4.2.2.1 (AO1)(RPA3)
+06.3{TAB}add Biuret (reagent / solution) (1)
+{TAB}{TAB}{TAB}mauve / purple / lilac / pink-purple (1){TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow add Biuret A and Biuret B
+{TAB}{TAB}{TAB}-{TAB}allow add potassium / sodium hydroxide solution and copper sulfate solution
+{TAB}{TAB}{TAB}-{TAB}ignore starting colour
+
+4.2.2.1(AO1)
+06.4{TAB}{BOLD}Level 2{BOLD}: {TAB}Scientifically relevant facts, events or processes are identified and given in detail to form an accurate account.{TAB}(4‒6)
+{TAB}{TAB}{TAB}{BOLD}Level 1{BOLD}: Facts, events or processes are identified and simply stated but their relevance is not clear.{TAB}(1‒3)
+{TAB}{TAB}{TAB}No relevant content{TAB}(0)
+
+{TAB}{TAB}{TAB}{BOLD}Indicative content{BOLD}
+{TAB}{TAB}{TAB}{BOLD}Protein{BOLD}
+{TAB}{TAB}{TAB}•{TAB}protease
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(protein) broken down into amino acids
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(protease) produced in the stomach
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(protease) produced in the pancreas
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(protease) produced in the small intestine
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(hydrochloric) acid provides the correct pH for protease (in the stomach)
+
+{TAB}{TAB}{TAB}{BOLD}Fat{BOLD}
+{TAB}{TAB}{TAB}•{TAB}lipase
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(fat) broken down into fatty acids
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(fat) broken down into glycerol
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(lipase) produced by the pancreas
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(lipase) produced by the small intestine
+{TAB}{TAB}{TAB}{TAB}∘{TAB}bile
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(bile) produced by the liver
+{TAB}{TAB}{TAB}{TAB}∘{TAB}(bile) released from the gall bladder
+{TAB}{TAB}{TAB}{TAB}∘{TAB}emulsification of fats
+{TAB}{TAB}{TAB}{TAB}∘{TAB}larger surface area for lipase
+{TAB}{TAB}{TAB}{TAB}∘{TAB}neutralises acid to provide the correct pH for enzymes
+
+{TAB}{TAB}{TAB}For Level 2, answers must describe digestion of fat and protein linked to correct type of enzyme for both
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 13 marks{BOLD}{ALIGN RIGHT}
+
+4.1.3.2 (AO2)(RPA2)
+07.1{TAB}concentration of salt solution{TAB_RIGHT}(1)
+
+07.2{TAB}(water / solution on the tube / tubing)
+{TAB}{TAB}{TAB}would affect / increase the mass{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the results would not be valid
+
+4.1.3.2 (AO2)(RPA2)
+07.3{TAB}0.96/15.54×100 (1)
+{TAB}{TAB}{TAB}6.17 (760618...) (%) (1)
+{TAB}{TAB}{TAB}6.2 (%) (1){TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answer written in Table 1
+{TAB}{TAB}{TAB}-{TAB}allow correct conversion to one decimal place from students' incorrect  percentage change calculation using figures from 0.0 Concentration of salt solution in mol/dm³
+
+4.1.3.2 (AO2/AO3)(RPA2)
+07.4{TAB}all 4 points plotted correctly (2)
+{TAB}{TAB}{TAB}line of best fit (1){TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 3 points plotted correctly
+{TAB}{TAB}{TAB}-{TAB}ignore attempt to plot a point for 0 mol/dm³
+{TAB}{TAB}{TAB}-{TAB}ignore extrapolation
+
+4.1.3.2 (AO3)(RPA2)
+07.5{TAB}value from studentany {BOLD}one'{BOLD} s line of best fit{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}if no line of best fit drawn allow 1 mark for an answer in the range 0.64 to 0.66
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 9 marks{BOLD}{ALIGN RIGHT}
+
+

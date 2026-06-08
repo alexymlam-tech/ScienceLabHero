@@ -1,0 +1,351 @@
+4.1.3.2(AO1)(RPA 2)
+01.1{TAB}concentration of the sugar solution (1){TAB_RIGHT}(1)
+
+4.1.3.2(AO2/AO1)(RPA 2)
+01.2{TAB}gained water (1)
+{TAB}{TAB}{TAB}(water moves) by osmosis (1)
+{TAB}{TAB}or{TAB}(because) concentration of water outside the potato is greater than inside the cells / potato (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse statements
+{TAB}{TAB}{TAB}-{TAB}(because) concentration (of sugar solution) inside the potato is greater than outside the potato / cells{TAB_RIGHT}(2)
+
+4.1.3.2(AO2)(RPA 2)
+01.3{TAB}all points correctly plotted (1)
+{TAB}{TAB}{TAB}line of best fit drawn as a curve through all the points (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ a square
+{TAB}{TAB}{TAB}-{TAB}ignore extrapolation of curve{TAB_RIGHT}(2)
+
+4.1.3.2(AO3)(RPA 2)
+01.4{TAB}correct reading from their graph (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ a square
+{TAB}{TAB}{TAB}-{TAB}allow answer in range 0.23 to 0.24 (mol/dm3) if no line drawn{TAB_RIGHT}(1)
+
+4.1.3.2(AO2)(RPA 2)
+01.5{TAB}calculation: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}intermediate: 3.14(070352) (1)
+{TAB}{TAB}{TAB}percentage change: 3.14 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (8.21-7.96) × 100 / 7.96
+{TAB}{TAB}{TAB}-{TAB}allow correct rounding to 3 sig figs of an incorrectly calculated percentage change{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.1(AO1)
+02.1{TAB}amylase (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow phonetic spelling
+{TAB}{TAB}{TAB}-{TAB}allow carbohydrase
+{TAB}{TAB}{TAB}-{TAB}do not accept amylose{TAB_RIGHT}(1)
+
+4.2.1/4.2.2.1(AO1)
+02.2{TAB}small intestine (1){TAB_RIGHT}(1)
+
+4.1.1.5(AO1)
+02.3{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}greater magnification
+{TAB}{TAB}{TAB}•{TAB}higher resolving power
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow can see (smaller) sub-cellular structures / parts
+{TAB}{TAB}{TAB}-{TAB}allow can see more detail (inside cells)
+{TAB}{TAB}{TAB}-{TAB}allow reference to 3-D images
+
+4.2.2.1/4.2.2.2(AO2)
+02.4{TAB}capillary (1){TAB_RIGHT}(1)
+
+4.1.1.5(AO2)(RPA 1)
+02.5{TAB}rearrangement: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}calculation: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}image length: 16 (mm) (1){TAB_RIGHT}(3)
+
+4.1.3.1(AO3)
+02.6{TAB}diffusion (1){TAB_RIGHT}(1)
+
+4.1.3.3(AO3)
+02.7{TAB}active transport (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow active uptake{TAB_RIGHT}(1)
+
+4.4.2.1/4.4.2.3(AO1)
+02.8{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}respiration
+{TAB}{TAB}{TAB}•{TAB}to form glycogen
+{TAB}{TAB}{TAB}•{TAB}to make amino acids / proteins
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow as an energy source
+{TAB}{TAB}{TAB}-{TAB}do not accept to make / use / create / produce energy
+{TAB}{TAB}{TAB}-{TAB}allow to make lipid / fat
+
+4.1.1.3/4.1.3.1/4.1.3.3/4.2.2.1(AO2)
+02.9{TAB}Level 2: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• have (many) microvilli
+{TAB}{TAB}{TAB}-{TAB}• (to) increase surface area
+{TAB}{TAB}{TAB}-{TAB}• wall of villus only one cell thick or is thin
+{TAB}{TAB}{TAB}-{TAB}• capillaries are close to surface
+{TAB}{TAB}{TAB}-{TAB}• (so) short pathway
+{TAB}{TAB}{TAB}-{TAB}• good blood supply
+{TAB}{TAB}{TAB}-{TAB}• (to) transport food molecules away or to the body
+{TAB}{TAB}{TAB}-{TAB}• (and) maintain a diffusion gradient
+{TAB}{TAB}{TAB}-{TAB}• cells have many mitochondria
+{TAB}{TAB}{TAB}-{TAB}• (where) respiration takes place
+{TAB}{TAB}{TAB}-{TAB}• (where) energy is transferred
+{TAB}{TAB}{TAB}-{TAB}• (as) active transport requires energy
+{TAB}{TAB}{TAB}-{TAB}• energy is needed to absorb sugar / food / molecules
+{TAB}{TAB}{TAB}-{TAB}For Level 2 must make links between structure and it’s function{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.5/4.2.2.6(AO1)
+03.1{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}(Type 2) diabetes
+{TAB}{TAB}{TAB}•{TAB}(coronary / ischaemic) heart disease / CHD
+{TAB}{TAB}{TAB}•{TAB}high blood pressure
+{TAB}{TAB}{TAB}•{TAB}cancer
+{TAB}{TAB}{TAB}•{TAB}depression
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore obesity
+{TAB}{TAB}{TAB}-{TAB}do not accept Type 1 diabetes
+{TAB}{TAB}{TAB}-{TAB}allow cardiovascular disease
+{TAB}{TAB}{TAB}-{TAB}ignore heart attack / failure
+{TAB}{TAB}{TAB}-{TAB}allow (osteo)arthritis
+
+4.2.2.5/4.2.2.6(AO2)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 or 2.522(r) / 2.52 / 2.5 (1)
+{TAB}{TAB}{TAB}height: 1.59 (m) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow height = √ (68.1 / 27)
+{TAB}{TAB}{TAB}-{TAB}allow height = √ 2.522(r)
+{TAB}{TAB}{TAB}-{TAB}allow a correctly rounded value
+{TAB}{TAB}{TAB}-{TAB}if 2.5 is given in step 2 allow an answer of 1.58 (m){TAB_RIGHT}(3)
+
+4.2.2.5/4.2.2.6(AO3)
+03.3{TAB}overweight (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer must be consistent with height calculated in 03.2{TAB_RIGHT}(1)
+
+4.2.2.5/4.2.2.6/4.4.2.2/4.4.2.3(AO2)
+03.4{TAB}any {BOLD}3{BOLD} from:{TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}•{TAB}increased energy intake if more food eaten
+{TAB}{TAB}{TAB}•{TAB}if exercise more, more energy is transferred / released
+{TAB}{TAB}{TAB}•{TAB}if more energy is taken in than is transferred body mass increases
+{TAB}{TAB}or{TAB}if less energy is taken in than is transferred body mass decreases
+{TAB}{TAB}{TAB}•{TAB}if energy intake = energy transferred body mass stays the same
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 2 marks if refer to energy being made / used / produced / created
+{TAB}{TAB}{TAB}-{TAB}allow reference to calories / joules for energy
+{TAB}{TAB}{TAB}-{TAB}allow increased energy intake if more fat / carbohydrate eaten
+{TAB}{TAB}{TAB}-{TAB}allow converse
+{TAB}{TAB}{TAB}-{TAB}allow energy taken in when you eat
+{TAB}{TAB}{TAB}-{TAB}allow if exercise more, respiration / metabolism increases or is faster
+{TAB}{TAB}{TAB}-{TAB}allow converse
+{TAB}{TAB}{TAB}-{TAB}allow energy is transferred during exercise
+{TAB}{TAB}{TAB}-{TAB}do not accept energy is burnt during exercise
+{TAB}{TAB}{TAB}-{TAB}allow if less energy is transferred than is taken in body mass increases
+{TAB}{TAB}{TAB}-{TAB}or if more energy is transferred than is taken in body mass decreases
+{TAB}{TAB}{TAB}-{TAB}if no marks are awarded allow 1 mark for food eaten can increase body mass and exercise can decrease body mass
+{TAB}{TAB}{TAB}-{TAB}or allow 1 mark for if a lot of food is eaten and little exercise is done body mass increases
+{TAB}{TAB}{TAB}-{TAB}allow converse
+
+4.4.2.1/4.4.2.2(AO1)
+03.5{TAB}Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}During exercise:
+{TAB}{TAB}{TAB}-{TAB}• increased breathing rate
+{TAB}{TAB}{TAB}-{TAB}• increased breath volume
+{TAB}{TAB}{TAB}-{TAB}• (to) take in more oxygen for (aerobic) respiration
+{TAB}{TAB}{TAB}-{TAB}• (and) exhale more carbon dioxide
+{TAB}{TAB}{TAB}-{TAB}• increased heart rate
+{TAB}{TAB}{TAB}-{TAB}• (so) increased blood flow (to muscles)
+{TAB}{TAB}{TAB}-{TAB}• (to) transport oxygen / glucose to respiring cells faster
+{TAB}{TAB}{TAB}-{TAB}• (and) increase rate of carbon dioxide removal
+{TAB}{TAB}{TAB}-{TAB}• glycogen converted to glucose
+{TAB}{TAB}{TAB}-{TAB}• insufficient oxygen supplied (during prolonged vigorous exercise)
+{TAB}{TAB}{TAB}-{TAB}• (so) lactic acid is formed (during anaerobic respiration)
+{TAB}{TAB}{TAB}-{TAB}• (and) an oxygen debt is created
+{TAB}{TAB}{TAB}-{TAB}• (lactic acid causes) muscles become fatigued / tired or (causes) muscles to stop contracting efficiently
+{TAB}{TAB}{TAB}-{TAB}• allow reference to sweating or increased body temperature or vasodilation (during or after exercise)
+{TAB}{TAB}{TAB}-{TAB}After exercise:
+{TAB}{TAB}{TAB}-{TAB}• heart rate remains high or heart rate slowly decreases
+{TAB}{TAB}{TAB}-{TAB}• continue to breathe rapidly or breathing rate slowly decreases
+{TAB}{TAB}{TAB}-{TAB}• (to) pay back oxygen debt
+{TAB}{TAB}{TAB}-{TAB}• oxygen debt is the amount of oxygen needed to break down lactic acid
+{TAB}{TAB}{TAB}-{TAB}• (and to) provide more oxygen to react with the lactic acid and remove it from cells
+{TAB}{TAB}{TAB}-{TAB}• (some) lactic acid transported to liver
+{TAB}{TAB}{TAB}-{TAB}• (lactic acid) is converted back into glucose
+{TAB}{TAB}{TAB}-{TAB}• For Level 3 need reference to:
+{TAB}{TAB}{TAB}-{TAB}• changes during and after exercise
+{TAB}{TAB}{TAB}-{TAB}• lactic acid and its removal.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.1/4.1.1.2(AO1)
+04.1{TAB}any {BOLD}4{BOLD} from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell is smaller (than a plant cell)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell does not have chloroplasts (plant cell does)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell does not have its DNA / genetic material inside a nucleus (plant cell does)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell (may) have plasmids (plant cell does not)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell does not have mitochondria (plant cell does)
+{TAB}{TAB}{TAB}•{TAB}cell wall in bacterial cells is not made of cellulose (cell wall in plant cells is)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell does not have a large / permanent vacuole (plant cell does)
+{TAB}{TAB}{TAB}•{TAB}bacterial cell has smaller ribosomes (than plant cells)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse statements
+{TAB}{TAB}{TAB}-{TAB}‘it’ refers to bacteria
+{TAB}{TAB}{TAB}-{TAB}ignore chlorophyll
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cell does not have a nucleus (plant cell does)
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cell has DNA / genetic material in a ring / loop (plant cell does not)
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cell has DNA / genetic material free in cytoplasm
+{TAB}{TAB}{TAB}-{TAB}do not accept idea that bacterial cells do not have ribosomes
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cell (may) have a flagellum (plant cells do not)
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cell (may) have a slime capsule (plant cell does not)
+
+4.3.1.7/4.3.1.1(AO1/AO2)
+04.2{TAB}any {BOLD}4{BOLD} from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}•{TAB}dead / inactive / weakened form of pathogen / bacterium / microorganism is introduced / injected
+{TAB}{TAB}{TAB}•{TAB}white blood cells stimulated to produce antibodies
+{TAB}{TAB}{TAB}•{TAB}reference to memory cells made or remain
+{TAB}{TAB}{TAB}•{TAB}on re-exposure specific / correct antibodies are made (very) quickly
+{TAB}{TAB}{TAB}•{TAB}bacteria / pathogens / microorganisms killed and do not produce a large enough population to cause the disease
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow introduce / inject antigen(s) from the pathogen
+{TAB}{TAB}{TAB}-{TAB}allow dead / inactive / weakened form of Gonorrhoea (bacteria) introduced / injected
+{TAB}{TAB}{TAB}-{TAB}do not accept inject Gonorrhoea disease
+{TAB}{TAB}{TAB}-{TAB}do not accept incorrect white blood cell, eg phagocyte
+{TAB}{TAB}{TAB}-{TAB}allow on re-exposure specific / correct antibodies are produced in large quantities
+{TAB}{TAB}{TAB}-{TAB}allow bacteria / pathogens / microorganisms killed and do not produce a large enough population to produce toxins
+
+4.3.1.3/4.3.1.1(AO2)
+04.3{TAB}fewer bacteria / pathogens in chicken / eggs / food (1)
+{TAB}{TAB}{TAB}(so) fewer bacteria are ingested (by humans) (1)
+{TAB}{TAB}or{TAB}fewer bacteria / pathogens ingested (by humans) (1)
+{TAB}{TAB}{TAB}(so) fewer toxins produced (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to immunity unqualified
+{TAB}{TAB}{TAB}-{TAB}allow fewer chickens / eggs will carry the bacteria / pathogens
+{TAB}{TAB}{TAB}-{TAB}ignore chickens do not get disease / infected
+{TAB}{TAB}{TAB}-{TAB}allow idea of fewer bacteria being passed on to humans in food{TAB_RIGHT}(2)
+
+4.3.1.1/4.3.1.3(AO1)
+04.4{TAB}wash hands before preparing food (1)
+{TAB}{TAB}or{TAB}wash hands after using the toilet (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore wash hands unqualified
+{TAB}{TAB}{TAB}-{TAB}allow good food hygiene
+{TAB}{TAB}{TAB}-{TAB}allow clean areas where a person has been ill
+{TAB}{TAB}{TAB}-{TAB}allow do not shake hands (with someone who has food poisoning){TAB_RIGHT}(1)
+
+4.3.1.1/4.3.1.3(AO3)
+04.5{TAB}warmer weather so bacteria reproduce / increase faster (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore bacteria are killed at low temperatures
+{TAB}{TAB}{TAB}-{TAB}allow food not cooked properly on barbeques{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 12 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1/4.4.1.2(AO1)(RPA 5)
+05.1{TAB}measure the volume of oxygen produced in a given time (1)
+{TAB}{TAB}or{TAB}when more oxygen is produced in a given time the rate of photosynthesis is faster (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}a reference to rate is needed
+{TAB}{TAB}{TAB}-{TAB}allow gas for oxygen
+{TAB}{TAB}{TAB}-{TAB}allow when oxygen is produced faster the rate of photosynthesis is faster
+{TAB}{TAB}{TAB}-{TAB}ignore the faster the rate of photosynthesis, the more oxygen is produced
+{TAB}{TAB}{TAB}-{TAB}allow the slower the oxygen is produced the slower the rate of photosynthesis
+{TAB}{TAB}{TAB}-{TAB}or less oxygen being produced in a given time, the slower the rate of photosynthesis{TAB_RIGHT}(1)
+
+4.4.1.2(AO2)
+05.2{TAB}light (intensity) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore temperature{TAB_RIGHT}(1)
+
+4.4.1.2(AO3)
+05.3{TAB}20 000 (lux) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answers in range 19 500 to 20 500 (lux){TAB_RIGHT}(1)
+
+4.4.1.1/4.4.1.2(AO3)
+05.4{TAB}there is a cost for heating the greenhouse (1)
+{TAB}{TAB}{TAB}there is a cost for increasing the carbon dioxide in the atmosphere (of the greenhouse) (1)
+{TAB}{TAB}{TAB}(therefore) the additional costs might exceed the (additional) sale price / profit (1)
+{TAB}{TAB}or{TAB}(additional) costs could not be recovered by increasing the sale price of the tomatoes (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow there is a cost for lighting (in winter)
+{TAB}{TAB}{TAB}-{TAB}ignore these additional costs would reduce profits unqualified{TAB_RIGHT}(3)
+
+4.4.1.1/4.4.1.2/4.4.2.1(AO1/AO2)
+05.5{TAB}when there is no light there is no photosynthesis (1)
+{TAB}{TAB}{TAB}(so) no oxygen is produced (1)
+{TAB}{TAB}{TAB}(but) respiration happens (all the time) and oxygen is used (1)
+{TAB}{TAB}{TAB}the net / overall oxygen production is negative / - 2 (arbitrary units) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept an answer of -2 (arbitrary units) unqualified{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 10 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.9(AO2)
+06.1{TAB}3 years (1){TAB_RIGHT}(1)
+
+4.3.1.9(AO1)
+06.2{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}to reduce any risk
+{TAB}{TAB}{TAB}•{TAB}to look for side effects
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow idea (if it is unsafe) less harm will be caused with a lower dose
+{TAB}{TAB}{TAB}-{TAB}ignore that it may be unsafe / dangerous unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore unknown side effects unqualified
+
+4.3.1.9(AO2)
+06.3{TAB}too great a risk for ill person / patient (1)
+{TAB}{TAB}{TAB}patient might be taking another drug (1)
+{TAB}{TAB}or{TAB}side effects of drug are easier to identify (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow may make their condition worse
+{TAB}{TAB}{TAB}-{TAB}allow less risk to healthy person
+{TAB}{TAB}{TAB}-{TAB}ignore references to immune system
+{TAB}{TAB}{TAB}-{TAB}allow unhealthy person might be taking another drug
+{TAB}{TAB}{TAB}-{TAB}ignore to see side effects unqualified{TAB_RIGHT}(2)
+
+4.3.1.9(AO2)
+06.4{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}to prevent false claims
+{TAB}{TAB}{TAB}•{TAB}to make sure the results / conclusions are correct / valid
+{TAB}{TAB}{TAB}•{TAB}to avoid bias
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to accuracy, reliability or precision
+
+4.3.1.9(AO3)
+06.5{TAB}Level 3: A judgement, strongly linked and logically supported by a sufficient range of correct reasons, is given. (5-6)
+{TAB}{TAB}{TAB}Level 2: Some logically linked reasons are given. There may also be a simple judgement. (3-4)
+{TAB}{TAB}{TAB}Level 1: Relevant points are made. They are not logically linked. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content
+{TAB}{TAB}{TAB}-{TAB}arguments for use:
+{TAB}{TAB}{TAB}-{TAB}• will save the NHS money
+{TAB}{TAB}{TAB}-{TAB}• (approximately) 20 times as many people or 19 more people can be treated compared to Drug A
+{TAB}{TAB}{TAB}-{TAB}• (approximately) 29 times as many people can be treated compared to Drug B (allow 28 times or 28 / 27 more people)
+{TAB}{TAB}{TAB}-{TAB}• more people can be treated for the same cost
+{TAB}{TAB}{TAB}-{TAB}• patients will be treated sooner
+{TAB}{TAB}{TAB}-{TAB}• improves patient choice
+{TAB}{TAB}{TAB}-{TAB}• used in other countries so likely to be effective
+{TAB}{TAB}{TAB}-{TAB}• used in other countries so likely to be safe
+{TAB}{TAB}{TAB}-{TAB}• likely to have been tested in other countries
+{TAB}{TAB}{TAB}-{TAB}arguments against use:
+{TAB}{TAB}{TAB}-{TAB}• injections of drug not tested (in UK)
+{TAB}{TAB}{TAB}-{TAB}• cannot be sure it is as effective as Drug A / Drug B
+{TAB}{TAB}{TAB}-{TAB}• cannot be sure if it is safe to use
+{TAB}{TAB}{TAB}-{TAB}• may have unknown side effects
+{TAB}{TAB}{TAB}-{TAB}• doctors cannot be confident in prescribing Drug C
+{TAB}{TAB}{TAB}-{TAB}• goes against regulations / laws regulating drug development / use
+{TAB}{TAB}{TAB}-{TAB}• might set a precedent for other drugs not to be fully tested
+{TAB}{TAB}{TAB}-{TAB}• might set a precedent for other non- approved / unlicensed drugs to be used
+{TAB}{TAB}{TAB}-{TAB}Need advantages and disadvantages for Level 2{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 11 marks{BOLD}{ALIGN RIGHT}

@@ -1,0 +1,239 @@
+5.1.1.4/5.1.1.5(AO2)
+01.1{TAB}13 (1)
+{TAB}{TAB}{TAB}14 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only{TAB_RIGHT}(2)
+
+5.4.1.1/5.4.1.3(AO1)
+01.2{TAB}loss of oxygen (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (Al3+) gain of electrons
+{TAB}{TAB}{TAB}-{TAB}allow aluminium oxide loses oxygen{TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.2/5.4.3.3(AO1)
+01.3{TAB}(at high temperature) oxygen reacts with carbon / electrode (1)
+{TAB}{TAB}{TAB}(so the positive) electrode burns / wears away (1)
+{TAB}{TAB}{TAB}to produce carbon dioxide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow anode for (positive) electrode
+{TAB}{TAB}{TAB}-{TAB}C + O2 → CO2 scores MP1 and MP3{TAB_RIGHT}(3)
+
+5.2.2.3/5.2.2.8/5.2.3.2(AO1/AO2)
+01.4{TAB}(delocalised) electron(s) (1)
+{TAB}{TAB}{TAB}ion(s) (1)
+{TAB}{TAB}{TAB}(delocalised) electron(s) (1){TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.4(AO2)
+02.1{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}not to scale
+{TAB}{TAB}{TAB}•{TAB}not 3 dimensional / D
+{TAB}{TAB}{TAB}•{TAB}incorrect arrangement in space
+{TAB}{TAB}{TAB}•{TAB}electrons / shells not shown
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow size of atoms incorrect
+{TAB}{TAB}{TAB}-{TAB}allow atoms are separated
+{TAB}{TAB}{TAB}-{TAB}ignore properties of water{TAB_RIGHT}(1)
+
+5.2.2.4(AO1)
+02.2{TAB}weak (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow weaker{TAB_RIGHT}(1)
+
+5.2.1.4(AO2)
+02.3{TAB}CH4O (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow CH3OH{TAB_RIGHT}(1)
+
+5.2.3.1(AO1)
+02.4{TAB}4 (1){TAB_RIGHT}(1)
+
+5.2.3.1(AO1)
+02.5{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}(very) hard
+{TAB}{TAB}{TAB}•{TAB}(very) high melting point
+{TAB}{TAB}{TAB}•{TAB}does not conduct electricity
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow strong
+{TAB}{TAB}{TAB}-{TAB}allow high thermal conductivity
+{TAB}{TAB}{TAB}-{TAB}ignore shiny{TAB_RIGHT}(2)
+
+5.2.2.6(AO1)
+02.6{TAB}graphite (1)
+{TAB}{TAB}{TAB}silicon dioxide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow graphene / silica / silicon / polymer(s) / fullerene / carbon nanotubes
+{TAB}{TAB}{TAB}-{TAB}ignore buckminsterfullerene{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.3.1.3/5.4.2.2(AO3)
+03{TAB}Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• weigh test tube; • add metal carbonate; • weigh test tube and metal carbonate; • heat; • allow to cool; • weigh test tube and metal oxide; • repeat (heat, cool and weigh) until no change in mass; • determine mass of metal carbonate used; • determine mass of carbon dioxide produced; • repeat with different metal carbonate(s)
+{TAB}{TAB}{TAB}-{TAB}an alternative method can be based on any mass of metal carbonates and at end divide by this mass to find mass carbon dioxide per gram metal carbonate
+{TAB}{TAB}{TAB}-{TAB}level 3 change in mass is determined for at least one other carbonate{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.2/5.4.2.3(AO2)(RPA 8)
+04.1{TAB}ZnO (s) + 2 HCl (aq) → ZnCl2 (aq) + H2O (l) (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 2/3 correct state symbols{TAB_RIGHT}(2)
+
+5.4.2.2/5.4.2.3(AO1)(RPA 8)
+04.2{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}warm / heat the mixture
+{TAB}{TAB}{TAB}•{TAB}increase the concentration of the (hydrochloric) acid
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore add a catalyst / stir / powder / add more zinc oxide
+{TAB}{TAB}{TAB}-{TAB}do not accept volume / amount of (hydrochloric) acid
+{TAB}{TAB}{TAB}-{TAB}do not accept increase the surface area{TAB_RIGHT}(1)
+
+5.3.2.4/5.4.2.2/5.4.2.3(AO1)(RPA 8)
+04.3{TAB}zinc oxide remains / solid remains (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore colour
+{TAB}{TAB}{TAB}-{TAB}allow zinc oxide is added until in excess{TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.3(AO1)(RPA 8)
+04.4{TAB}filtration / filter (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.3(AO1)(RPA 8)
+04.5{TAB}heat (1)
+{TAB}{TAB}{TAB}leave to crystallise / cool (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept heat to dryness
+{TAB}{TAB}{TAB}-{TAB}allow leave to evaporate some water{TAB_RIGHT}(2)
+
+5.4.2.2/5.4.2.4(AO1/AO2)
+04.6{TAB}at start: value in range 12–14 (1)
+{TAB}{TAB}{TAB}at end: value in range 0–3 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}must be in this order{TAB_RIGHT}(2)
+
+5.1.1.1/5.4.2.2(AO2)
+04.7{TAB}2 NaOH + H2SO4 → Na2SO4 + 2 H2O (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for Na2SO4 and H2O{TAB_RIGHT}(2)
+
+5.4.2.2/5.4.2.4(AO3)
+04.8{TAB}0.10 (mol/dm3) (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+05.1{TAB}temperature (change) (1){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+05.2{TAB}to reach a constant temperature (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to reach room temperature{TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+05.3{TAB}line of best fit after 7 minutes (1)
+{TAB}{TAB}{TAB}extends line back to 4 minutes (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore extension of line beyond 4 minutes{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+05.4{TAB}measurement: 26.3 (°C) and 17.5 (°C) (1)
+{TAB}{TAB}{TAB}answer: = 8.8 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ecf from 05.3{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+05.5{TAB}the reaction finished / stopped (1)
+{TAB}{TAB}{TAB}(so) energy is lost to surroundings / atmosphere (1)
+{TAB}{TAB}or{TAB}(so the) solution cools (back to room temperature) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow maximum temperature has been reached
+{TAB}{TAB}{TAB}-{TAB}allow heat for energy{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO3/AO2)(RPA 10)
+05.6{TAB}aluminium / zinc / iron / beryllium (1)
+{TAB}{TAB}{TAB}metal Q is less reactive (than magnesium) / lower in reactivity series (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow Al / Zn / Fe / Be
+{TAB}{TAB}{TAB}-{TAB}do not accept copper, silver
+{TAB}{TAB}{TAB}-{TAB}MP2 dependent on a correct answer to MP1
+{TAB}{TAB}{TAB}-{TAB}allow converse{TAB_RIGHT}(2)
+
+5.3.2.1/5.4.1.2/5.5.1.1(AO2)
+05.7{TAB}conversion: 30.0 cm3 = 0.030 dm3 (1)
+{TAB}{TAB}{TAB}calculation: (moles = 30/500 × 0.1 =) 0.006 (1)
+{TAB}{TAB}{TAB}calculation: mass = 0.006 × 159.5 (1)
+{TAB}{TAB}{TAB}answer: = 0.957 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect / no unit conversion
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect value for number of moles
+{TAB}{TAB}{TAB}-{TAB}allow 0.96 (g){TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 14 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.3(AO1)
+06.1{TAB}atoms have a positively charged nucleus (1)
+{TAB}{TAB}{TAB}mass is concentrated in the nucleus in the centre of atoms (1){TAB_RIGHT}(2)
+
+5.1.1.5(AO2)
+06.2{TAB}calculation: 4 × 10^-7 / 2400 (1)
+{TAB}{TAB}{TAB}intermediate: = 1.66666 × 10^-10 (1)
+{TAB}{TAB}{TAB}answer: = 1.67 × 10^-10 (m) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 0.000 000 000 167 (m)
+{TAB}{TAB}{TAB}-{TAB}allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses the values in the question{TAB_RIGHT}(3)
+
+5.3.1.1/5.3.2.2(AO2)
+06.3{TAB}calculation: (moles Au = 0.175/197 =) 0.000888 (1)
+{TAB}{TAB}{TAB}calculation: (moles Cl2 = 0.000888 × 3/2 =) 0.00133 (1)
+{TAB}{TAB}{TAB}calculation: (mass Cl2 =) 0.00133 × 71 (1)
+{TAB}{TAB}{TAB}intermediate: = 0.0946 (g) (1)
+{TAB}{TAB}{TAB}answer: = 94.6 (mg) (1)
+{TAB}{TAB}or{TAB}ratio: 394 g Au reacts with 213 g Cl2 (1)
+{TAB}{TAB}{TAB}calculation: 1 g Au reacts with (213/394 =) 0.54 g Cl2 (1)
+{TAB}{TAB}{TAB}calculation: 0.175 g Au reacts with 0.54 × 0.175 g Cl2 (1)
+{TAB}{TAB}{TAB}intermediate: = 0.0946 (g) (1)
+{TAB}{TAB}{TAB}answer: = 94.6 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using an incorrectly calculated value of moles of gold
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using an incorrectly calculated value of moles of chlorine
+{TAB}{TAB}{TAB}-{TAB}allow a correct conversion using an incorrectly calculated mass of chlorine{TAB_RIGHT}(5)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.5/5.2.1.2(AO1)
+07.1{TAB}caesium atom loses one electron (1)
+{TAB}{TAB}{TAB}oxygen atom gains two electrons (1)
+{TAB}{TAB}{TAB}two caesium atoms react with one oxygen atom (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}(to form) Cs+ and O2-
+{TAB}{TAB}{TAB}•{TAB}(to form) caesium ion(s) and oxide ion(s)
+{TAB}{TAB}{TAB}•{TAB}(to form) ions with full outer shells / levels
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 3 marks if reference to incorrect particles / bonding / structure
+{TAB}{TAB}{TAB}-{TAB}allow (to produce) Cs2O{TAB_RIGHT}(4)
+
+5.1.2.3/5.1.2.5(AO1/AO2)
+07.2{TAB}(caesium has) more energy levels / shells (1)
+{TAB}{TAB}{TAB}outer electron / shell is further from nucleus / more shielded (1)
+{TAB}{TAB}{TAB}weaker attraction between nucleus and outer electron / shell (1)
+{TAB}{TAB}{TAB}outer electron is more easily lost (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse for sodium
+{TAB}{TAB}{TAB}-{TAB}allow (so) less energy needed to remove outer electron{TAB_RIGHT}(4)
+
+5.1.2.2(AO1/AO2)
+07.3{TAB}early periodic tables were arranged in order of atomic weights (1)
+{TAB}{TAB}{TAB}iodine has a lower atomic weight than tellurium (1)
+{TAB}{TAB}{TAB}Mendeleev placed iodine with elements with same / similar properties (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore atomic mass
+{TAB}{TAB}{TAB}-{TAB}allow converse for tellurium
+{TAB}{TAB}{TAB}-{TAB}allow F / Cl / Br for elements
+{TAB}{TAB}{TAB}-{TAB}allow O / S / Se for elements{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 11 marks{BOLD}{ALIGN RIGHT}

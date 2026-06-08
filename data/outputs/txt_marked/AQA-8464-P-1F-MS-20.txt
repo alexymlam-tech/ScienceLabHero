@@ -1,0 +1,310 @@
+(AO1)(RPA 15)
+01.1{TAB}both symbols correct and in the correct position
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}6.2.1.4{TAB_RIGHT}(1)
+
+(AO1)(RPA 15)
+01.2{TAB}the length of the wire being tested
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO1)(RPA 15)
+01.3{TAB}the resistance of the wire
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO2)(RPA 15)
+01.4{TAB}mean p.d. = 0.16 + 0.17 + 0.153 (1)
+{TAB}{TAB}{TAB}mean p.d. = 0.16 (V)
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO2/1)(RPA 15)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO2)
+01.6{TAB}power = 0.32 × 0.50 (1)
+{TAB}{TAB}{TAB}power = 0.16 (W)
+{TAB}{TAB}{TAB}6.2.4.1{TAB_RIGHT}(1)
+
+(AO2)
+01.7{TAB}charge flow = 0.50 × 17 (1)
+{TAB}{TAB}{TAB}8.5 (C)
+{TAB}{TAB}{TAB}6.2.1.2{TAB_RIGHT}(1)
+
+(AO1/2)(RPA 15)
+01.8{TAB}a straight line through the origin with a lower gradient (9)
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(9)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+02.1{TAB}contamination
+{TAB}{TAB}{TAB}6.4.2.4{TAB_RIGHT}(1)
+
+(AO2)
+02.2{TAB}2007-1992 = 15 (1)
+{TAB}{TAB}{TAB}35 (Bq)
+{TAB}{TAB}{TAB}6.4.2.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an indication of the student reading from 15 years on the graph
+{TAB}{TAB}{TAB}-{TAB}allow an answer between 34 and 36 (Bq)
+
+()
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+12.5 (years){TAB}6.4.2.3{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 12: 0 marks{BOLD}{ALIGN RIGHT}
+
+()
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+12.5 (years){TAB}6.4.2.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the same value as their answer to 02.3
+
+{ALIGN RIGHT}{BOLD}Total Question 12: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 3645 (× 100)
+
+(AO1)
+02.6{TAB}radioactive decay is a random process
+{TAB}{TAB}{TAB}6.4.2.3{TAB_RIGHT}(1)
+
+(AO1)
+02.7{TAB}use long tongs to handle the materials
+{TAB}{TAB}{TAB}6.4.2.4{TAB_RIGHT}(1)
+
+(AO1)
+02.8{TAB}peer review
+{TAB}{TAB}{TAB}6.4.2.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 10 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+03.1{TAB}it can be replenished as it is used
+{TAB}{TAB}{TAB}6.1.3{TAB_RIGHT}(1)
+
+(AO1)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for two correct answers
+
+(AO2)
+03.3{TAB}kinetic (1)
+{TAB}{TAB}{TAB}chemical
+{TAB}{TAB}{TAB}answers must be in the correct order
+{TAB}{TAB}{TAB}6.1.1.1{TAB_RIGHT}(1)
+
+(AO3)
+03.4{TAB}less energy is needed to heat the house (1)
+{TAB}{TAB}{TAB}the roof is a better insulator
+{TAB}{TAB}{TAB}6.1.2.1{TAB_RIGHT}(1)
+
+(AO2)
+03.5{TAB}E = 26 000 × 30 (1)
+{TAB}{TAB}{TAB}780 000 (J)
+{TAB}{TAB}{TAB}6.1.1.4 6.2.4.2{TAB_RIGHT}(1)
+
+(AO1)
+03.6{TAB}efficiency =useful power outputtotal power input
+{TAB}{TAB}{TAB}6.1.2.2{TAB_RIGHT}(1)
+
+(AO2)
+03.7{TAB}0.15 =useful power output26000 (1)
+{TAB}{TAB}{TAB}useful power output = 26000 × 0.15
+{TAB}{TAB}{TAB}useful power output = 3900 (W)
+{TAB}{TAB}{TAB}6.1.2.2{TAB_RIGHT}(1)
+
+(AO3)
+03.8{TAB}sometimes it is not sunny/windy (1)
+{TAB}{TAB}{TAB}so there’s more chance of electricity being generated at any time
+{TAB}{TAB}or{TAB}more electricity is generated (1)
+{TAB}{TAB}{TAB}which reduces the running costs (of the eco-home) (1)
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}if no other mark scored, allow a reference to reduced greenhouse gas emissions or reduced global warming for 1 mark
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 12 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+04.1{TAB}at random speeds in random directions
+{TAB}{TAB}{TAB}6.3.3.1{TAB_RIGHT}(1)
+
+(AO2)
+04.2{TAB}3rd thermometer ticked
+{TAB}{TAB}{TAB}6.3.2{TAB_RIGHT}(1)
+
+(AO3)
+04.3{TAB}to prevent (frost/cold) burns
+{TAB}{TAB}or{TAB}to prevent injury from the cold nitrogen
+{TAB}{TAB}{TAB}6.3.2.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to prevent frostbite
+
+(AO1)
+04.4{TAB}decreased (1)
+{TAB}{TAB}{TAB}decreased
+{TAB}{TAB}{TAB}6.3.2.1 6.3.3.1{TAB_RIGHT}(1)
+
+(AO2/1)
+04.5{TAB}860 = 0.00320 × c × 215 (1)
+{TAB}{TAB}{TAB}c = 8600.00320 × 215
+{TAB}{TAB}{TAB}c = 1250 (J/kg°C)
+{TAB}{TAB}{TAB}4-5
+{TAB}{TAB}{TAB}6.3.2.2
+{TAB}{TAB}{TAB}6.1.1.3{TAB_RIGHT}(1)
+
+(AO2)
+04.6{TAB}temperature stays the same
+{TAB}{TAB}{TAB}6.3.2.3{TAB_RIGHT}(1)
+
+(AO1)
+04.7{TAB}a change of state from liquid to gas
+{TAB}{TAB}{TAB}6.3.2.3{TAB_RIGHT}(1)
+
+(AO2)
+04.8{TAB}1440 = 0.0072 × L (1)
+{TAB}{TAB}{TAB}L =14400.0072
+{TAB}{TAB}{TAB}L = 200 000 (J/kg)
+{TAB}{TAB}{TAB}6.3.2.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 14 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+05.1{TAB}swap the blue wire and the green and yellow wire
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow connect the blue wire to the neutral pin and the yellow and green wire to the earth pin.
+{TAB}{TAB}{TAB}-{TAB}allow swap the earth and neutral wires
+{TAB}{TAB}{TAB}-{TAB}ignore the earth wire and neutral wire are wrongly connected
+
+(AO1)
+05.2{TAB}230 (V) (1)
+{TAB}{TAB}{TAB}50 (Hz)
+{TAB}{TAB}{TAB}6.2.3.1
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+
+(AO1)
+05.3{TAB}0 (V)
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+
+(AO1)
+05.4{TAB}6.2.1.1{TAB_RIGHT}(1)
+
+(AO3)
+05.5{TAB}the person could get an electric shock (1)
+{TAB}{TAB}{TAB}because there is a current in the person
+{TAB}{TAB}{TAB}6.2.3.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow so the person could be electrocuted
+{TAB}{TAB}{TAB}-{TAB}allow because the person provides a connection (from the washing machine) to earth
+{TAB}{TAB}{TAB}-{TAB}allow because there is a potential difference across the person
+
+(AO3)
+05.6{TAB}the charge flows through the earth wire (instead of the person) (1)
+{TAB}{TAB}{TAB}because the resistance of the earth wire is much less than that of a person
+{TAB}{TAB}{TAB}6.2.3.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow so the case does not become live
+{TAB}{TAB}{TAB}-{TAB}allow so the fuse will break / melt / blow
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 16 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+06.1{TAB}A = 206
+{TAB}{TAB}{TAB}6.4.2.2{TAB_RIGHT}(1)
+
+(AO2)
+06.2{TAB}Z = 82
+{TAB}{TAB}{TAB}6.4.2.2{TAB_RIGHT}(1)
+
+(AO2)
+06.3{TAB}numbers must be in this order (1)
+{TAB}{TAB}{TAB}6.4.2.2{TAB_RIGHT}(1)
+
+(AO1)
+06.4{TAB}electromagnetic waves
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+06.5{TAB}Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (3-4)
+{TAB}{TAB}{TAB}5–6
+{TAB}{TAB}{TAB}6.4.1.2
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}6.4.2.2
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}alpha radiation
+{TAB}{TAB}{TAB}•{TAB}an alpha particle is the same as a helium nucleus
+{TAB}{TAB}{TAB}•{TAB}alpha is the least penetrating
+{TAB}{TAB}{TAB}•{TAB}alpha is stopped by paper or skin
+{TAB}{TAB}{TAB}•{TAB}alpha has the shortest range in air
+{TAB}{TAB}{TAB}•{TAB}alpha will travel a few cm in air
+{TAB}{TAB}{TAB}•{TAB}because alpha is most ionising
+{TAB}{TAB}{TAB}•{TAB}because alpha has a charge of +2
+{TAB}{TAB}{TAB}beta radiation
+{TAB}{TAB}{TAB}•{TAB}a beta particle is an electron (emitted from the nucleus)
+{TAB}{TAB}{TAB}•{TAB}beta penetrates less than gamma and more than alpha
+{TAB}{TAB}{TAB}•{TAB}beta is stopped by a thin sheet of aluminium
+{TAB}{TAB}{TAB}•{TAB}beta has a shorter range than gamma
+{TAB}{TAB}{TAB}•{TAB}beta will travel up to 1m in air
+{TAB}{TAB}{TAB}•{TAB}because beta is more ionising that gamma and less ionising than alpha
+{TAB}{TAB}{TAB}•{TAB}because beta has a charge of -1
+{TAB}{TAB}{TAB}gamma radiation
+{TAB}{TAB}{TAB}•{TAB}gamma radiation is an electromagnetic wave
+{TAB}{TAB}{TAB}•{TAB}gamma is the most penetrating
+{TAB}{TAB}{TAB}•{TAB}gamma is reduced/stopped by several cm of lead or thick concrete
+{TAB}{TAB}{TAB}•{TAB}gamma has the largest range in air
+{TAB}{TAB}{TAB}•{TAB}gamma will travel very large distances in air
+{TAB}{TAB}{TAB}•{TAB}because gamma is least ionising
+{TAB}{TAB}{TAB}•{TAB}because is uncharged
+{TAB}{TAB}{TAB}to access level 3 the answer should compare alpha, beta and gamma radiation and provide some explanation of their properties
+{TAB_RIGHT}(?)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 11 marks{BOLD}{ALIGN RIGHT}

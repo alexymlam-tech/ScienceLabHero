@@ -1,0 +1,219 @@
+5.1.1.4/5.1.1.5(AO2)
+01.1{TAB}(number of protons): 4 (1)
+{TAB}{TAB}{TAB}(number of neutrons): 5 (1){TAB_RIGHT}(2)
+
+5.1.1.7/5.2.1.2(AO2)
+01.2{TAB}+2 (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO1)
+01.3{TAB}gas (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO1)
+01.4{TAB}freezing (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO1)
+01.5{TAB}heat (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow evaporate / boil{TAB_RIGHT}(1)
+
+5.1.1.3(AO1)
+01.6{TAB}1 (1){TAB_RIGHT}(1)
+
+5.1.1.3(AO1)
+01.7{TAB}chadwick (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2/5.5.1.1(AO1)(RPA 10)
+02.1{TAB}thermometer (1){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO1)(RPA 10)
+02.2{TAB}measuring cylinder (1){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+02.3{TAB}calculation: (Y =) 7.6 + 7.3 + 7.6 / 3 or 22.5 / 3 (1)
+{TAB}{TAB}{TAB}answer: = 7.5 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow for 2 marks (Y =) 7.6 + 7.6 / 2 = 7.6 (°C){TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+02.4{TAB}calculation: (temperature increase =) 0.40 / 1.2 × 9.0 (1)
+{TAB}{TAB}{TAB}answer: = 3.0 (°C) (1){TAB_RIGHT}(2)
+
+5.5.1.1(AO1)(RPA 10)
+02.5{TAB}exothermic (1){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+02.6{TAB}copper did not react (with zinc sulfate) (1)
+{TAB}{TAB}or{TAB}copper is less reactive (than zinc) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow copper is less reactive (than magnesium){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.2(AO1)
+03.1{TAB}noble gases (1){TAB_RIGHT}(1)
+
+5.2.1.2(AO2/AO1)
+03.2{TAB}potassium (atoms) lose electrons (1)
+{TAB}{TAB}{TAB}chlorine (atoms) gain electrons (1)
+{TAB}{TAB}{TAB}reference to one electron (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}to form ions
+{TAB}{TAB}{TAB}•{TAB}to form full outer shell(s)
+{TAB}{TAB}{TAB}•{TAB}to form full energy level(s)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to form a noble gas structure{TAB_RIGHT}(4)
+
+5.2.1.3(AO2)
+03.3{TAB}1 (1){TAB_RIGHT}(1)
+
+5.2.1.1/5.2.1.4(AO1)
+03.4{TAB}one shared pair in each overlap (1)
+{TAB}{TAB}{TAB}four non-bonding electrons in outer shell of oxygen (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow any combination of circles, dots, crosses, e(–) for electrons
+{TAB}{TAB}{TAB}-{TAB}do not accept extra electron(s) on outer shell of hydrogen
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons
+{TAB}{TAB}{TAB}-{TAB}the diagram scores 2 marks{TAB_RIGHT}(2)
+
+5.2.1.4(AO3)
+03.5{TAB}1 Si : 2 O (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 6 Si : 12 O{TAB_RIGHT}(1)
+
+5.2.2.5(AO1)
+03.6{TAB}weak intermolecular forces (1){TAB_RIGHT}(1)
+
+5.2.2.4/5.2.2.5(AO3)
+03.7{TAB}the melting point increases as the length of the polymer molecule increases (1)
+{TAB}{TAB}{TAB}(then the) melting point levels off (as the polymer molecule length increases) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to boiling point
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for melting point increases
+{TAB}{TAB}{TAB}-{TAB}allow (then the) melting point becomes constant (as the polymer molecule length increases){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.8(AO1)
+04.1{TAB}electrons (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO1)
+04.2{TAB}(water →) hydrogen (ion) + hydroxide (ion) (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow for 1 mark hydrogen (ion)
+{TAB}{TAB}{TAB}-{TAB}allow for 1 mark hydroxide (ion){TAB_RIGHT}(2)
+
+5.1.1.1/5.4.2.2(AO2)
+04.3{TAB}CuBr2 (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.4(AO1)(RPA 9)
+04.4{TAB}(copper ions) are positive(ly charged) (1)
+{TAB}{TAB}{TAB}(so) attracted (to the negative electrode) (1){TAB_RIGHT}(2)
+
+5.4.3.1/5.4.3.4(AO1)(RPA 9)
+04.5{TAB}discharged (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.4(AO2)(RPA 9)
+04.6{TAB}increases (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.4(AO2)(RPA 9)
+04.7{TAB}bromine (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.4.3.1/5.4.3.3(AO1)
+05.1{TAB}energy / electricity (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.3(AO1)
+05.2{TAB}carbon dioxide (1){TAB_RIGHT}(1)
+
+5.1.2.5/5.4.1.2(AO3)
+05.3{TAB}sodium reacts with air / oxygen (1)
+{TAB}{TAB}or{TAB}sodium is highly reactive (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow titanium (chloride) reacts with air / oxygen{TAB_RIGHT}(1)
+
+5.1.2.4(AO3)
+05.4{TAB}argon (1){TAB_RIGHT}(1)
+
+5.1.1.1/5.4.1.2(AO2)
+05.5{TAB}TiCl4 + 4 Na → Ti + 4 NaCl (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples{TAB_RIGHT}(1)
+
+5.3.1.1/5.3.1.3(AO2)
+05.6{TAB}4.4 (g) (1){TAB_RIGHT}(1)
+
+5.3.1.1/5.3.1.3(AO2)
+05.7{TAB}(the) mass decreased (1)
+{TAB}{TAB}{TAB}(because) carbon dioxide escapes (into the atmosphere) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (because) carbon dioxide is a gas
+{TAB}{TAB}{TAB}-{TAB}allow (because) a gas is produced{TAB_RIGHT}(2)
+
+5.4.1.3(AO2)
+05.8{TAB}the copper oxide is reduced (1)
+{TAB}{TAB}{TAB}reason: (copper oxide) loses oxygen (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.4(AO1)
+06.1{TAB}hydrogen / H+ (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+06.2{TAB}(indicator): universal (1)
+{TAB}{TAB}{TAB}(result): (green to) red / orange / yellow (1)
+{TAB}{TAB}OR{TAB}(indicator): (blue) litmus (1) (result): (turns) red (1)
+{TAB}{TAB}OR{TAB}(indicator): methyl orange (1) (result): (turns) red (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}MP2 is dependent upon MP1 being awarded
+{TAB}{TAB}{TAB}-{TAB}ignore pH meter{TAB_RIGHT}(2)
+
+5.3.2.5(AO3)
+06.3{TAB}the solubility decreases (1){TAB_RIGHT}(1)
+
+5.3.2.5/5.4.2.4(AO3)
+06.4{TAB}pH of the solution increases (1){TAB_RIGHT}(1)
+
+5.2.2.2/AO2.2(AO2)
+06.5{TAB}(l) (1){TAB_RIGHT}(1)
+
+5.3.1.3/5.4.2.2(AO3)
+06.6{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative Content:
+{TAB}{TAB}{TAB}-{TAB}• measure a (stated) mass of calcium carbonate; • use a balance; • add calcium carbonate into a conical flask; • measure a (stated) volume of hydrochloric acid; • use a measuring cylinder; • add hydrochloric acid to the conical flask; • immediately place the stopper (and delivery tube) in the conical flask; • record the total volume of carbon dioxide gas or record volume of carbon dioxide collected in set time or time taken to collect fixed volume of gas; • collected in the gas syringe; • repeat; • repeat method with different masses of calcium carbonate{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2(AO1)(RPA 8)
+07.1{TAB}neutralisation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow exothermic{TAB_RIGHT}(1)
+
+5.3.1.2(AO2)
+07.2{TAB}calculation: (Mr =) (1 × 2) + 32 + (4 × 16) (1)
+{TAB}{TAB}{TAB}answer: = 98 (1){TAB_RIGHT}(2)
+
+5.3.1.2(AO2)
+07.3{TAB}calculation: (Ar O × 4 =) 4 × 16 or 64 (1)
+{TAB}{TAB}{TAB}calculation: (percentage of oxygen =) 64 / 110 × 100 (1)
+{TAB}{TAB}{TAB}intermediate: = 58.18 (1)
+{TAB}{TAB}{TAB}answer: = 58 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrectly determined mass of oxygen
+{TAB}{TAB}{TAB}-{TAB}allow a correctly calculated answer to 2 significant figures from an incorrect calculation which uses the values in the question{TAB_RIGHT}(4)
+
+5.3.2.5(AO2)
+07.4{TAB}conversion: (25 cm3 ÷ 1000) = 0.025 dm3 (1)
+{TAB}{TAB}{TAB}calculation: (conc =) 0.30 / 0.025 (g/dm3) (1)
+{TAB}{TAB}{TAB}answer: = 12 (g/dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}alternative approach: 0.30 / 25 (g/cm3) (1) = 0.012 (g/cm3) (1) (unit conversion) (0.012 × 1000) = 12 (g/dm3) (1)
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect / no unit conversion
+{TAB}{TAB}{TAB}-{TAB}allow correct conversion of an incorrect concentration calculation{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 10 marks{BOLD}{ALIGN RIGHT}

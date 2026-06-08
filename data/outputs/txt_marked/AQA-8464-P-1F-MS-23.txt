@@ -1,0 +1,466 @@
+(AO1)
+01.1{TAB}alpha
+{TAB}{TAB}{TAB}6.4.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.2{TAB}6.4.2.1 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+01.3{TAB}6.4.2.2 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.4{TAB}6.4.2.3 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO1)
+01.6{TAB}the count-rate decreased (1)
+{TAB}{TAB}{TAB}because (gamma) radiation is absorbed by lead
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow decreased to (almost) zero
+{TAB}{TAB}{TAB}-{TAB}allow (gamma) radiation cannot penetrate (thick) lead
+
+(AO1)
+01.7{TAB}the lead was exposed to gamma radiation
+{TAB}{TAB}{TAB}6.4.2.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.8{TAB}electromagnetic waves
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.9{TAB}any {BOLD}ONE{BOLD} from:{TAB_RIGHT}(9)
+{TAB}{TAB}{TAB}•{TAB}(longer tongs give) a greater distance between the scientist and the radioactive source
+{TAB}{TAB}{TAB}•{TAB}(longer tongs) reduce the amount of radiation the scientist is exposed to
+{TAB}{TAB}{TAB}•{TAB}(longer tongs) reduce the risk of cell mutation
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (longer tongs) reduce the risk of cancer
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+02.1{TAB}decreases
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+()
+02.2{TAB}increases
+{TAB}{TAB}{TAB}AO 1.1
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.3{TAB}Ep = 2.5 × 9.8 × 3.4 (1)
+{TAB}{TAB}{TAB}Ep = 83.3 (J)
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}6.1.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 83 (J)
+
+(AO2)
+02.4{TAB}Ek = 0.5 × 2.5 × 4.82 (1)
+{TAB}{TAB}{TAB}Ek = 28.8 (J)
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}6.1.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 29 (J)
+
+(AO1)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(1)
+
+(AO1)
+02.6{TAB}speed will increase (1)
+{TAB}{TAB}{TAB}(because work done against) friction decreases
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Total Question 2
+{TAB}{TAB}{TAB}Question 3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+03.1{TAB}ΔE = 4.0 × 420 × 50 (1)
+{TAB}{TAB}{TAB}ΔE = 84 000 (J)
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}6.3.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+
+(AO1)
+03.3{TAB}the particles are in fixed positions
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.4{TAB}stays the same
+{TAB}{TAB}{TAB}6.3.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.5{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.6{TAB}(the space between the particles) increases
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the particles move further apart
+
+(AO1)
+03.7{TAB}physical
+{TAB}{TAB}{TAB}6.3.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.8{TAB}mass per kg = 184.0 (1)
+{TAB}{TAB}{TAB}mass per kg = 4.5 g
+{TAB}{TAB}{TAB}medium carbon
+{TAB}{TAB}or{TAB}mass in 4.0 kg of medium carbon steel = 4.5 × 4.0 (1)
+{TAB}{TAB}{TAB}mass in 4.0 kg of medium carbon steel = 18 g (1)
+{TAB}{TAB}{TAB}medium carbon (1)
+{TAB}{TAB}{TAB}dependent on MP2
+{TAB}{TAB}{TAB}dependent on MP1
+{TAB}{TAB}{TAB}dependent on MP2
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow mass in 4.0 kg of low carbon steel = 8 (g)
+{TAB}{TAB}{TAB}-{TAB}allow mass in 4.0 kg of high carbon steel = 28 (g)
+
+(AO2)
+03.9{TAB}280 000 = 4.0 × L (1)
+{TAB}{TAB}{TAB}L = 280 0004.0
+{TAB}{TAB}{TAB}L = 70 000 (J/kg)
+{TAB}{TAB}{TAB}6.3.2.3
+{TAB}{TAB}{TAB}Total Question 3
+{TAB}{TAB}{TAB}Question 4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+04.1{TAB}6.2.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+04.2{TAB}charge
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+04.3{TAB}place the component / thermistor in the water / beaker (1)
+{TAB}{TAB}{TAB}record the temperature (of the water) using the thermometer (1)
+{TAB}{TAB}{TAB}record / measure the resistance (using the resistance meter)
+{TAB}{TAB}{TAB}change the temperature of the water (using the kettle) and repeat the measurements (of temperature and resistance)
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow place the thermometer in the water / beaker and record the temperature
+
+(AO1)
+04.4{TAB}non-linear
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+04.5{TAB}(resistance changes from) (1)
+{TAB}{TAB}{TAB}200 () to 80 ()
+{TAB}{TAB}{TAB}change in resistance = 120 ()
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+04.6{TAB}power = potential difference × current
+{TAB}{TAB}or{TAB}P = V I
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+04.7{TAB}2900 = 230 × I (1)
+{TAB}{TAB}{TAB}I = 2900230
+{TAB}{TAB}{TAB}I = 12.6… (A)
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Total Question 4
+{TAB}{TAB}{TAB}Question 5
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 13 (A)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 15 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+05.1{TAB}geothermal
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+05.2{TAB}36 × 109 J
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1/AO2/AO3)
+05.3{TAB}Level 3: Relevant points (reasons / causes) are identified, given in (3-4)
+{TAB}{TAB}{TAB}detail and logically linked to form a clear account.
+{TAB}{TAB}{TAB}5–6
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}Figure 6
+{TAB}{TAB}{TAB}•{TAB}the power output from wind increased
+{TAB}{TAB}{TAB}•{TAB}because more wind turbines were built
+{TAB}{TAB}{TAB}•{TAB}the power output from solar increased
+{TAB}{TAB}{TAB}•{TAB}because more solar panels were built
+{TAB}{TAB}{TAB}•{TAB}power output from wind and solar may have increased due to climate change
+{TAB}{TAB}{TAB}For 2015 and 2016
+{TAB}{TAB}{TAB}•{TAB}wind power was lower in 2016 than in 2015
+{TAB}{TAB}{TAB}•{TAB}because 2016 was less windy than 2015
+{TAB}{TAB}{TAB}Figure 7
+{TAB}{TAB}{TAB}•{TAB}for most of the year the electricity generated from wind is greater than from solar.
+{TAB}{TAB}{TAB}•{TAB}the electricity generated from wind is greater in winter than in summer
+{TAB}{TAB}{TAB}•{TAB}because winter is windier than summer
+{TAB}{TAB}{TAB}•{TAB}the electricity generated from solar is greater in summer than in winter
+{TAB}{TAB}{TAB}•{TAB}because hours of sunlight are longer in summer
+{TAB}{TAB}{TAB}•{TAB}and because the intensity of sunlight is greater in summer
+{TAB}{TAB}{TAB}to access Level 3, the answer should describe trends in both graphs, and in solar power and wind power, and give some explanation for changes.
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Total Question 5
+{TAB}{TAB}{TAB}Question 6
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB_RIGHT}(?)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 17 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)(RPA15)
+06.1{TAB}voltmeter symbol correct and connected across the resistors
+{TAB}{TAB}{TAB}6.2.1.3 6.2.1.1 6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1/AO2)(RPA15)
+06.2{TAB}the total resistance must be less than 20  (1)
+{TAB}{TAB}{TAB}because the total resistance of the resistors (in parallel) is less than the resistance of the smallest resistor
+{TAB}{TAB}{TAB}6.2.2
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the total resistance cannot be more than 20 
+{TAB}{TAB}{TAB}-{TAB}allow the total resistance of the resistors (in parallel) is less than either resistor
+
+(AO1)(RPA15)
+06.3{TAB}potential difference = current × resistance
+{TAB}{TAB}or{TAB}V = IR
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)(RPA15)
+06.4{TAB}480 mA = 0.48 A (1)
+{TAB}{TAB}{TAB}V = 0.48 × 7.5
+{TAB}{TAB}{TAB}V = 3.6 (V)
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a correct substitution of an incorrectly / not converted value for current
+{TAB}{TAB}{TAB}-{TAB}allow an answer consistent with their incorrectly / not converted value for current
+
+(AO2)(RPA15)
+06.5{TAB}x-axis labelled resistance of R in  and y-axis labelled Total resistance (of resistors) in  (1)
+{TAB}{TAB}{TAB}both points plotted correctly
+{TAB}{TAB}{TAB}curved line of best fit drawn
+{TAB}{TAB}{TAB}points must be plotted within ½ small square
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a line of best fit which ignores an outlier
+
+(AO3)(RPA15)
+06.6{TAB}reading from graph consistent with their line of best fit
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer within ½ small square
+
+(AO3)
+06.7{TAB}random
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+06.8{TAB}in category A the body water percentage is 61% (1)
+{TAB}{TAB}{TAB}in category B the body water percentage is 68%
+{TAB}{TAB}{TAB}if in category A they have a healthy body water percentage and if in category B they have an unhealthy body water percentage
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Total Question 6{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a value for A between 60% and 62%
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 15 marks{BOLD}{ALIGN RIGHT}

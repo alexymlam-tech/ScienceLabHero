@@ -1,0 +1,269 @@
+5.4.1.2(AO3)
+01.1{TAB}Ca Mg Zn Cu (1){TAB_RIGHT}(1)
+
+5.4.1.2(AO3)
+01.2{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}mass (of metal / element)
+{TAB}{TAB}{TAB}•{TAB}surface area (of metal / element)
+{TAB}{TAB}{TAB}•{TAB}concentration (of acid)
+{TAB}{TAB}{TAB}•{TAB}volume (of acid)
+{TAB}{TAB}{TAB}•{TAB}temperature (of acid)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow weight
+{TAB}{TAB}{TAB}-{TAB}ignore size / length / pH / strength / room temperature
+
+5.4.1.2(AO2)
+01.3{TAB}(type of) metal / element (1){TAB_RIGHT}(1)
+
+5.1.2.3/5.1.2.5/5.4.1.2(AO3)
+01.4{TAB}(beryllium is) less reactive (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}greater attraction between nucleus and outer electrons
+{TAB}{TAB}{TAB}•{TAB}more energy is needed to remove electrons
+{TAB}{TAB}{TAB}•{TAB}loss of electrons is more difficult
+{TAB}{TAB}{TAB}•{TAB}outer electrons closer to nucleus
+{TAB}{TAB}{TAB}•{TAB}less shielding
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse answers for magnesium
+{TAB}{TAB}{TAB}-{TAB}MP2 only if MP1 is correct
+{TAB}{TAB}{TAB}-{TAB}allow higher in group / reactivity increases down the group
+{TAB}{TAB}{TAB}-{TAB}ignore reactivity series{TAB_RIGHT}(2)
+
+5.3.2.5(AO2)
+01.5{TAB}conversion: 50/1000 (dm3) = 0.05 (dm3) (1)
+{TAB}{TAB}{TAB}calculation: (3.2/0.05) (1)
+{TAB}{TAB}{TAB}answer: = 64 (g per dm3) (1)
+{TAB}{TAB}or{TAB}calculation: 3.2/50 (1) = 0.064 (1)
+{TAB}{TAB}{TAB}conversion: (× 1000) = 64 (g per dm3) (1)
+{TAB}{TAB}or{TAB}conversion: 1000/50 (1) = 20 (1)
+{TAB}{TAB}{TAB}calculation: (× 3.2) = 64 (g per dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 64 (g per dm3) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}an incorrect answer for one step does not prevent allocation of marks for subsequent steps
+{TAB}{TAB}{TAB}-{TAB}an answer of 0.16 / 0.064 / 0.64 / 6.4 / 6.4 × 10–5 (g per dm3) gains 2 marks{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.2(AO1)
+02.1{TAB}(aq) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow aq
+{TAB}{TAB}{TAB}-{TAB}ignore aqueous / formulae{TAB_RIGHT}(1)
+
+5.1.1.1/5.4.2.2(AO1)
+02.2{TAB}HNO3 (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+02.3{TAB}red (1)
+{TAB}{TAB}{TAB}purple (1)
+{TAB}{TAB}or{TAB}blue
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow orange or yellow
+{TAB}{TAB}{TAB}-{TAB}do not accept green
+{TAB}{TAB}{TAB}-{TAB}allow shades of purple eg violet{TAB_RIGHT}(2)
+
+5.4.2.4(AO3)
+02.4{TAB}D (1){TAB_RIGHT}(1)
+
+5.3.1.2(AO2)
+02.5{TAB}calculation: 3 × 16 or 48 (1)
+{TAB}{TAB}{TAB}calculation: 48/80 (×100) (1)
+{TAB}{TAB}{TAB}answer: = 60 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 60 (%) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}an answer of 20 (%) scores 2 marks for 16/80 (× 100) = 20 (%){TAB_RIGHT}(3)
+
+5.5.1.1(AO3/AO2)
+02.6{TAB}Level 3: The design/plan would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The design/plan would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The design/plan would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Steps: • use a suitable container eg test tube; • use insulation; • add water; • measure the initial water temperature (with a thermometer); • add stated mass eg 1g or 1 spatula; • stir (to dissolve the solid); • measure the final (allow lowest or highest) temperature of the solution; • calculate the temperature difference or determine graphically; • repeat with different masses; • repeat with the same volume of water
+{TAB}{TAB}{TAB}-{TAB}to access level 3 there must be an indication of how the temperature change is determined using different masses dissolved in the same quantity of water{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 14 marks{BOLD}{ALIGN RIGHT}
+
+5.5.1.2(AO1)
+03.1{TAB}line from reactants to top of curve (i.e. from 800 to 2160) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore arrowheads{TAB_RIGHT}(1)
+
+5.5.1.2(AO2/AO3)
+03.2{TAB}measurement: reads levels of reactants (800 kJ) and products (300 kJ) (1)
+{TAB}{TAB}{TAB}calculation: (800 – 300) = 500 (kJ) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of (–) 500 (kJ) scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}ignore sign
+{TAB}{TAB}{TAB}-{TAB}allow correct subtraction of one incorrect value determined for the energy change{TAB_RIGHT}(2)
+
+5.2.1.4(AO2)
+03.3{TAB}two shared pairs in overlap (1)
+{TAB}{TAB}{TAB}all non-bonding electrons in outer shell (4 electrons on each O atom) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow combination of circles, dots, crosses or e(–)
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons
+{TAB}{TAB}{TAB}-{TAB}diagram scores 2 marks{TAB_RIGHT}(2)
+
+5.1.1.1/5.5.1.1/5.5.1.3(AO2)
+03.4{TAB}calculation: (bonds broken) ((4×463) + (2×138) = ) 2128 (1)
+{TAB}{TAB}{TAB}calculation: (bonds made) ((4×463) + 496 = ) 2348 (1)
+{TAB}{TAB}{TAB}answer: (energy change = bonds broken – bonds made) (2128 – 2348 = ) (–) 220 (kJ) (1)
+{TAB}{TAB}or{TAB}calculation: (bonds broken) (2× (O–O) = (2×138) =) 276 (1)
+{TAB}{TAB}{TAB}calculation: (bonds made) (1× (O=O) = ) 496 (1)
+{TAB}{TAB}{TAB}answer: (energy change = bonds broken – bonds made) (276 – 496 = ) (–) 220 (kJ) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of (–) 220 (kJ) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}an incorrect answer for one step does not prevent allocation of marks for subsequent steps
+{TAB}{TAB}{TAB}-{TAB}ignore energy change sign
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation using incorrect values from step 1 and/or step 2{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.2(AO1)
+04.1{TAB}atomic weight (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept atomic mass or Ar{TAB_RIGHT}(1)
+
+5.1.2.2(AO1)
+04.2{TAB}left gaps / spaces (1)
+{TAB}{TAB}or{TAB}changed the order based on atomic weights (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow placed them in correct groups according to properties
+{TAB}{TAB}{TAB}-{TAB}do not accept reference to atomic number{TAB_RIGHT}(1)
+
+5.1.2.6/5.2.2.4(AO1/AO3)
+04.3{TAB}weak forces between the molecules / weak intermolecular forces (1)
+{TAB}{TAB}{TAB}(so) little energy required to overcome / break the forces between molecules (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow weak intermolecular bonds
+{TAB}{TAB}{TAB}-{TAB}do not accept incorrect references to covalent bonds
+{TAB}{TAB}{TAB}-{TAB}allow (so) little energy required to separate the molecules
+{TAB}{TAB}{TAB}-{TAB}allow (so) little energy required to overcome / break the intermolecular bonds
+{TAB}{TAB}{TAB}-{TAB}ignore less energy{TAB_RIGHT}(2)
+
+5.1.2.6/5.2.2.4(AO1/AO3)
+04.4{TAB}(the) molecules get larger going down the group (1)
+{TAB}{TAB}{TAB}(so the) forces between the molecules increase / intermolecular forces increase (1)
+{TAB}{TAB}{TAB}(so the) boiling points increase going down the group (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse explanation in terms of boiling point
+{TAB}{TAB}{TAB}-{TAB}allow (so) more energy is needed to separate the molecules
+{TAB}{TAB}{TAB}-{TAB}allow (so) the boiling points increase with increasing relative atomic mass{TAB_RIGHT}(3)
+
+5.1.2.4(AO1)
+04.5{TAB}2,8 (1)
+{TAB}{TAB}{TAB}(so) stable arrangement of electrons / full outer shell (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow diagram or description{TAB_RIGHT}(2)
+
+5.3.2.1(AO2)
+04.6{TAB}calculation: (1/40) × 6.02 × 10^23 or 0.025 × 6.02 × 10^23 (1)
+{TAB}{TAB}{TAB}answer: = 1.51 × 10^22 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 1.51 × 10^22 scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow 1.505 × 10^22{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.4.3.3(AO1)
+05.1{TAB}metal is too reactive to be extracted using carbon / metal reacts with carbon (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow metal is more reactive than carbon{TAB_RIGHT}(1)
+
+5.4.3.3(AO1)
+05.2{TAB}aluminium oxide (1)
+{TAB}{TAB}{TAB}cryolite (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}either order
+{TAB}{TAB}{TAB}-{TAB}ignore bauxite or aluminium ore{TAB_RIGHT}(2)
+
+5.4.3.2/5.4.3.5(AO2)
+05.3{TAB}negative electrode: Cu2+ + 2e- → Cu (1)
+{TAB}{TAB}{TAB}positive electrode: 2Cl- → Cl2 + 2e- (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples
+{TAB}{TAB}{TAB}-{TAB}allow 2 Cl- - 2e- → Cl2{TAB_RIGHT}(2)
+
+5.4.3.4(AO3)
+05.4{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}concentration / volume of solution was different
+{TAB}{TAB}{TAB}•{TAB}impurities in solution
+{TAB}{TAB}{TAB}•{TAB}error in timing
+{TAB}{TAB}{TAB}•{TAB}copper falls off (electrode)
+{TAB}{TAB}{TAB}•{TAB}copper removed when drying electrode
+{TAB}{TAB}{TAB}•{TAB}electrode not dry (when weighed)
+{TAB}{TAB}{TAB}•{TAB}voltage / current was different
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow copper at bottom of beaker
+{TAB}{TAB}{TAB}-{TAB}ignore power supply
+{TAB}{TAB}{TAB}-{TAB}ignore recorded mass inaccurately
+
+5.4.3.4(AO2)
+05.5{TAB}reading: mass at stated time (1)
+{TAB}{TAB}{TAB}ratio: factor from time to 24 hours (1)
+{TAB}{TAB}{TAB}answer: correct evaluation (1)
+{TAB}{TAB}or{TAB}calculation: calculates the gradient (1)
+{TAB}{TAB}{TAB}calculation: gradient × time in minutes in 24 hours (1)
+{TAB}{TAB}{TAB}answer: correct evaluation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an incorrect answer for one step does not prevent allocation of marks for subsequent steps
+{TAB}{TAB}{TAB}-{TAB}allow tolerance of ± ½ small square
+{TAB}{TAB}{TAB}-{TAB}eg at 30 minutes value is 5.4 (mg); 5.4 × 48 = 259 (mg)
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation using incorrectly read value for mass at time quoted
+{TAB}{TAB}{TAB}-{TAB}eg (1.8÷10) = 0.18; 0.18 × 1440 = 259 (mg){TAB_RIGHT}(3)
+
+5.4.3.4(AO2)
+05.6{TAB}4.75 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow values in range 4.7–4.8 (g){TAB_RIGHT}(1)
+
+5.4.3.4(AO2)
+05.7{TAB}working: Y increase and X increase measured from graph and substitution into Y increase/X increase (1)
+{TAB}{TAB}{TAB}answer: correct evaluation (1)
+{TAB}{TAB}{TAB}units: g/hour (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer in the range 0.18–0.25 scores 2 marks (3 marks with correct unit)
+{TAB}{TAB}{TAB}-{TAB}allow ecf from question 05.6
+{TAB}{TAB}{TAB}-{TAB}allow g/h or g/hr or g per hour{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 14 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.1/5.1.2.5(AO2)
+06.1{TAB}2 Na + Cl2 → 2 NaCl (1){TAB_RIGHT}(1)
+
+5.1.2.5(AO1)
+06.2{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}(before): silver solid / liquid / metal or green (gas)
+{TAB}{TAB}{TAB}•{TAB}(during): yellow flame or white smoke or green colour fades / disappears
+{TAB}{TAB}{TAB}•{TAB}(after): white solid / powder
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow grey solid / metal
+{TAB}{TAB}{TAB}-{TAB}allow yellow (gas)
+{TAB}{TAB}{TAB}-{TAB}allow orange / white flame
+{TAB}{TAB}{TAB}-{TAB}allow vigorous reaction{TAB_RIGHT}(3)
+
+5.1.2.5(AO1)
+06.3{TAB}(sodium has) fewer energy levels / shells (1)
+{TAB}{TAB}{TAB}outer electron / shell is closer to nucleus / less shielded (1)
+{TAB}{TAB}{TAB}(so) greater attraction between nucleus and outer electron / shell (1)
+{TAB}{TAB}{TAB}(so) outer electron is less easily lost (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse for potassium
+{TAB}{TAB}{TAB}-{TAB}allow diagrams of electron structure
+{TAB}{TAB}{TAB}-{TAB}allow (so) loses an / one electron less easily
+{TAB}{TAB}{TAB}-{TAB}allow (so) more energy needed to remove an / one electron{TAB_RIGHT}(4)
+
+5.1.2.2/AO1/AO2
+06.4{TAB}Level 2: Scientifically relevant features are identified; the way(s) in which they are similar/different is made clear and (where appropriate) the magnitude of the similarity/difference is noted. (4-6)
+{TAB}{TAB}{TAB}Level 1: Relevant features are identified and differences noted. (1-3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Differences in bonding: sodium chloride is ionic (metal & non-metal), transferring electrons to form ions (Na+ and Cl-); hydrogen chloride is covalent (two non-metals), sharing electrons to form molecules (neutral).
+{TAB}{TAB}{TAB}-{TAB}Differences in structure: sodium chloride is giant structure/lattice with strong electrostatic forces acting in all directions (regular); hydrogen chloride is small molecules with weak intermolecular forces (irregular/random).
+{TAB}{TAB}{TAB}-{TAB}Similarities in bonding: both involve full shells/stability; both have strong bonds (transferring/sharing electrons).
+{TAB}{TAB}{TAB}-{TAB}Similarities in structure: both involve forces (electrostatic/intermolecular).
+{TAB}{TAB}{TAB}-{TAB}ignore properties eg melting points, conduct electricity
+{TAB}{TAB}{TAB}-{TAB}to access level 2 there must be a comparison of the structure and bonding and magnitude of both sodium chloride and hydrogen chloride.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 14 marks{BOLD}{ALIGN RIGHT}

@@ -1,0 +1,273 @@
+5.5.1.1(AO1)
+01.1{TAB}sports injury pack (1){TAB_RIGHT}(1)
+
+5.5.1.2(AO1)
+01.2{TAB}B (1){TAB_RIGHT}(1)
+
+5.5.1.2(AO1)
+01.3{TAB}C (1){TAB_RIGHT}(1)
+
+5.5.1.2(AO1)
+01.4{TAB}lower than (1){TAB_RIGHT}(1)
+
+5.5.1.2(AO1)
+01.5{TAB}thermometer (1){TAB_RIGHT}(1)
+
+5.5.1.1(AO2)
+01.6{TAB}measurement: 27.4 (°C) (1)
+{TAB}{TAB}{TAB}calculation: (27.4–14.3 =) 13.1 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow values in the range 27.2–27.5 (°C)
+{TAB}{TAB}{TAB}-{TAB}allow correct subtraction of incorrect temperature reading{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 7 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.3(AO1)
+02.1{TAB}hydrochloric acid (1){TAB_RIGHT}(1)
+
+5.4.2.3(AO1)
+02.2{TAB}(black) solid remains (after stirring) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow copper oxide remains allow no more copper oxide reacts{TAB_RIGHT}(1)
+
+5.4.2.3(AO1)
+02.3{TAB}first stage: B (1)
+{TAB}{TAB}{TAB}second stage: A
+{TAB}{TAB}{TAB}third stage: C
+{TAB}{TAB}{TAB}fourth stage: D (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}all 4 correct for 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark if either first stage or fourth stage is correct{TAB_RIGHT}(2)
+
+5.4.3.2(AO2)
+02.4{TAB}(negative electrode) copper (1)
+{TAB}{TAB}{TAB}(positive electrode) chlorine (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow Cu
+{TAB}{TAB}{TAB}-{TAB}allow Cl2 / Cl
+{TAB}{TAB}{TAB}-{TAB}do not accept chloride or Cl–
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark if elements are reversed{TAB_RIGHT}(2)
+
+5.4.3.4(AO2)
+02.5{TAB}measurement: a reading of an increase in mass (1)
+{TAB}{TAB}{TAB}time: correct linked reading of the increase in time (1)
+{TAB}{TAB}{TAB}gradient: correct evaluation of gradient (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}e.g. 4 (mg) in 10 (mins) scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}e.g. ( 4 / 10 =) 0.4 (mg per min)
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation of gradient from incorrectly determined values for mass and/or time{TAB_RIGHT}(3)
+
+5.4.3.3(AO1)
+02.6{TAB}cryolite (1)
+{TAB}{TAB}{TAB}oxide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.2(AO1)
+03.1{TAB}atomic weight of element (1){TAB_RIGHT}(1)
+
+5.1.2.2(AO1)
+03.2{TAB}gaps (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow spaces / blanks
+{TAB}{TAB}{TAB}-{TAB}do not accept undiscovered elements{TAB_RIGHT}(1)
+
+5.1.2.4(AO1)
+03.3{TAB}noble gases (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO2)
+03.4{TAB}18 (1)
+{TAB}{TAB}{TAB}22 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only{TAB_RIGHT}(2)
+
+5.1.1.5(AO1)
+03.5{TAB}isotopes (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO2)
+03.6{TAB}2,8,8 (1){TAB_RIGHT}(1)
+
+5.1.2.4(AO1)
+03.7{TAB}stable arrangement (of electrons) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow full outer shell
+{TAB}{TAB}{TAB}-{TAB}allow eight electrons in the outer shell
+{TAB}{TAB}{TAB}-{TAB}allow does not need to gain or lose electrons{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.2(AO1)
+04.1{TAB}2 Na + Cl2 → 2 NaCl (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples{TAB_RIGHT}(1)
+
+5.3.1.1(AO2)
+04.2{TAB}7.1 (g) (1){TAB_RIGHT}(1)
+
+5.1.2.5(AO1)
+04.3{TAB}silver (1)
+{TAB}{TAB}{TAB}green (1)
+{TAB}{TAB}{TAB}yellow (1)
+{TAB}{TAB}{TAB}white (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only
+{TAB}{TAB}{TAB}-{TAB}allow yellow
+{TAB}{TAB}{TAB}-{TAB}allow white{TAB_RIGHT}(4)
+
+5.2.1.2(AO1)
+04.4{TAB}Na+ (1)
+{TAB}{TAB}{TAB}Cl– (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for +(1) charge for sodium ion and –(1) charge for chloride ion{TAB_RIGHT}(2)
+
+5.1.2.5(AO2)
+04.5{TAB}an electron (1){TAB_RIGHT}(1)
+
+5.1.2.1 & 5.1.2.5(AO2)
+04.6{TAB}potassium (atom) is larger (1)
+{TAB}{TAB}{TAB}potassium (atom) has more energy levels (of electrons) (1)
+{TAB}{TAB}or{TAB}the potassium (atom) has more shells (of electrons) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse for sodium
+{TAB}{TAB}{TAB}-{TAB}mark independently
+{TAB}{TAB}{TAB}-{TAB}do not accept more outer shells{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.2(AO1)
+05.1{TAB}(g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow g
+{TAB}{TAB}{TAB}-{TAB}ignore formulae{TAB_RIGHT}(1)
+
+5.1.1.1(AO2)
+05.2{TAB}40 (%) (1){TAB_RIGHT}(1)
+
+5.3.1.3(AO2)
+05.3{TAB}calculation: 3.76 + 3.98 + 4.09 / 3 or 11.83 / 3 (1)
+{TAB}{TAB}{TAB}intermediate: = 3.943(33...) (1)
+{TAB}{TAB}{TAB}answer: = 3.94 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 3.94 (g) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}allow a correctly written answer to 3 significant figures from an incorrectly calculated mean{TAB_RIGHT}(3)
+
+5.2.1.4(AO1)
+05.4{TAB}one shared pair in each overlap (1)
+{TAB}{TAB}{TAB}4 non-bonding electrons in outer shell of oxygen (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow combination of circles, dots, crosses or e(–)
+{TAB}{TAB}{TAB}-{TAB}do not accept extra electron(s) on outer shell of hydrogen
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons
+{TAB}{TAB}{TAB}-{TAB}diagram scores 2 marks{TAB_RIGHT}(2)
+
+5.2.2.1/5.2.2.4(AO1)
+05.5{TAB}covalent (1){TAB_RIGHT}(1)
+
+5.2.2.4(AO2)
+05.6{TAB}higher (than) (1)
+{TAB}{TAB}{TAB}stronger (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}(than between oxygen molecules){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2(AO3)
+06.1{TAB}Ca Mg Zn Cu (1){TAB_RIGHT}(1)
+
+5.4.1.2(AO3)
+06.2{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}mass (of metal / element)
+{TAB}{TAB}{TAB}•{TAB}surface area (of metal / element)
+{TAB}{TAB}{TAB}•{TAB}concentration (of acid)
+{TAB}{TAB}{TAB}•{TAB}volume (of acid)
+{TAB}{TAB}{TAB}•{TAB}temperature (of acid)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow weight
+{TAB}{TAB}{TAB}-{TAB}ignore size
+{TAB}{TAB}{TAB}-{TAB}ignore length
+{TAB}{TAB}{TAB}-{TAB}ignore pH
+{TAB}{TAB}{TAB}-{TAB}ignore strength
+{TAB}{TAB}{TAB}-{TAB}ignore room temperature
+
+5.4.1.2(AO2)
+06.3{TAB}(type of) metal / element (1){TAB_RIGHT}(1)
+
+5.1.2.3/5.1.2.5/5.4.1.2(AO3)
+06.4{TAB}(beryllium is) less reactive (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}greater attraction between nucleus and outer electrons
+{TAB}{TAB}{TAB}•{TAB}more energy is needed to remove electrons
+{TAB}{TAB}{TAB}•{TAB}loss of electrons is more difficult
+{TAB}{TAB}{TAB}•{TAB}outer electrons closer to nucleus
+{TAB}{TAB}{TAB}•{TAB}less shielding
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse answers for magnesium
+{TAB}{TAB}{TAB}-{TAB}MP2 only if MP1 is correct
+{TAB}{TAB}{TAB}-{TAB}allow higher in group
+{TAB}{TAB}{TAB}-{TAB}allow reactivity increases down the group
+{TAB}{TAB}{TAB}-{TAB}ignore reactivity series{TAB_RIGHT}(2)
+
+5.3.2.5(AO2)
+06.5{TAB}conversion: 50 / 1000 = 0.05 (dm3) (1)
+{TAB}{TAB}{TAB}calculation: ( 3.2 / 0.05 ) = 64 (g per dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}alternative approach: 3.2 / 50 (1) = 0.064 (1) (× 1000) = 64 (g per dm3) (1)
+{TAB}{TAB}{TAB}-{TAB}alternative approach: 1000 / 50 (1) = 20 (1) (× 3.2) = 64 (g per dm3) (1)
+{TAB}{TAB}{TAB}-{TAB}an answer of 64 (g per dm3) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}an incorrect answer for one step does not prevent allocation of marks for subsequent steps
+{TAB}{TAB}{TAB}-{TAB}an answer of 0.16 / 0.064 / 0.64 / 6.4 / 6.4 × 10–5 (g per dm3) gains 2 marks{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.2(AO1)
+07.1{TAB}(aq) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow aq
+{TAB}{TAB}{TAB}-{TAB}ignore aqueous
+{TAB}{TAB}{TAB}-{TAB}ignore formulae{TAB_RIGHT}(1)
+
+5.1.1.1/5.4.2.2(AO1)
+07.2{TAB}HNO3 (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+07.3{TAB}red (1)
+{TAB}{TAB}{TAB}purple (1)
+{TAB}{TAB}or{TAB}blue (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow orange or yellow
+{TAB}{TAB}{TAB}-{TAB}do not accept green
+{TAB}{TAB}{TAB}-{TAB}allow shades of purple e.g. violet{TAB_RIGHT}(2)
+
+5.4.2.4(AO3)
+07.4{TAB}D (1){TAB_RIGHT}(1)
+
+5.3.1.2(AO2)
+07.5{TAB}calculation: 3 × 16 or 48 (1)
+{TAB}{TAB}{TAB}calculation: 48 / 80 (×100) (1)
+{TAB}{TAB}{TAB}answer: 60 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 60 (%) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}an answer of 20 (%) scores 2 marks for: 16 / 80 (× 100) (1) = 20 (%) (1){TAB_RIGHT}(3)
+
+5.5.1.1(AO3/AO2)
+07.6{TAB}Level 3: The design/plan would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The design/plan would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The design/plan would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content
+{TAB}{TAB}{TAB}-{TAB}Steps:
+{TAB}{TAB}{TAB}-{TAB}• use a suitable container e.g. test tube
+{TAB}{TAB}{TAB}-{TAB}• use insulation
+{TAB}{TAB}{TAB}-{TAB}• add water
+{TAB}{TAB}{TAB}-{TAB}• measure the initial water temperature (with a thermometer)
+{TAB}{TAB}{TAB}-{TAB}• add stated mass e.g. 1g or 1 spatula
+{TAB}{TAB}{TAB}-{TAB}• stir (to dissolve the solid)
+{TAB}{TAB}{TAB}-{TAB}• measure the final (allow lowest or highest) temperature of the solution
+{TAB}{TAB}{TAB}-{TAB}• calculate the temperature difference or determine graphically
+{TAB}{TAB}{TAB}-{TAB}• repeat with different masses
+{TAB}{TAB}{TAB}-{TAB}• repeat with the same volume of water
+{TAB}{TAB}{TAB}-{TAB}to access level 3 there must be an indication of how the temperature change is determined using different masses dissolved in the same quantity of water{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 14 marks{BOLD}{ALIGN RIGHT}

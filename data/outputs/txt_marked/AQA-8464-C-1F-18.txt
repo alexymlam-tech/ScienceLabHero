@@ -1,0 +1,238 @@
+5.2.1.3(AO1)
+01.1{TAB}ionic (1){TAB_RIGHT}(1)
+
+5.2.1.4(AO1)
+01.2{TAB}a molecule (1){TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+01.3{TAB}a fullerene (1){TAB_RIGHT}(1)
+
+5.2.3.2(AO1)
+01.4{TAB}covalent (1){TAB_RIGHT}(1)
+
+5.2.3.2(AO1)
+01.5{TAB}1 (1){TAB_RIGHT}(1)
+
+5.2.2.8(AO1)
+01.6{TAB}solid (1){TAB_RIGHT}(1)
+
+5.2.2.8(AO1)
+01.7{TAB}electrons (1){TAB_RIGHT}(1)
+
+5.2.2.3(AO1)
+01.8{TAB}dissolved (1){TAB_RIGHT}(1)
+
+5.2.2.3(AO1)
+01.9{TAB}B (1)
+{TAB}{TAB}{TAB}C (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept if more than 1 line from 1 box{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.6(AO1)
+02.1{TAB}group 7 (1){TAB_RIGHT}(1)
+
+5.1.2.6/5.2.1.4(AO2)
+02.2{TAB}one shared pair anywhere in overlap between two circles or on intersection (1)
+{TAB}{TAB}{TAB}6 other electrons on each atom (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow dots or crosses or mixture for all marks
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons{TAB_RIGHT}(2)
+
+5.1.1.1/5.1.2.6(AO2)
+02.3{TAB}bromine (1)
+{TAB}{TAB}{TAB}potassium chloride (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct chemical formulae
+{TAB}{TAB}{TAB}-{TAB}either order{TAB_RIGHT}(2)
+
+5.1.2.6(AO1)
+02.4{TAB}displacement (1){TAB_RIGHT}(1)
+
+5.1.2.6(AO2)
+02.5{TAB}(an) electron (1){TAB_RIGHT}(1)
+
+5.1.2.1/5.1.2.6(AO2)
+02.6{TAB}smaller than (1){TAB_RIGHT}(1)
+
+5.1.2.1/5.1.2.6(AO2)
+02.7{TAB}(chlorine has) fewer levels / shells (of electrons) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}mark independent of answer to question 02.6
+{TAB}{TAB}{TAB}-{TAB}allow converse for bromine
+{TAB}{TAB}{TAB}-{TAB}allow (chlorine has) fewer electrons
+{TAB}{TAB}{TAB}-{TAB}allow Cl has 3 levels / shells and Br has 4 levels / shells
+{TAB}{TAB}{TAB}-{TAB}ignore atomic number or mass number or number of protons{TAB_RIGHT}(1)
+
+5.1.1.1/5.1.2.6(AO2)
+02.8{TAB}3 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples{TAB_RIGHT}(1)
+
+5.1.2.6/5.2.2.4(AO1/AO2)
+02.9{TAB}there are weak forces (1)
+{TAB}{TAB}{TAB}between molecules (1)
+{TAB}{TAB}{TAB}which require little energy to overcome / break (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept weak bonds
+{TAB}{TAB}{TAB}-{TAB}allow weak intermolecular forces for the first 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow does not need much energy to boil{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.4(AO1)
+03.1{TAB}H+ (1){TAB_RIGHT}(1)
+
+5.4.2.3(AO2)
+03.2{TAB}nitric (acid) or HNO3 (1)
+{TAB}{TAB}{TAB}zinc (oxide) or ZnO (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order only{TAB_RIGHT}(2)
+
+5.1.1.1(AO1)
+03.3{TAB}dissolved in water (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO2)
+03.4{TAB}any value from 0 to less than 8 (1){TAB_RIGHT}(1)
+
+5.1.2.3/5.4.2.4(AO3/AO2)
+03.5{TAB}Level 2: The method would lead to the production of a valid outcome. Key steps are identified and logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content
+{TAB}{TAB}{TAB}-{TAB}• add universal indicator or wide range indicator
+{TAB}{TAB}{TAB}-{TAB}indicator turns blue / purple / violet (because pH = 14) or has highest pH or is an alkali so A is sodium hydroxide
+{TAB}{TAB}{TAB}-{TAB}indicator turns red (because pH = 2) or has lowest pH or is an acid so B is phosphorus oxide
+{TAB}{TAB}{TAB}-{TAB}indicator turns green (because pH = 7) or neutral so C is silicon dioxide
+{TAB}{TAB}{TAB}-{TAB}• add solid to water
+{TAB}{TAB}{TAB}-{TAB}A and B dissolve; C does not so C is silicon dioxide{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.1(AO2)
+04.1{TAB}B (1){TAB_RIGHT}(1)
+
+5.1.1.1/5.3.1.3(AO1)
+04.2{TAB}calcium oxide or CaO (1)
+{TAB}{TAB}{TAB}carbon dioxide or CO2 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}either order{TAB_RIGHT}(2)
+
+5.3.1.3(AO1)
+04.3{TAB}decomposition (1){TAB_RIGHT}(1)
+
+5.5.1.1(AO1)
+04.4{TAB}endothermic (1){TAB_RIGHT}(1)
+
+5.3.1.3(AO2)
+04.5{TAB}32 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 31‒33 (g){TAB_RIGHT}(1)
+
+5.3.1.3(AO3)
+04.6{TAB}substitution: 32 / 5.2 × 24 (1)
+{TAB}{TAB}{TAB}answer: 148 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or uses graph eg 12 dm3 gives 74 (g) (1) (then factors up so that 24 dm3 gives) 148 (g) (1)
+{TAB}{TAB}{TAB}-{TAB}allow ecf from question 04.5
+{TAB}{TAB}{TAB}-{TAB}allow a range 143‒153 (g){TAB_RIGHT}(2)
+
+5.3.1.3(AO3)
+04.7{TAB}mistakes: increase in mass = 3 (not 4) (1)
+{TAB}{TAB}{TAB}mistakes: inserted numbers inversely into formula (1)
+{TAB}{TAB}{TAB}calculation: gradient = 750 / 3 (1)
+{TAB}{TAB}{TAB}answer: 250 (cm3 per g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}mark mistakes and calculation independently
+{TAB}{TAB}{TAB}-{TAB}allow mistakes in either order
+{TAB}{TAB}{TAB}-{TAB}allow numbers wrong way round
+{TAB}{TAB}{TAB}-{TAB}an answer of 250 scores the 2 calculation marks
+{TAB}{TAB}{TAB}-{TAB}allow 1000 / 4
+{TAB}{TAB}{TAB}-{TAB}if no calculation marks awarded allow 750 / 3 or 187.5 or 3750 or 0.004 for 1 mark{TAB_RIGHT}(4)
+
+5.3.1.2/5.3.1.3/5.1.1.5(AO2)
+04.8{TAB}calculation: 3 × 16 or 48 (1)
+{TAB}{TAB}{TAB}calculation: (48) + 12 or 60 (1)
+{TAB}{TAB}{TAB}calculation: 84 − (60) or 24 (1)
+{TAB}{TAB}{TAB}answer: magnesium or Mg (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 24 scores the 3 calculation marks
+{TAB}{TAB}{TAB}-{TAB}allow their mass of oxygen + 12
+{TAB}{TAB}{TAB}-{TAB}allow 84 − their mass of carbonate
+{TAB}{TAB}{TAB}-{TAB}magnesium or Mg without working scores this mark{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 16 marks{BOLD}{ALIGN RIGHT}
+
+5.4.3.4(AO2)
+05.1{TAB}chlorine (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO2)
+05.2{TAB}copper is less reactive than hydrogen (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO3)
+05.3{TAB}1.8 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer in range 1.7‒1.9{TAB_RIGHT}(1)
+
+5.4.3.4(AO2)
+05.4{TAB}calculation: 3.02 + 3.01 + x / 3 = 3.06 (1)
+{TAB}{TAB}{TAB}answer: 3.15 (mg) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 3.15 (mg) scores 2 marks
+{TAB}{TAB}{TAB}-{TAB}allow any other suitable method
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 9.18 for 1 mark{TAB_RIGHT}(2)
+
+5.3.2.5(AO2)
+05.5{TAB}conversion: 50 / 1000 or 1 / 20 or 0.05 (1)
+{TAB}{TAB}{TAB}substitution: (0.05) × 300 (1)
+{TAB}{TAB}{TAB}answer: 15 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or 300 / 1000 or 3 / 10 or 0.3 (1) (0.3) × 50 (1) 15 (g) (1)
+{TAB}{TAB}{TAB}-{TAB}the second mark is dependent on the first mark being scored
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 150 or 15 000 for 1 mark{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.7/5.1.2.1(AO2)
+06.1{TAB}difference: sodium has one and chlorine has seven electrons in outer level / shell (1)
+{TAB}{TAB}{TAB}similarity: both have three / same number of levels / shells (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}number of electrons must be correct if quoted
+{TAB}{TAB}{TAB}-{TAB}allow both have 2 electrons in inner shell or both have 8 electrons in second shell or both are one electron away from full outer level / shell{TAB_RIGHT}(2)
+
+5.2.1.2(AO1)
+06.2{TAB}sodium (atom) loses (1)
+{TAB}{TAB}{TAB}one (outer shell electron) (1)
+{TAB}{TAB}{TAB}chlorine (atom) gains (1)
+{TAB}{TAB}{TAB}one (electron) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow marks from suitable diagram(s)
+{TAB}{TAB}{TAB}-{TAB}allow moves / transfers for loses
+{TAB}{TAB}{TAB}-{TAB}do not accept sodium ion loses
+{TAB}{TAB}{TAB}-{TAB}do not accept chloride
+{TAB}{TAB}{TAB}-{TAB}transfer of 1 electron from chlorine to sodium max 2 marks
+{TAB}{TAB}{TAB}-{TAB}reference to sharing or covalent bonding max 3 marks{TAB_RIGHT}(4)
+
+5.5.1.2(AO1)
+06.3{TAB}any curve / line going up and then down (1)
+{TAB}{TAB}{TAB}products line below reactants (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow curve to start / finish anywhere along reactant / product lines{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.3(AO3/AO1)
+07{TAB}Level 3: Relevant points (reasons / causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• uses sulfuric acid not hydrochloric acid or sulfuric acid needed
+{TAB}{TAB}{TAB}-{TAB}• uses copper carbonate / oxide not calcium carbonate or copper carbonate / oxide needed
+{TAB}{TAB}{TAB}-{TAB}• add solid until solid remains or is in excess or no more reacts / dissolves so that most / all of the acid reacts
+{TAB}{TAB}{TAB}-{TAB}• filter to remove excess or unreacted carbonate / oxide / solid
+{TAB}{TAB}{TAB}-{TAB}• heat gently or partially evaporate or leave until crystals appear or to crystallise
+{TAB}{TAB}{TAB}-{TAB}for level 3 the correct chemicals must have been selected{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 6 marks{BOLD}{ALIGN RIGHT}

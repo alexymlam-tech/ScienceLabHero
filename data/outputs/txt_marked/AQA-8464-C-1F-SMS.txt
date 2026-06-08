@@ -1,0 +1,191 @@
+5.4.2.4(AO1)
+01.1{TAB}extra lines from solution negate the mark (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+01.2{TAB}H+ (1){TAB_RIGHT}(1)
+
+5.1.1.1(AO2)
+01.3{TAB}3 (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.4(AO1)
+01.4{TAB}Neutralisation (1){TAB_RIGHT}(1)
+
+5.4.2.2(AO1)
+01.5{TAB}sodium sulfate (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.4(AO2)
+01.6{TAB}Add indicator to sodium hydroxide solution (1)
+{TAB}{TAB}{TAB}Add sulfuric acid (gradually) (1)
+{TAB}{TAB}{TAB}until indicator just changes (colour) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow add indicator to sulfuric acid
+{TAB}{TAB}{TAB}-{TAB}allow add sodium hydroxide solution (gradually)
+{TAB}{TAB}{TAB}-{TAB}allow pH probe or until universal indicator turns green or shows pH7{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.1/5.1.2.2(AO1)
+02.1{TAB}Carbon and silicon (1){TAB_RIGHT}(1)
+
+5.1.2.1(AO1)
+02.2{TAB}Atomic number (1){TAB_RIGHT}(1)
+
+5.1.2.1/5.1.2.2(AO2)
+02.3{TAB}Hydrogen / fluorine / chlorine are not in Group 1 of the periodic table (1)
+{TAB}{TAB}or{TAB}Hydrogen and fluorine / chlorine are not in the same group of the periodic table (1)
+{TAB}{TAB}{TAB}Lithium / sodium / potassium are in Group 1 of the periodic table{TAB_RIGHT}(2)
+
+5.1.1.3/5.1.1.4/5.1.1.5/5.1.1.7(AO1)
+02.4{TAB}any {BOLD}4{BOLD} from: (4)
+{TAB}{TAB}{TAB}•{TAB}plum pudding model has a single ball of positive charge and nuclear model has positive charges in the centre / nucleus
+{TAB}{TAB}{TAB}•{TAB}plum pudding model has electrons in random positions and nuclear model has electrons in fixed positions
+{TAB}{TAB}{TAB}•{TAB}plum pudding model has no nucleus and the nuclear model has a nucleus
+{TAB}{TAB}{TAB}•{TAB}plum pudding model has no neutrons and the nuclear model has neutrons in the nucleus{TAB_RIGHT}(4)
+
+5.1.1.2(AO2)
+02.5{TAB}1 (1){TAB_RIGHT}(1)
+
+5.2.1.4(AO1)
+02.6{TAB}Covalent bond (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2(AO3)
+03.1{TAB}Z (1){TAB_RIGHT}(1)
+
+5.4.1.2(AO3)
+03.2{TAB}magnesium sulfate does not react with any of the metals (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow there is no change/increase in temperature with any of the metals{TAB_RIGHT}(1)
+
+5.5.1.1(AO2)
+03.3{TAB}temperature increase (1){TAB_RIGHT}(1)
+
+5.4.1.2(AO3)
+03.4{TAB}Level 2: A detailed and coherent plan covering all the steps. The steps include the improvements and are set out in a logical manner. (3-4)
+{TAB}{TAB}{TAB}Level 1: Simple statements of improvements to the apparatus or steps are made but they may not be set out in a logical manner. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Simple statements: • stir the solution; • use the same amount of each solution; • use the same concentration of solution; • put insulation or a lid on the beaker; • measure how high temperature goes
+{TAB}{TAB}{TAB}-{TAB}Coherent statements in a logical order: • pour a fixed, measured volume of the metal salt solution into a plastic/polystyrene cup; • measure and record the temperature of the solution; • stir and add 1 g of metal to the solution; • (put a lid on the cup); • measure and record the temperature after a set time or measure and record the greatest/highest temperature; • calculate and record the temperature increase; • (repeat each individual experiment at least two more times and calculate the mean temperature increase){TAB_RIGHT}(4)
+
+5.5.1.1/5.5.1.2(AO1)
+03.5{TAB}Activation energy (1){TAB_RIGHT}(1)
+
+5.5.1.1/5.5.1.2(AO2)
+03.6{TAB}calculation: 386 / 1370 × 100 (1)
+{TAB}{TAB}{TAB}answer: = 28 (%) (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.5/5.2.2.2(AO1)
+04.1{TAB}LiOH (aq) (1)
+{TAB}{TAB}{TAB}H2 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}this order{TAB_RIGHT}(2)
+
+5.2.2.1(AO3)
+04.2{TAB}C (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO3)
+04.3{TAB}A and D (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO2)
+04.4{TAB}point x at −10 °C (1)
+{TAB}{TAB}{TAB}point  at +150 °C (1){TAB_RIGHT}(2)
+
+5.2.2.1(AO3)
+04.5{TAB}substance B will not reach its boiling point of 190 °C (1)
+{TAB}{TAB}{TAB}because the boiling point of water is only 100 °C (1){TAB_RIGHT}(2)
+
+5.2.2.1(AO3)
+04.6{TAB}there is too much substance B to melt instantly (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answers based on thermal conductivity or temperature gradient from the wall of the test tube to the thermometer{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.3(AO1)
+05{TAB}Level 3: A coherent method is described with relevant detail, which demonstrates a broad understanding of the relevant scientific techniques, procedures and safety precautions. (5-6)
+{TAB}{TAB}{TAB}Level 2: The bulk of a method is described with mostly relevant detail, which demonstrates a reasonable understanding of the relevant scientific techniques, procedures and safety precautions. (3-4)
+{TAB}{TAB}{TAB}Level 1: Simple statements are made which demonstrate some understanding of some of the relevant scientific techniques, procedures and safety precautions. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Named chemicals: • copper oxide; • sulfuric acid; • copper sulfate
+{TAB}{TAB}{TAB}-{TAB}Apparatus: • stirring rod; • spatula; • beaker; • filter funnel and filter paper; • evaporating basin; • Bunsen burner; • tripod and gauze; • bench mat; • conical flask
+{TAB}{TAB}{TAB}-{TAB}Method: • add (excess) copper oxide to sulfuric acid; • heat the mixture; • filter the mixture; • method to evaporate some of the water from the filtrate eg using a water bath or evaporating to half volume; • leave solution (to cool and) to form crystals; • remove and dry crystals
+{TAB}{TAB}{TAB}-{TAB}Safety: • wearing of safety glasses / goggles; • care with use of sulfuric acid as corrosive; • warming not boiling mixture of copper oxide and sulfuric acid; • hold beaker containing warm mixture with tongs whilst filtering{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.4.3.1(AO1)
+06.1{TAB}electrolysis (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO3/AO2)
+06.2{TAB}Cathode: hydrogen (1)
+{TAB}{TAB}{TAB}Anode: bromine (1){TAB_RIGHT}(2)
+
+5.4.3.4(AO2)
+06.3{TAB}copper ions are positive (1)
+{TAB}{TAB}{TAB}(so the) copper ions are attracted to the negative cathode (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow so the copper ions gain electrons from the cathode to form copper atoms{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 5 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2(AO1)
+07.1{TAB}A base (1){TAB_RIGHT}(1)
+
+5.2.1.3/5.2.2.3(AO1)
+07.2{TAB}forces (1){TAB_RIGHT}(1)
+
+5.1.1.7/5.2.1.2(AO1/AO2)
+07.3{TAB}calcium loses electrons and oxygen gains electrons (1)
+{TAB}{TAB}{TAB}two electrons are transferred (1)
+{TAB}{TAB}{TAB}calcium has a 2+ charge (1)
+{TAB}{TAB}{TAB}oxide has a 2– charge (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max 3 for incorrect reference to atom/ion or to oxygen / oxide{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 6 marks{BOLD}{ALIGN RIGHT}
+
+5.3.1.1(AO2)
+08.1{TAB}408 (kg) (1){TAB_RIGHT}(1)
+
+5.3.2.5(AO2)
+08.2{TAB}all points correct (2)
+{TAB}{TAB}{TAB}best fit line (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± ½ small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark if 5 points correct{TAB_RIGHT}(3)
+
+5.3.2.5(AO2)
+08.3{TAB}calculation: 1989 / 5525 × 100 (1)
+{TAB}{TAB}{TAB}answer: = 36 (%) (1){TAB_RIGHT}(2)
+
+5.3.1.2(AO2)
+08.4{TAB}calculation: relative formula mass of TiCl4 is 190 (1)
+{TAB}{TAB}{TAB}intermediate: 25.26 % (1)
+{TAB}{TAB}{TAB}answer: = 25.3 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer given to 3 significant figures
+{TAB}{TAB}{TAB}-{TAB}25.23 % with or without working gains 3 marks{TAB_RIGHT}(3)
+
+5.1.2.4/5/5.4.1.1(AO3)
+08.5{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}argon is unreactive
+{TAB}{TAB}{TAB}•{TAB}water (vapour) would react with sodium
+{TAB}{TAB}{TAB}•{TAB}air contains oxygen that would react with reactants
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow water (vapour) would react with titanium(IV) chloride
+{TAB}{TAB}{TAB}-{TAB}allow air contains oxygen that would react with products{TAB_RIGHT}(3)
+
+5.2.1.5/5.2.2.8(AO1)
+08.6{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}(titanium conducts electricity) because electrons in the outer shell of the metal atoms are delocalised
+{TAB}{TAB}{TAB}•{TAB}electrons are free to move
+{TAB}{TAB}{TAB}•{TAB}through the whole structure
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the delocalised electrons in the metal carry electrical charge through the metal{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 8: 15 marks{BOLD}{ALIGN RIGHT}

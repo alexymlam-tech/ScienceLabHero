@@ -1,0 +1,265 @@
+4.2.2.1(AO3)
+01.1{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}less (fructose / sugar) needed
+{TAB}{TAB}{TAB}•{TAB}cheaper to produce / buy the drink
+{TAB}{TAB}{TAB}•{TAB}less energy in the drink (so people are more likely to buy it)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore fructose is sweeter than glucose
+{TAB}{TAB}{TAB}-{TAB}allow less (sugar) tax
+{TAB}{TAB}{TAB}-{TAB}allow more profit
+{TAB}{TAB}{TAB}-{TAB}ignore cheaper unqualified
+{TAB}{TAB}{TAB}-{TAB}allow less calories / J / KJ in the drink
+{TAB}{TAB}{TAB}-{TAB}allow less (fructose / sugar) needed so would be cheaper for 2 marks
+
+4.2.2.1(AO1)(RPA 3)
+01.2{TAB}add Benedict’s (reagent / solution) (1)
+{TAB}{TAB}{TAB}heat reagent / solution (1)
+{TAB}{TAB}{TAB}green / yellow / orange / brown / (brick) red (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow appropriate method of heating
+{TAB}{TAB}{TAB}-{TAB}if a temperature is given, must be at least 60 °C
+{TAB}{TAB}{TAB}-{TAB}ignore warm
+{TAB}{TAB}{TAB}-{TAB}ignore starting colour{TAB_RIGHT}(3)
+
+4.2.2.1(AO1)(RPA 3)
+01.3{TAB}add Biuret (reagent / solution) (1)
+{TAB}{TAB}{TAB}mauve / purple / lilac / pink-purple (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow add Biuret A and Biuret B
+{TAB}{TAB}{TAB}-{TAB}allow add potassium / sodium hydroxide solution and copper sulfate solution
+{TAB}{TAB}{TAB}-{TAB}ignore starting colour{TAB_RIGHT}(2)
+
+4.2.2.1(AO1)
+01.4{TAB}Level 2: Scientifically relevant facts, events or processes are identified and given in detail to form an accurate account. (4-6)
+{TAB}{TAB}{TAB}Level 1: Facts, events or processes are identified and simply stated but their relevance is not clear. (1-3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Protein
+{TAB}{TAB}{TAB}-{TAB}• protease: (protein) broken down into amino acids; produced in the stomach, pancreas, and small intestine; (hydrochloric) acid provides the correct pH for protease (in the stomach)
+{TAB}{TAB}{TAB}-{TAB}Fat
+{TAB}{TAB}{TAB}-{TAB}• lipase: (fat) broken down into fatty acids and glycerol; produced by the pancreas and small intestine; bile: produced by the liver, released from the gall bladder, emulsification of fats, larger surface area for lipase, neutralises acid to provide the correct pH for enzymes
+{TAB}{TAB}{TAB}-{TAB}For Level 2, answers must describe digestion of fat and protein linked to correct type of enzyme for both{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 13 marks{BOLD}{ALIGN RIGHT}
+
+4.1.3.2(AO2)(RPA 2)
+02.1{TAB}concentration of salt solution (1){TAB_RIGHT}(1)
+
+4.1.3.2(AO2)(RPA 2)
+02.2{TAB}(water / solution on the tube / tubing) would affect / increase the mass (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the results would not be valid{TAB_RIGHT}(1)
+
+4.1.3.2(AO2)(RPA 2)
+02.3{TAB}substitution: 0.96 / 15.54 × 100 (1)
+{TAB}{TAB}{TAB}calculation: 6.17(760618…) (%) (1)
+{TAB}{TAB}{TAB}answer: 6.2 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answer written in Table 1
+{TAB}{TAB}{TAB}-{TAB}allow correct conversion to one decimal place from students’ incorrect percentage change calculation using figures from 0.0 Concentration of salt solution in mol/dm3{TAB_RIGHT}(3)
+
+4.1.3.2(AO2/AO3)(RPA 2)
+02.4{TAB}all 4 points plotted correctly (2)
+{TAB}{TAB}{TAB}line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 3 points plotted correctly
+{TAB}{TAB}{TAB}-{TAB}ignore attempt to plot a point for 0 mol/dm3
+{TAB}{TAB}{TAB}-{TAB}ignore extrapolation{TAB_RIGHT}(3)
+
+4.1.3.2(AO3)(RPA 2)
+02.5{TAB}value from student’s line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}if no line of best fit drawn allow 1 mark for an answer in the range 0.64 to 0.66{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.2(AO1)
+03.1{TAB}virus(es) (1){TAB_RIGHT}(1)
+
+4.3.1.1/4.3.1.2(AO2)
+03.2{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}isolation (of people with measles)
+{TAB}{TAB}{TAB}•{TAB}cover your nose / mouth when you cough / sneeze
+{TAB}{TAB}{TAB}•{TAB}frequent handwashing / sanitiser
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow wear face coverings
+{TAB}{TAB}{TAB}-{TAB}allow frequent cleaning of surfaces
+{TAB}{TAB}{TAB}-{TAB}ignore PPE unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore public health education programmes unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore social distancing unqualified
+
+4.3.1.7(AO1)
+03.3{TAB}any {BOLD}4{BOLD} from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}•{TAB}(vaccine / injection) contains dead / inactive (measles) pathogen / virus
+{TAB}{TAB}{TAB}•{TAB}white blood cells produce antibodies
+{TAB}{TAB}{TAB}•{TAB}the antibodies produced are specific / correct (for the measles virus / pathogen)
+{TAB}{TAB}{TAB}•{TAB}reference to memory cells made
+{TAB}{TAB}{TAB}•{TAB}on secondary exposure antibodies are produced faster
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow vaccine / injection contains weakened / attenuated pathogen / virus
+{TAB}{TAB}{TAB}-{TAB}allow vaccine / injection contains (measles) antigens
+{TAB}{TAB}{TAB}-{TAB}ignore vaccine contains dead measles
+{TAB}{TAB}{TAB}-{TAB}allow leucocytes / lymphocytes produce antibodies
+{TAB}{TAB}{TAB}-{TAB}do not accept phagocytes produce antibodies
+{TAB}{TAB}{TAB}-{TAB}allow description of memory cells
+{TAB}{TAB}{TAB}-{TAB}allow on secondary exposure larger quantities of antibodies are produced
+{TAB}{TAB}{TAB}-{TAB}ignore herd immunity
+{TAB}{TAB}{TAB}-{TAB}ignore antitoxins
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for antibodies are produced
+
+4.3.1.1(AO1)
+03.4{TAB}viruses enter cells (1)
+{TAB}{TAB}{TAB}cells are damaged / killed (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow viruses exist / reproduce inside cells
+{TAB}{TAB}{TAB}-{TAB}allow viruses inject genetic material into cells
+{TAB}{TAB}{TAB}-{TAB}allow cells burst open{TAB_RIGHT}(2)
+
+4.3.1.9(AO1)
+03.5{TAB}to check the drugs are not toxic / poisonous (1)
+{TAB}{TAB}{TAB}to check efficacy or to see if the drugs work (1)
+{TAB}{TAB}{TAB}to determine dosage or to find out how much is needed (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to check for side-effects
+{TAB}{TAB}{TAB}-{TAB}allow to check the drugs are not harmful
+{TAB}{TAB}{TAB}-{TAB}ignore dangerous
+{TAB}{TAB}{TAB}-{TAB}allow to check interaction with other drugs{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 12 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1(AO2)
+04.1{TAB}6CO2 + 6H2O ⟶ C6H12O6 + 6O2 (1){TAB_RIGHT}(1)
+
+4.4.1.2(AO3)
+04.2{TAB}(as temperature increases) the rate of photosynthesis increases then (the rate of photosynthesis) decreases (1)
+{TAB}{TAB}{TAB}fastest rate between 30 °C and 35 °C (1)
+{TAB}{TAB}{TAB}up to 30 °C the rate doubles every 5 °C increase (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to volume unqualified
+{TAB}{TAB}{TAB}-{TAB}allow a fastest rate at a temperature above 30 °C and below 35 °C
+{TAB}{TAB}{TAB}-{TAB}allow reaches an optimum temperature between 30 °C and 35 °C
+{TAB}{TAB}{TAB}-{TAB}allow up to 30 °C the rate increases at an increasing rate
+{TAB}{TAB}{TAB}-{TAB}allow up to 30 °C the rate increases exponentially{TAB_RIGHT}(3)
+
+4.2.2.1/4.4.1.2(AO2/AO3)
+04.3{TAB}enzymes (in the plant / chloroplast) become destroyed (1)
+{TAB}{TAB}{TAB}(because) active site changes shape (1)
+{TAB}{TAB}or{TAB}the active site changes shape (1)
+{TAB}{TAB}{TAB}the substrate no longer fits / binds (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow enzymes become denatured
+{TAB}{TAB}{TAB}-{TAB}do not accept enzymes are killed
+{TAB}{TAB}{TAB}-{TAB}do not accept cells / plants are denatured
+{TAB}{TAB}{TAB}-{TAB}ignore the plant is killed / dead{TAB_RIGHT}(2)
+
+4.4.1.2(AO3)
+04.4{TAB}repeat the investigation, measuring the volume of gas to 0.5 cm3 (1){TAB_RIGHT}(1)
+
+4.4.1.2(AO3)
+04.5{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}may have too many tomatoes to eat / sell
+{TAB}{TAB}{TAB}•{TAB}other factors could limit photosynthesis
+{TAB}{TAB}{TAB}•{TAB}the optimum temperature might be above / below 25 °C
+{TAB}{TAB}{TAB}•{TAB}greenhouses are poorly insulated
+{TAB}{TAB}{TAB}•{TAB}pollution from the heater
+{TAB}{TAB}{TAB}•{TAB}increase the rate of transpiration
+{TAB}{TAB}{TAB}•{TAB}increased spread of plant disease(s)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the idea of a glut or all ripen at the same time
+{TAB}{TAB}{TAB}-{TAB}allow other named limiting factor could limit photosynthesis
+{TAB}{TAB}{TAB}-{TAB}allow factors could limit tomato production
+{TAB}{TAB}{TAB}-{TAB}allow increase carbon dioxide emissions
+{TAB}{TAB}{TAB}-{TAB}allow increase global warming
+{TAB}{TAB}{TAB}-{TAB}allow increase the water loss from the plant
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow it is a fire hazard for 1 mark
+
+4.1.2.3(AO1)
+04.6{TAB}meristem (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 10 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.5(AO2)
+05.1{TAB}microscope: electron (microscope) (1)
+{TAB}{TAB}{TAB}reason: (has a) high resolution / magnification (1){TAB_RIGHT}(2)
+
+4.1.1.1/4.1.1.2(AO1)
+05.2{TAB}any {BOLD}3{BOLD} from:{TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}(prokaryotic cell):
+{TAB}{TAB}{TAB}•{TAB}does not have a nucleus or DNA / genetic material is free in the cytoplasm
+{TAB}{TAB}{TAB}•{TAB}does not have mitochondria
+{TAB}{TAB}{TAB}•{TAB}has a single loop / strand of DNA
+{TAB}{TAB}{TAB}•{TAB}has plasmids
+{TAB}{TAB}{TAB}•{TAB}is smaller
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse for eukaryotic cell if clearly stated
+{TAB}{TAB}{TAB}-{TAB}ignore genetic information
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded, allow prokaryotic cell has no membrane-bound organelles
+{TAB}{TAB}{TAB}-{TAB}allow (small) rings of DNA
+{TAB}{TAB}{TAB}-{TAB}allow bacteria have smaller ribosomes
+
+4.1.1.5(AO2)
+05.3{TAB}measurement: 36 (mm) (1)
+{TAB}{TAB}{TAB}conversion: 36 × 1000 = 36 000 (μm) (1)
+{TAB}{TAB}{TAB}real size: (30 × 1.5) = 45 (μm) (1)
+{TAB}{TAB}{TAB}substitution: magnification = 36 000 / 45 (1)
+{TAB}{TAB}{TAB}answer: 800 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow in the range of 35 to 37 (mm) or 3.5 to 3.7 (cm)
+{TAB}{TAB}{TAB}-{TAB}do not accept if unit given for magnification
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for: magnification = image size / real size or correct rearrangement{TAB_RIGHT}(5)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.1.2.2(AO2)
+06.1{TAB}DNA replicates or two copies of each chromosome form (1)
+{TAB}{TAB}{TAB}one set of chromosomes is pulled to each end of the cell (1)
+{TAB}{TAB}{TAB}nucleus divides (1)
+{TAB}{TAB}{TAB}cytoplasm or cell membrane divides and two genetically identical cells form (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a maximum of 3 marks if the stages are out of order
+{TAB}{TAB}{TAB}-{TAB}allow DNA duplicates / doubles or genetic material doubles
+{TAB}{TAB}{TAB}-{TAB}ignore genetic information replicates
+{TAB}{TAB}{TAB}-{TAB}do not accept DNA reproduces
+{TAB}{TAB}{TAB}-{TAB}allow one set of chromosomes is moved to each end of the cell
+{TAB}{TAB}{TAB}-{TAB}ignore half the chromosomes are moved to each end of the cell
+{TAB}{TAB}{TAB}-{TAB}allow two (new) nuclei form
+{TAB}{TAB}{TAB}-{TAB}allow cytokinesis and two genetically identical cells form
+{TAB}{TAB}{TAB}-{TAB}ignore names of phases of mitosis
+{TAB}{TAB}{TAB}-{TAB}if no other mark awarded allow 1 mark for mitosis{TAB_RIGHT}(4)
+
+4.2.2.7(AO1)
+06.2{TAB}uncontrolled cell division / growth (1)
+{TAB}{TAB}{TAB}invade neighbouring tissues (1)
+{TAB}{TAB}{TAB}(tumour) cells spread to different parts of the body / tissues in the blood / lymph (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow tumour metastasises{TAB_RIGHT}(3)
+
+4.2.2.6/4.2.2.2/4.4.2.1/4.4.2.2(AO2)
+06.3{TAB}(need to breathe faster / deeper) to get more oxygen (1)
+{TAB}{TAB}{TAB}(because) smaller surface area (1)
+{TAB}{TAB}{TAB}less oxygen in the blood (1)
+{TAB}{TAB}{TAB}less (oxygen for) respiration (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the converse if clearly stated
+{TAB}{TAB}{TAB}-{TAB}allow (so) less oxygenation of haemoglobin
+{TAB}{TAB}{TAB}-{TAB}allow (so) anaerobic respiration increases
+{TAB}{TAB}{TAB}-{TAB}allow (so) lactic acid is produced
+{TAB}{TAB}{TAB}-{TAB}allow (so) an oxygen debt is created
+{TAB}{TAB}{TAB}-{TAB}do not accept energy produced / made / created{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 11 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.4/4.2.2.6/4.4.2.1/4.4.2.2(AO3/AO2)
+07{TAB}Level 3: Relevant points (factors / effects) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (factors / effects) are identified and there are attempts at logical linking. The resulting account is not fully clear. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}causes of angina / CHD: high cholesterol / fat (in blood / diet), obesity; a lack of exercise; smoking / alcohol; increasing age; a family history of atherosclerosis or heart problems
+{TAB}{TAB}{TAB}-{TAB}explanation of symptoms: fatty deposits in coronary arteries; narrowing of the coronary arteries; reduced blood / oxygen / glucose to the heart (muscle / tissue / cells); reduced blood / oxygen / glucose to the body; less oxygen / glucose for respiration; less energy released; (more) anaerobic respiration; lactic acid formed; muscle fatigue
+{TAB}{TAB}{TAB}-{TAB}treatment using GTN: more blood to the heart (muscle / tissue / cells); more oxygen / glucose to the heart (muscle / tissue / cells); increased (aerobic) respiration
+{TAB}{TAB}{TAB}-{TAB}For Level 3 explanations must include the causes of angina, explanations of the symptoms of angina and treatment using GTN{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 6 marks{BOLD}{ALIGN RIGHT}

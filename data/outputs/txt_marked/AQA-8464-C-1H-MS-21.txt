@@ -1,0 +1,194 @@
+5.1.2.2(AO2)
+01.1{TAB}(Group) 0 or noble gases (1){TAB_RIGHT}(1)
+
+5.1.1.3(AO2)
+01.2{TAB}B (1){TAB_RIGHT}(1)
+
+5.1.1.3(AO3)
+01.3{TAB}A (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO1)
+01.4{TAB}(atoms with the) same number of protons (1)
+{TAB}{TAB}{TAB}(but with) different numbers of neutrons (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow atoms with the same atomic number / atoms of the same element
+{TAB}{TAB}{TAB}-{TAB}ignore the same number of electrons / different mass numbers
+{TAB}{TAB}{TAB}-{TAB}do not accept (but with) different relative atomic mass{TAB_RIGHT}(2)
+
+5.1.1.6(AO2)
+01.5{TAB}calculation: (39 × 93.1) + (41 × 6.9) / 100 (1)
+{TAB}{TAB}{TAB}intermediate: = 39.138 (1)
+{TAB}{TAB}{TAB}answer: = 39.1 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correctly rounded answer to 1 decimal place from an incorrect calculation using all the values given in the question{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.4(AO1)
+02.1{TAB}green to red (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+02.2{TAB}decreases (1){TAB_RIGHT}(1)
+
+5.2.2.2(AO1)
+02.3{TAB}(aq) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow aq / ignore aqueous / ignore HNO3{TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.3(AO3)
+02.4{TAB}any {BOLD}2{BOLD} from: (2)
+{TAB}{TAB}{TAB}•{TAB}(white) solid disappears
+{TAB}{TAB}{TAB}•{TAB}fizzing / bubbles / effervescence
+{TAB}{TAB}{TAB}•{TAB}(then) stops fizzing
+{TAB}{TAB}{TAB}•{TAB}(white) solid left at the end / bottom
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a gas is produced
+{TAB}{TAB}{TAB}-{TAB}ignore colourless solution
+
+5.1.1.1/5.4.2.2(AO2)
+02.5{TAB}Zn(NO3)2 (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.3(AO1)(RPA 8)
+02.6{TAB}Level 3: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative Content:
+{TAB}{TAB}{TAB}-{TAB}• react hydrochloric acid (with) copper oxide; • in a suitable container; • warm (hydrochloric) acid; • add copper oxide until is in excess or until solid remains; • stir; • filter excess copper oxide; • pour solution / filtrate into evaporating basin; • use of water bath or use of electric heater; • to heat gently or partially evaporate; • leave to cool / crystallise
+{TAB}{TAB}{TAB}-{TAB}For level 3 the correct chemicals must have been selected.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.5.1.1(AO1)
+03.1{TAB}temperature (of solution) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow temperature change{TAB_RIGHT}(1)
+
+5.5.1.1(AO3)
+03.2{TAB}any {BOLD}3{BOLD} from: (3)
+{TAB}{TAB}{TAB}•{TAB}insulate the beaker / use polystyrene cup
+{TAB}{TAB}{TAB}•{TAB}add a lid
+{TAB}{TAB}{TAB}•{TAB}stir more (times)
+{TAB}{TAB}{TAB}•{TAB}repeat the experiment and calculate the mean (ignoring anomalous results)
+{TAB}{TAB}{TAB}•{TAB}use smaller volume (of water)
+{TAB}{TAB}{TAB}•{TAB}use larger mass of ammonium nitrate
+{TAB}{TAB}{TAB}•{TAB}more accurate balance
+{TAB}{TAB}{TAB}•{TAB}use digital thermometer / more accurate thermometer
+
+5.5.1.1(AO3)
+03.3{TAB}(from 0 to 1.5 minutes the) temperature decreases because ammonium nitrate dissolving is endothermic (2)
+{TAB}{TAB}{TAB}(then) after 1.5 minutes the temperature increases because energy transfers to the solution from the surroundings (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the temperature decreases (from 21.4 ⁰C to 15.4 ⁰C)
+{TAB}{TAB}{TAB}-{TAB}after 15.4 ⁰C the temperature increases{TAB_RIGHT}(4)
+
+5.5.1.2(AO1)
+03.4{TAB}labelled horizontal lines for reactants and products, with the product line below the level of the reactant line (1)
+{TAB}{TAB}{TAB}reaction pathway: curve starts/finishes anywhere along reactant/product lines (1)
+{TAB}{TAB}{TAB}activation energy: line from reactants to maximum labelled (1)
+{TAB}{TAB}{TAB}overall energy change: line from reactants to products labelled (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}the diagram below scores 4 marks{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.2.3.3(AO1)
+04.1{TAB}C60 (1){TAB_RIGHT}(1)
+
+5.2.3.2(AO1)
+04.2{TAB}(graphite has) delocalised electrons (1)
+{TAB}{TAB}{TAB}(which) carry electrical charge through the structure (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (so the delocalised electrons) move through the structure{TAB_RIGHT}(2)
+
+5.2.2.7(AO1)
+04.3{TAB}carbon atoms have different sizes to iron atoms / ions (1)
+{TAB}{TAB}{TAB}(so carbon atoms) distort the layers of iron atoms / ions (1)
+{TAB}{TAB}{TAB}(therefore) the layers cannot slide (1){TAB_RIGHT}(3)
+
+5.2.2.7(AO2)
+04.4{TAB}calculation: 28.08 (%) = 16.29 (g) (1)
+{TAB}{TAB}{TAB}calculation: (mass of fork) = 16.29/28.08 × 100 (g) (1)
+{TAB}{TAB}{TAB}calculation: (mass of iron = 71.92/100 × 58.01) (1)
+{TAB}{TAB}{TAB}answer: = 41.72 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (mass of fork – mass of other elements) = 41.72 (g)
+{TAB}{TAB}{TAB}-{TAB}allow 41.7 (g)
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect calculation of mass and / or percentages{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.4/5.4.3.1/5.4.3.4(AO2/AO1)(RPA 9)
+05.1{TAB}reduction (1)
+{TAB}{TAB}{TAB}as H+ ions gain electrons (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore electrolysis{TAB_RIGHT}(2)
+
+5.4.1.4/5.4.3.1/5.4.3.4(AO2)(RPA 9)
+05.2{TAB}2 Cl- → Cl2 + 2 e- (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 2 Cl- - 2 e- → Cl2
+{TAB}{TAB}{TAB}-{TAB}ignore state symbols
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for Cl2 + e- / - e- (on lhs) and Cl2 (on rhs){TAB_RIGHT}(2)
+
+5.4.1.4/5.4.3.1/5.4.3.4/5.4.3.5(AO1)(RPA 9)
+05.3{TAB}water molecules break down to produce OH- ions (1)
+{TAB}{TAB}{TAB}(which are) attracted to the positive electrode (1)
+{TAB}{TAB}{TAB}(where OH- ions are) oxidised or lose electrons (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow dissociate to produce OH- ions
+{TAB}{TAB}{TAB}-{TAB}ignore discharged / oxygen is produced as no halide is present{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.1/5.3.1.1/5.3.1.3/5.3.2.1/5.4.1.1(AO2)
+06.1{TAB}calculation: (mass of oxygen = 0.20 – 0.12) = 0.08 (g) (1)
+{TAB}{TAB}{TAB}calculation: (moles of oxygen) = 0.08/32 (1)
+{TAB}{TAB}{TAB}answer: = 0.0025 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 0.005 if derived from 0.08/16{TAB_RIGHT}(3)
+
+5.4.1.1(AO3)
+06.2{TAB}(without a lid the) mass of magnesium oxide was less because products escaped (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow magnesium oxide escaped{TAB_RIGHT}(2)
+
+5.1.1.1/5.3.1.1/5.3.1.3/5.3.2.1/5.3.2.2/5.3.2.3/5.4.1.1(AO2)
+06.3{TAB}calculation: (mass of copper oxide =) 79.5/63.5 × 0.5 (1)
+{TAB}{TAB}{TAB}intermediate: = 0.62598 (g) (1)
+{TAB}{TAB}{TAB}answer: = 0.626 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses all the values in the question{TAB_RIGHT}(3)
+
+5.1.1.1/5.3.1.1/5.3.1.3/5.3.2.1/5.3.2.2/5.3.2.3/5.4.1.1(AO2)
+06.4{TAB}ratio: 3:2 ratio Fe : O2 (molecules) or 3:4 ratio Fe : O (atoms) (1)
+{TAB}{TAB}{TAB}formula: Fe3O4 (1)
+{TAB}{TAB}{TAB}equation: 3 Fe + 2 O2 → Fe3O4 (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for Fe3O2 from 3:2 ratio Fe : O (atoms)
+{TAB}{TAB}{TAB}-{TAB}allow multiples / allow correct use of incorrectly determined formula
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for Fe, O2 and Fe3O4 / incorrectly determined formula{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.5.1.2(AO3)
+07.1{TAB}particles collide (1)
+{TAB}{TAB}{TAB}(but) particles have insufficient energy / energy less than the activation energy (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}so collisions are not successful{TAB_RIGHT}(2)
+
+5.5.1.2/5.5.1.3(AO3)
+07.2{TAB}2120 (kJ/mol) (1){TAB_RIGHT}(1)
+
+5.5.1.3(AO2)
+07.3{TAB}calculation: (bonds broken = (8 × 410) + 2 X + (5 × 500) = 5780 + 2 X (1)
+{TAB}{TAB}{TAB}calculation: (bonds formed = (6 × 740) + (8 × 460) = 8120 (1)
+{TAB}{TAB}{TAB}calculation: (5780 + 2 X) – 8120 = – 1640 (1)
+{TAB}{TAB}{TAB}calculation: (2 X =) 700 (1)
+{TAB}{TAB}{TAB}answer: (X =) 350 (kJ/mol) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow C–C for X
+{TAB}{TAB}{TAB}-{TAB}allow (bonds broken = (8 × 410) + (5 × 500) = 5780
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect values from step 1 and/or step 2 / step 3{TAB_RIGHT}(5)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 8 marks{BOLD}{ALIGN RIGHT}

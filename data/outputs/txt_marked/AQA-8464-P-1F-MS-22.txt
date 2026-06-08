@@ -1,0 +1,423 @@
+(AO1)
+01.1{TAB}battery
+{TAB}{TAB}{TAB}6.2.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.2{TAB}variable resistor
+{TAB}{TAB}{TAB}6.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow resistor
+{TAB}{TAB}{TAB}-{TAB}allow battery / cells
+{TAB}{TAB}{TAB}-{TAB}allow correct circuit symbol
+
+(AO1)
+01.3{TAB}subtract 0.4 volts from each reading
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+01.4{TAB}mean =0.54+0.58+0.533 (1)
+{TAB}{TAB}{TAB}mean = 0.55 (A)
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow mean =1.653
+
+(AO2)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO2)
+01.6{TAB}R = 4.80.75 (1)
+{TAB}{TAB}{TAB}R = 6.4 (Ω)
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.7{TAB}increase (1)
+{TAB}{TAB}{TAB}increase
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+01.8{TAB}6.2.1.4 (9)
+{TAB}{TAB}{TAB}Total Question 1
+{TAB}{TAB}{TAB}Question 2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(9)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+02.1{TAB}the same distance as the lift
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.2{TAB}it decreases
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.3{TAB}E = 1300 × 9.8 × 4.0 (1)
+{TAB}{TAB}{TAB}E = 50960 (J)
+{TAB}{TAB}{TAB}6.1.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 51000 (J)
+
+(AO1)
+02.4{TAB}kinetic (1)
+{TAB}{TAB}{TAB}internal
+{TAB}{TAB}{TAB}this order only
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}6.3.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1/AO2)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+03.1{TAB}first box ticked
+{TAB}{TAB}{TAB}6.4.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+
+(AO1)
+03.3{TAB}paper stops alpha radiation
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.4{TAB}6.4.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+03.5{TAB}6.4.2.1 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.6{TAB}6.4.2.1 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept more than one line from a box on the left
+
+(AO3)
+03.7{TAB}as distance increases the count rate decreases (1)
+{TAB}{TAB}{TAB}(between 40 cm and 50 cm) the count rate becomes zero
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Total Question 3
+{TAB}{TAB}{TAB}Question 4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+04.1{TAB}Δθ = 7.530 (1)
+{TAB}{TAB}{TAB}Δθ = 0.25 (°C)
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+04.2{TAB}bar Y drawn to 16 (1)
+{TAB}{TAB}{TAB}and bar Z drawn to 12
+{TAB}{TAB}{TAB}y-axis labelled ‘temperature in °C’
+{TAB}{TAB}{TAB}unit must be present
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ± half a small square
+
+(AO3)
+04.3{TAB}Y (1)
+{TAB}{TAB}{TAB}because it showed the smallest change in temperature
+{TAB}{TAB}{TAB}reason only scores if Y is chosen
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+04.4{TAB}less than 12.0 °C
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+04.5{TAB}E = 0.0150 × 334 000 (1)
+{TAB}{TAB}{TAB}E = 5010 (J)
+{TAB}{TAB}{TAB}6.3.2.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)(RPA17)
+04.6{TAB}resolution
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+04.7{TAB}density =massvolume
+{TAB}{TAB}or{TAB}ρ = mV
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+04.8{TAB}0.300 =𝑚𝑚0.186 (1)
+{TAB}{TAB}{TAB}m = 0.300 × 0.186
+{TAB}{TAB}{TAB}m = 0.0558 (g)
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Total Question 4
+{TAB}{TAB}{TAB}Question 5
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 15 marks{BOLD}{ALIGN RIGHT}
+
+(AO3)
+05.1{TAB}16 500(GW) and (1)
+{TAB}{TAB}{TAB}30 000 (GW) read from graph
+{TAB}{TAB}{TAB}percentage =1650030000 (×100%)
+{TAB}{TAB}{TAB}percentage = 55 (%)
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a correct substitution using a value of 15300 or 18000 for gas
+{TAB}{TAB}{TAB}-{TAB}allow an answer consistent with a value of 15300 or 18000 for gas
+
+(AO1.1)
+05.2{TAB}coal and gas
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.3{TAB}the national grid
+{TAB}{TAB}{TAB}6.2.4.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.4{TAB}potential difference increases (1)
+{TAB}{TAB}{TAB}current is reduced
+{TAB}{TAB}{TAB}so there is less / low energy loss (to the surroundings)
+{TAB}{TAB}{TAB}6.2.4.3
+{TAB}{TAB}{TAB}Total Question 5
+{TAB}{TAB}{TAB}Question 6
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow large potential difference
+{TAB}{TAB}{TAB}-{TAB}allow small current
+{TAB}{TAB}{TAB}-{TAB}allow less / low heating in the transmission cables
+{TAB}{TAB}{TAB}-{TAB}ignore resistance
+{TAB}{TAB}{TAB}-{TAB}do not allow no energy loss
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 17 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)(RPA14)
+06.1{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (3-4)
+{TAB}{TAB}{TAB}5–6
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}6.3.2.2
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content.
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}•{TAB}measure mass of oil using the top pan balance
+{TAB}{TAB}{TAB}•{TAB}measure start temperature of oil using the thermometer
+{TAB}{TAB}{TAB}•{TAB}place beaker of oil on heater
+{TAB}{TAB}{TAB}•{TAB}switch on heater to heat oil
+{TAB}{TAB}{TAB}•{TAB}measure final temperature of oil using the thermometer
+{TAB}{TAB}{TAB}•{TAB}measure energy transferred using joulemeter
+{TAB}{TAB}{TAB}•{TAB}calculate increase in temperature (Δθ)
+{TAB}{TAB}{TAB}•{TAB}use the equation E = mcΔθ to determine c
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB_RIGHT}(?)
+
+(AO1)(RPA14)
+06.2{TAB}burns / scalds
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow cuts from broken glass
+{TAB}{TAB}{TAB}-{TAB}ignore the heater / oil is hot
+
+(AO1)(RPA14)
+06.3{TAB}power =energy transferredtime
+{TAB}{TAB}or{TAB}P =Et
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+06.4{TAB}50 = 4750t (1)
+{TAB}{TAB}or{TAB}4750 = 50 × t
+{TAB}{TAB}{TAB}t =475050
+{TAB}{TAB}{TAB}t = 95 (s)
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+06.5{TAB}thermistor
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+06.6{TAB}250 (Ω)
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow an answer in the range 240 (Ω) to 260 (Ω)
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for temperature = 160 (°C)
+
+(AO1)
+06.7{TAB}the water will recover its original properties if the steam is cooled
+{TAB}{TAB}{TAB}6.3.1.2
+{TAB}{TAB}{TAB}Total Question 6{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 15 marks{BOLD}{ALIGN RIGHT}

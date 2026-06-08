@@ -1,0 +1,258 @@
+5.1.2.5(AO1)
+01.1{TAB}alkali metals (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO1)
+01.2{TAB}0.2 nm (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO1)
+01.3{TAB}atomic number (1){TAB_RIGHT}(1)
+
+5.1.1.4(AO1)
+01.4{TAB}Proton: +(1) (1)
+{TAB}{TAB}{TAB}Neutron: 0 (1)
+{TAB}{TAB}{TAB}Electron: -1 (1){TAB_RIGHT}(2)
+
+5.1.1.7/5.1.2.3/5.2.1.2(AO2)
+01.5{TAB}+1 (1){TAB_RIGHT}(1)
+
+5.1.2.5(AO3)
+01.6{TAB}63 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a value in the range 50–80 (°C){TAB_RIGHT}(1)
+
+5.1.1.6(AO2)
+01.7{TAB}Ar = (39 × 93) + (41 × 7) / 100 (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.1/5.2.1.4(AO1)
+02.1{TAB}one pair of electrons drawn in each of the three overlaps (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow any combination of circles, dots, crosses, e(–) for electrons
+{TAB}{TAB}{TAB}-{TAB}ignore inner shell electrons on the carbon atom
+{TAB}{TAB}{TAB}-{TAB}do not accept extra electron(s) on outer shell of carbon / hydrogen
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for one shared pair in one overlap without non-bonding electron(s) on that hydrogen
+{TAB}{TAB}{TAB}-{TAB}an answer of (diagram) scores 2 marks{TAB_RIGHT}(2)
+
+5.2.1.4/5.2.2.6/5.2.3.1(AO1)
+02.2{TAB}1 (1){TAB_RIGHT}(1)
+
+5.2.3.2(AO1)
+02.3{TAB}3 (1){TAB_RIGHT}(1)
+
+5.2.3.2(AO2)
+02.4{TAB}(delocalised) electrons (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (free) electrons{TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+02.5{TAB}in electronic components (1){TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+02.6{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}hollow (shape)
+{TAB}{TAB}{TAB}•{TAB}hexagonal rings
+{TAB}{TAB}{TAB}•{TAB}(of) carbon atoms
+{TAB}{TAB}{TAB}•{TAB}each (carbon) atom forms 3 (covalent) bonds
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow cylindrical (shape)
+{TAB}{TAB}{TAB}-{TAB}allow (nano)tube
+{TAB}{TAB}{TAB}-{TAB}allow (made of) hexagons
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2/5.5.1.1(AO1)(RPA 10)
+03.1{TAB}independent (1){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+03.2{TAB}zinc sulfate (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ZnSO4{TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+03.3{TAB}solution becomes colourless (1)
+{TAB}{TAB}{TAB}(brown / orange) solid produced (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to temperature / fizzing
+{TAB}{TAB}{TAB}-{TAB}allow solution changes colour
+{TAB}{TAB}{TAB}-{TAB}allow zinc changes colour{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+03.4{TAB}highest temperature: 36 (°C) (1)
+{TAB}{TAB}{TAB}calculation: 36 – 21 = 15 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of an incorrectly determined value for highest temperature
+{TAB}{TAB}{TAB}-{TAB}ignore minus sign{TAB_RIGHT}(2)
+
+5.4.1.2/5.5.1.1(AO2)(RPA 10)
+03.5{TAB}calculation: (B =) 7.8 + 7.3 + 7.7 / 3 or 22.8 / 3 (1)
+{TAB}{TAB}{TAB}answer: = 7.6 (°C) (1)
+{TAB}{TAB}OR{TAB}calculation: (B =) 7.8 + 7.7 / 2 or 15.5 / 2 (1) answer: = 7.75 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 7.8 (°C) if working shown for calculation of the mean using 7.8 and 7.7 (°C){TAB_RIGHT}(2)
+
+5.3.1.4/5.4.1.2/5.5.1.1(AO2)(RPA 10)
+03.6{TAB}(range =) 13.1 (°C to) 13.8 (°C) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (range =) 13.8 (°C to) 13.1 (°C){TAB_RIGHT}(1)
+
+5.4.1.2/5.5.1.1(AO3)(RPA 10)
+03.7{TAB}result: 12.9 (°C) (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}(the result is) much lower than the other two results
+{TAB}{TAB}{TAB}•{TAB}(used) less than 3 g zinc
+{TAB}{TAB}{TAB}•{TAB}(used) more than 50 cm3 of copper sulfate (solution)
+{TAB}{TAB}{TAB}•{TAB}the mixture was not stirred
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}MP2 is dependent on MP1 being awarded
+{TAB}{TAB}{TAB}-{TAB}allow (result / experiment) 2
+{TAB}{TAB}{TAB}-{TAB}allow (used) incorrect mass of zinc
+{TAB}{TAB}{TAB}-{TAB}allow (used) incorrect volume of copper sulfate (solution){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.2(AO1)
+04.1{TAB}(paper) chromatography (1){TAB_RIGHT}(1)
+
+5.1.1.2(AO1)
+04.2{TAB}filtration / filtering (1){TAB_RIGHT}(1)
+
+5.1.1.2(AO3)
+04.3{TAB}(because) C is insoluble (1)
+{TAB}{TAB}or{TAB}(because) C does not dissolve (in water)
+{TAB}{TAB}{TAB}(whereas) D is soluble (1)
+{TAB}{TAB}or{TAB}(whereas) D dissolves (in water){TAB_RIGHT}(2)
+
+5.1.1.2(AO1)
+04.4{TAB}(fractional) distillation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (simple) distillation{TAB_RIGHT}(1)
+
+5.1.1.2(AO3)
+04.5{TAB}G (1){TAB_RIGHT}(1)
+
+5.1.1.2/5.2.2.1(AO2)
+04.6{TAB}F: condenses (1)
+{TAB}{TAB}{TAB}H: evaporates (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept more than one line from a box on the left{TAB_RIGHT}(2)
+
+5.1.1.2(AO3)
+04.7{TAB}the temperature of water at K is higher than at J (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.4.1.2/5.4.2.1(AO1)
+05.1{TAB}hydrogen (1){TAB_RIGHT}(1)
+
+5.1.1.1/5.2.2.2(AO2)
+05.2{TAB}MgCl2(l) (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.2(AO2)
+05.3{TAB}(negative electrode): magnesium (1)
+{TAB}{TAB}{TAB}(positive electrode): chlorine (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow Mg
+{TAB}{TAB}{TAB}-{TAB}allow Cl2
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark if both elements are reversed{TAB_RIGHT}(2)
+
+5.4.1.2(AO3)
+05.4{TAB}magnesium (1)
+{TAB}{TAB}{TAB}iron (1)
+{TAB}{TAB}{TAB}copper (1)
+{TAB}{TAB}{TAB}any two from: (1)
+{TAB}{TAB}{TAB}•{TAB}magnesium reacts with both copper chloride solution and iron chloride solution
+{TAB}{TAB}{TAB}•{TAB}iron only reacts with copper chloride solution
+{TAB}{TAB}{TAB}•{TAB}copper does not react with either magnesium chloride solution or iron chloride solution
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow Mg, Fe, Cu
+{TAB}{TAB}{TAB}-{TAB}allow magnesium has two / most reactions
+{TAB}{TAB}{TAB}-{TAB}allow iron has one reaction
+{TAB}{TAB}{TAB}-{TAB}allow copper does not react{TAB_RIGHT}(3)
+
+5.4.3.1/5.4.3.2(AO2)
+05.5{TAB}1.6 (g) (1){TAB_RIGHT}(1)
+
+5.3.2.5(AO2)
+05.6{TAB}conversion: 30.0 cm3 = 0.030 dm3 (1)
+{TAB}{TAB}{TAB}calculation: (mass =) 0.030 × 180 (1)
+{TAB}{TAB}{TAB}answer: = 5.4 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}OR 1000 cm3 contains 180 g MgCl2 (1) 30 cm3 contains 180 / 1000 × 30 (g) (1) = 5.4 (g) (1)
+{TAB}{TAB}{TAB}-{TAB}OR (ratio of volume 1000 / 30 =) 33.3 (1) (mass) = 180 / 33.3 (1) = 5.4 (g) (1)
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect / no conversion of volume{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 11 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.7(AO3)
+06.1{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}mass of copper produced increased (from 1900 to 2010)
+{TAB}{TAB}{TAB}•{TAB}before 1930 the mass of copper produced increased slightly
+{TAB}{TAB}{TAB}•{TAB}after 1930 the mass of copper produced increased rapidly
+{TAB}{TAB}{TAB}•{TAB}the highest mass of copper was produced in 2010
+{TAB}{TAB}{TAB}•{TAB}the lowest mass of copper was produced in 1900
+{TAB}{TAB}{TAB}•{TAB}the increase in the mass of copper produced was not linear
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a value in the range 1925 to 1930
+{TAB}{TAB}{TAB}-{TAB}allow the highest mass of copper produced was 15.8 (× 109 kilograms)
+{TAB}{TAB}{TAB}-{TAB}allow the lowest mass of copper produced was 0.2 (× 109 kilograms)
+
+5.2.2.7(AO2)
+06.2{TAB}(alloy of copper and zinc is harder because) the atoms are different sizes (1)
+{TAB}{TAB}{TAB}(so the) layers are distorted (1)
+{TAB}{TAB}{TAB}(so the) layers cannot easily slide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (so the) atoms cannot slide over each other{TAB_RIGHT}(3)
+
+5.2.2.7(AO2)
+06.3{TAB}calculation: (% copper = 100 – 13.5 =) 86.5 (%) (1)
+{TAB}{TAB}{TAB}calculation: (mass of copper =) 86.5 / 100 × 5.25 (1)
+{TAB}{TAB}{TAB}intermediate: = 4.54125 (g) (1)
+{TAB}{TAB}{TAB}answer: = 4.54 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}OR (mass of zinc =) 13.5 / 100 × 5.25 (1) = 0.70875 (g) (1) (mass of copper = 5.25 – 0.70875) = 4.54125 (g) (1) = 4.54 (g) (1)
+{TAB}{TAB}{TAB}-{TAB}allow correct use of an incorrectly determined percentage of copper
+{TAB}{TAB}{TAB}-{TAB}allow an answer correctly rounded to 3 significant figures from an incorrect calculation which uses the values in the question{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2/5.4.2.3(AO2)(RPA 8)
+07.1{TAB}H2SO4 (1){TAB_RIGHT}(1)
+
+5.4.2.3(AO1)(RPA 8)
+07.2{TAB}so all the acid reacts (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow so all the acid is used up{TAB_RIGHT}(1)
+
+5.1.1.2/5.4.2.3(AO1)(RPA 8)
+07.3{TAB}heat the solution (to remove some of the water) (1)
+{TAB}{TAB}{TAB}leave to cool / crystallise (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to filtration
+{TAB}{TAB}{TAB}-{TAB}allow evaporate some of the water / solution{TAB_RIGHT}(2)
+
+5.3.1.3(AO2/AO3)
+07.4{TAB}all points correctly plotted (2)
+{TAB}{TAB}{TAB}line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 3 or 4 points correctly plotted{TAB_RIGHT}(3)
+
+5.3.1.3(AO1)
+07.5{TAB}a gas escapes (from the test tube) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow carbon dioxide escapes (from the test tube)
+{TAB}{TAB}{TAB}-{TAB}ignore copper carbonate thermally decomposes{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.2.1.1/5.2.1.2/5.2.1.3/5.2.1.4/5.2.2.3/5.2.2.4(AO1)
+08{TAB}Level 2: Scientifically relevant features are identified; the way(s) in which they are similar/different is made clear and (where appropriate) the magnitude of the similarity/difference is noted. (4-6)
+{TAB}{TAB}{TAB}Level 1: Relevant features are identified and differences noted. (1-3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Similarities: • both have strong bonds; • particles have full outer shells
+{TAB}{TAB}{TAB}-{TAB}Differences: • sodium chloride is a compound; • sodium chloride is made from two elements; • oxygen is an element; • sodium chloride is a giant structure of ions; • oxygen is a small molecule; • sodium chloride has ionic bonds; • sodium chloride consists of oppositely charged ions; • electrons are transferred from sodium atoms to chlorine atoms; • oxygen is covalent; • oxygen (molecules) are made up of oxygen atoms; • joined by double covalent bond; • electrons are shared between oxygen atoms; • with weak forces between oxygen molecules
+{TAB}{TAB}{TAB}-{TAB}For Level 2, there must be a comparison of either the structure or bonding of both sodium chloride and oxygen, and a description of magnitude.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 8: 6 marks{BOLD}{ALIGN RIGHT}

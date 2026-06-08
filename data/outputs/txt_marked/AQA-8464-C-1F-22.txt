@@ -1,0 +1,244 @@
+5.1.2.5(AO1)
+01.1{TAB}alkali metals (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO2)
+01.2{TAB}3 / three (1)
+{TAB}{TAB}{TAB}4 / four (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}must be in this order{TAB_RIGHT}(2)
+
+5.1.1.4(AO2)
+01.3{TAB}+1 (1){TAB_RIGHT}(1)
+
+5.2.2.1(AO1)
+01.4{TAB}Fullerene: C60 (1)
+{TAB}{TAB}{TAB}Giant covalent structure: Graphite (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept more than one line from a box on the left{TAB_RIGHT}(2)
+
+5.1.2.5(AO2)
+01.5{TAB}28 (°C) (1){TAB_RIGHT}(1)
+
+5.1.2.5(AO3)
+01.6{TAB}bar plotted at 63 °C (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ a small square{TAB_RIGHT}(1)
+
+5.1.2.5(AO1/AO3)
+01.7{TAB}(melting point) decreases as go down Group 1 (1)
+{TAB}{TAB}{TAB}(and the) differences get smaller (1)
+{TAB}{TAB}or{TAB}initial drop is largest (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow converse in terms of increasing melting point
+{TAB}{TAB}{TAB}-{TAB}ignore boiling points
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for (melting point) decreases{TAB_RIGHT}(2)
+
+5.1.2.5/5.2.2.1(AO3)
+01.8{TAB}liquid (1){TAB_RIGHT}(1)
+
+5.1.1.7/5.1.2.1/5.1.2.5(AO1)
+01.9{TAB}loses an electron (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.6/5.2.1.4(AO1)
+02.1{TAB}one shared pair in overlap (1)
+{TAB}{TAB}{TAB}6 non-bonding electrons in outer shell of chlorine (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow any combination of circles, dots, crosses or e(–)
+{TAB}{TAB}{TAB}-{TAB}do not accept extra electron(s) on outer shell of hydrogen
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons
+{TAB}{TAB}{TAB}-{TAB}an answer of (diagram) scores 2 marks{TAB_RIGHT}(2)
+
+5.4.2.2(AO2)
+02.2{TAB}sodium chloride (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow NaCl{TAB_RIGHT}(1)
+
+5.3.1.1/5.4.2.2/5.5.1.1(AO2)(RPA 10)
+02.3{TAB}5.85 (g) (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.5.1.1(AO2)(RPA 10)
+02.4{TAB}17.6 (°C) (1){TAB_RIGHT}(1)
+
+5.5.1.1(AO2)(RPA 10)
+02.5{TAB}exothermic (reaction) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow neutralisation (reaction){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.4/5.5.1.1(AO1/AO2)
+02.6{TAB}Na+ (1)
+{TAB}{TAB}{TAB}OH– (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.6/5.2.3.1(AO1)
+03.1{TAB}giant covalent (1){TAB_RIGHT}(1)
+
+5.2.2.6/5.2.3.1(AO3)
+03.2{TAB}4 / four (1){TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+03.3{TAB}hexagons (1){TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+03.4{TAB}carbon (1){TAB_RIGHT}(1)
+
+5.2.3.3(AO1)
+03.5{TAB}electronics (1){TAB_RIGHT}(1)
+
+5.2.2.5(AO1)
+03.6{TAB}covalent bonds (1){TAB_RIGHT}(1)
+
+5.2.2.5(AO1)
+03.7{TAB}intermolecular (1){TAB_RIGHT}(1)
+
+5.2.2.7(AO2)
+03.8{TAB}measurement: (magnesium) 22 and (copper) 3 (1)
+{TAB}{TAB}{TAB}calculation: (percentage =) 3 / 25 (× 100) (1)
+{TAB}{TAB}{TAB}answer: = 12 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrectly determined value(s) for number of magnesium atoms and / or copper atoms{TAB_RIGHT}(3)
+
+5.2.1.5/5.2.2.7(AO2/AO1)
+03.9{TAB}(alloy is harder because) copper atoms are larger (1)
+{TAB}{TAB}{TAB}or (copper) atoms are a different size
+{TAB}{TAB}{TAB}(so the) layers of (magnesium) atoms are distorted (1)
+{TAB}{TAB}{TAB}(and therefore the) layers cannot easily slide (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (so) the atoms cannot slide over each other{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.1.2.5/5.4.1.1(AO2)
+04.1{TAB}2 Mg + O2 → 2 MgO (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples{TAB_RIGHT}(1)
+
+5.4.1.1/5.4.1.2/5.5.1.1(AO3)
+04.2{TAB}any one from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}wear safety glasses / goggles
+{TAB}{TAB}{TAB}•{TAB}do not look directly at burning magnesium
+{TAB}{TAB}{TAB}•{TAB}wear heat proof glove
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow look through blue glass
+{TAB}{TAB}{TAB}-{TAB}allow use tongs
+{TAB}{TAB}{TAB}-{TAB}allow tie hair back
+
+5.1.2.5/5.3.1.2(AO2)
+04.3{TAB}calculation: (Mr = ) 24 + (2 × 19) (1)
+{TAB}{TAB}{TAB}answer: = 62 (1){TAB_RIGHT}(2)
+
+5.1.2.4(AO2/AO1)
+04.4{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}argon has a full outer shell
+{TAB}{TAB}{TAB}•{TAB}argon has 8 electrons in the outer shell
+{TAB}{TAB}{TAB}•{TAB}argon has a stable arrangement of electrons.
+{TAB}{TAB}{TAB}(so) argon is unreactive (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow energy level for shell
+{TAB}{TAB}{TAB}-{TAB}allow does not need to lose and / or gain electrons
+{TAB}{TAB}{TAB}-{TAB}ignore argon is a noble gas{TAB_RIGHT}(2)
+
+5.4.1.2/5.4.1.3/5.4.3.1/5.4.3.2/5.4.3.3(AO3)
+04.5{TAB}Electrolysis: Molten sodium chloride (1)
+{TAB}{TAB}{TAB}Separating an insoluble solid: Filtration (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept more than one line from a box on the left{TAB_RIGHT}(2)
+
+5.2.2.3(AO1)
+04.6{TAB}(because) ions (1)
+{TAB}{TAB}{TAB}(which are) free to move when molten (1)
+{TAB}{TAB}{TAB}(but are) fixed in solid (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow reference to charged particles for MP2 and MP3{TAB_RIGHT}(3)
+
+5.2.2.8(AO1)
+04.7{TAB}(sodium contains) delocalised electrons (1)
+{TAB}{TAB}{TAB}(which) carry (electrical) charge (through the metal / sodium) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow free electrons
+{TAB}{TAB}{TAB}-{TAB}ignore throughout for through
+{TAB}{TAB}{TAB}-{TAB}ignore current / electricity{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 13 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2/5.4.2.3(AO2/AO3)(RPA 8)
+05.1{TAB}any three from:{TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}•{TAB}green solid / powder
+{TAB}{TAB}{TAB}•{TAB}colourless solution
+{TAB}{TAB}{TAB}•{TAB}blue solution formed
+{TAB}{TAB}{TAB}•{TAB}copper carbonate disappears
+{TAB}{TAB}{TAB}•{TAB}fizzing / effervescence or bubbles (of gas)
+{TAB}{TAB}{TAB}•{TAB}stops fizzing
+{TAB}{TAB}{TAB}•{TAB}solid / powder left at the end or copper carbonate left at the end
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore green copper carbonate
+{TAB}{TAB}{TAB}-{TAB}allow colour (of solution) changes
+{TAB}{TAB}{TAB}-{TAB}allow solid disappears
+{TAB}{TAB}{TAB}-{TAB}ignore gas
+{TAB}{TAB}{TAB}-{TAB}allow fizzing slows down
+{TAB}{TAB}{TAB}-{TAB}allow (container) gets hot or allow temperature increases
+
+5.4.2.3(AO1)(RPA 8)
+05.2{TAB}filtration or filter (1){TAB_RIGHT}(1)
+
+5.4.2.3/5.4.2.4(AO1)(RPA 8)
+05.3{TAB}7 (1){TAB_RIGHT}(1)
+
+5.4.2.2/5.4.2.4(AO1)(RPA 8)
+05.4{TAB}neutralisation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow exothermic{TAB_RIGHT}(1)
+
+5.4.2.3(AO2/AO3)
+05.5{TAB}measurement: 83 (g at 80 °C) (1)
+{TAB}{TAB}{TAB}measurement: 32 (g at 20 °C) (1)
+{TAB}{TAB}{TAB}calculation: (83–32 =) 51 (g) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a value in range 82–84 (g at 80 °C)
+{TAB}{TAB}{TAB}-{TAB}allow a value in range 32–33 (g at 20 °C)
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using incorrectly read values for mass at 80 °C and/or 20 °C{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.1/5.4.3.4(AO2)(RPA 9)
+06.1{TAB}K2SO4 (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO2)(RPA 9)
+06.2{TAB}(volume of hydrogen) 30 (cm3) (1)
+{TAB}{TAB}{TAB}and (volume of oxygen) 15 (cm3) (1){TAB_RIGHT}(1)
+
+5.4.3.4(AO3)(RPA 9)
+06.3{TAB}(because) the ratio of volume of hydrogen : oxygen is 2 : 1 (1)
+{TAB}{TAB}{TAB}(and this is the) same as the ratio of hydrogen (atoms) : oxygen (atoms) in (formula of) H2O (1)
+{TAB}{TAB}OR{TAB}(because) the ratio of volume of hydrogen : oxygen is not 2 : 1 (1)
+{TAB}{TAB}{TAB}(and this is) different to the ratio of hydrogen (atoms) : oxygen (atoms) in (formula of) H2O (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}must relate to the volumes given in question 06.2{TAB_RIGHT}(2)
+
+5.3.1.4(AO2)
+06.4{TAB}9 ± 3 cm3 (1){TAB_RIGHT}(1)
+
+5.3.2.5/5.4.3.4(AO2)
+06.5{TAB}conversion: ( 25 / 1000 = ) 0.025 (dm3) (1)
+{TAB}{TAB}{TAB}calculation: (concentration =) 0.86 / 0.025 (1)
+{TAB}{TAB}{TAB}answer: = 34.4 (g per dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}OR (conversion) 1000 / 25 (1) = 40 (1) (40 × 0.86) = 34.4 (g per dm3) (1)
+{TAB}{TAB}{TAB}-{TAB}OR (concentration =) 0.86 / 25 (1) = 0.0344 (1) (conversion) (0.0344 × 1000) = 34.4 (g per dm3) (1)
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect / no conversion
+{TAB}{TAB}{TAB}-{TAB}allow 34 (g per dm3){TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 8 marks{BOLD}{ALIGN RIGHT}
+
+5.1.4.2(AO3/AO1)(RPA 2)
+07{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative Content:
+{TAB}{TAB}{TAB}-{TAB}• measure volume of (hydrochloric) acid into a suitable container eg polystyrene cup; • measure the initial temperature (of hydrochloric acid) with a thermometer; • add stated mass of one metal; • stir; • measure the highest temperature reached of the solution or measure temperature reached after a set time period; • determine the temperature difference; • repeat for each metal with same mass; • in same physical state (powder, lump, etc); • with the same volume and / or concentration of (hydrochloric) acid; • use results to arrange metals in order of reactivity; • most reactive metal has the largest temperature change
+{TAB}{TAB}{TAB}-{TAB}to access level 3 there must be an indication of how the temperature change is determined with the same mass of the 3 different metals reacted with the same volume of (hydrochloric) acid{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 6 marks{BOLD}{ALIGN RIGHT}

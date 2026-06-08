@@ -1,0 +1,257 @@
+4.2.2.2(AO2)
+01.1{TAB}B (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO1)
+01.2{TAB}right atrium (1){TAB_RIGHT}(1)
+
+4.3.1.9(AO1)
+01.3{TAB}foxgloves (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO2)
+01.4{TAB}formula: X = 2800 / 52 (1)
+{TAB}{TAB}{TAB}calculation: 53.846153 (1)
+{TAB}{TAB}{TAB}answer: 54 (cm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 54 (cm3) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}allow correct rounding of an incorrectly calculated value of stroke volume{TAB_RIGHT}(3)
+
+4.2.2.2/4.2.2.4/4.4.2.1/4.4.2.2(AO3/AO2/AO1)
+01.5{TAB}Level 3: Relevant points (reasons / causes) are identified, given in detail and logically linked to form a clear account. (5–6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons / causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. (3–4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1–2)
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}effect of exercise
+{TAB}{TAB}{TAB}• during exercise body needs to transfer (more) energy
+{TAB}{TAB}{TAB}• energy transferred during respiration
+{TAB}{TAB}{TAB}• rate of respiration increases during exercise
+{TAB}{TAB}{TAB}• (so) more oxygen is needed
+{TAB}{TAB}{TAB}effect of beta blockers
+{TAB}{TAB}{TAB}• beta blockers reduce (the increase in) heart rate (during exercise)
+{TAB}{TAB}{TAB}• beta blockers reduce stroke volume (or described)
+{TAB}{TAB}{TAB}• beta blockers reduce cardiac output
+{TAB}{TAB}{TAB}• (so) heart cannot supply oxygen fast enough / in sufficient quantity to muscle cells
+{TAB}{TAB}{TAB}effect on breathing rate
+{TAB}{TAB}{TAB}• breathing rate increases to increase rate / amount of oxygen absorbed
+{TAB}{TAB}{TAB}• breathing rate increases to increase rate / amount of carbon dioxide removed from body
+{TAB}{TAB}{TAB}• (but) increased breathing rate cannot fully compensate for changes in heart function
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}A level 3 response should make links between all three sections of indicative content
+{TAB}{TAB}{TAB}-{TAB}A level 2 response should attempt to link effect of exercise with oxygen / energy requirement and beta blockers to effect on heart function.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 12 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.1(AO1)
+02.1{TAB}amylase (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow phonetic spelling
+{TAB}{TAB}{TAB}-{TAB}allow carbohydrase
+{TAB}{TAB}{TAB}-{TAB}ignore references to source of enzyme e.g. salivary / pancreatic
+{TAB}{TAB}{TAB}-{TAB}do not accept amylose{TAB_RIGHT}(1)
+
+4.2.2.1(AO3)
+02.2{TAB}(partially permeable tubing) small intestine (1)
+{TAB}{TAB}{TAB}(water in test tube) blood (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow stomach ignore intestine unqualified
+{TAB}{TAB}{TAB}-{TAB}do not accept large intestine
+{TAB}{TAB}{TAB}-{TAB}allow plasma{TAB_RIGHT}(2)
+
+4.2.2.1(AO1)
+02.3{TAB}(Starch): Iodine (solution) (1)
+{TAB}{TAB}{TAB}(Sugar): Benedict’s (solution) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow phonetic spelling
+{TAB}{TAB}{TAB}-{TAB}ignore iodide unqualified{TAB_RIGHT}(2)
+
+4.2.2.1(AO2)
+02.4{TAB}enzyme had not started to work
+{TAB}{TAB}or{TAB}none of the starch had been digested / broken down{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow idea of not enough time (for digestion)
+
+4.2.2.1(AO2/AO3)
+02.5{TAB}(enzyme) digested / broke down starch to form sugar (1)
+{TAB}{TAB}{TAB}(however) not all the starch was digested / broken down (1){TAB_RIGHT}(2)
+
+4.2.2.1(AO3/AO2)
+02.6{TAB}sugar molecules formed are small enough to pass through tubing (1)
+{TAB}{TAB}{TAB}(but) starch molecules too large (to pass through tubing) (1){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 10 marks{BOLD}{ALIGN RIGHT}
+
+4.2.3.2(AO3)
+03.1{TAB}opened and closed the tap (so water enters from reservoir) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow opened the tap (carefully / gently){TAB_RIGHT}(1)
+
+4.2.3.2(AO3)
+03.2{TAB}air bubble moves further (in a given time) (1)
+{TAB}{TAB}{TAB}resolution is improved (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow air bubble moves faster
+{TAB}{TAB}{TAB}-{TAB}allow it is easier to see a small change (in volume)
+{TAB}{TAB}{TAB}-{TAB}ignore is easier to measure unqualified
+{TAB}{TAB}{TAB}-{TAB}allow measurements are more accurate
+{TAB}{TAB}{TAB}-{TAB}ignore to make test more accurate
+{TAB}{TAB}{TAB}-{TAB}ignore references to precision or validity{TAB_RIGHT}(2)
+
+4.2.3.2(AO2)
+03.3{TAB}reading: 665 (1)
+{TAB}{TAB}or{TAB}rate A: 13.2 (mm/min)
+{TAB}{TAB}{TAB}calculation: 13.2 × 0.8 (1)
+{TAB}{TAB}{TAB}answer: 10.56 (mm3/min) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 10.56 (mm3/min) scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}allow tolerance of ± ½ square
+{TAB}{TAB}{TAB}-{TAB}allow full marks from calculation from other correct pairs of readings
+{TAB}{TAB}{TAB}-{TAB}allow value in range 13 to 13.4 for 665 only
+{TAB}{TAB}{TAB}-{TAB}ignore 635 or 12.6
+{TAB}{TAB}{TAB}-{TAB}allow their calculated value in the range from 12 to 14 x 0.8
+{TAB}{TAB}{TAB}-{TAB}allow 10.6 or 11{TAB_RIGHT}(3)
+
+4.2.3.2(AO2)
+03.4{TAB}points plotted correctly (2)
+{TAB}{TAB}{TAB}suitable line of best fit (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow +/- ½ a square
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for 4/5 correct plots{TAB_RIGHT}(3)
+
+4.2.3.2(AO3)
+03.5{TAB}straight line starting at 0,0 with a steeper gradient than A (1){TAB_RIGHT}(1)
+
+4.2.3.2/4.4.1.2(AO1/AO2)
+03.6{TAB}no photosynthesis (1)
+{TAB}{TAB}{TAB}stomata closed (as no carbon dioxide needed) (1)
+{TAB}{TAB}{TAB}no transpiration (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow plants need light for photosynthesis
+{TAB}{TAB}{TAB}-{TAB}allow very little transpiration or little water lost{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+4.3.1.5(AO1)
+04.1{TAB}protist (1){TAB_RIGHT}(1)
+
+4.3.1.1/4.3.1.5/4.3.1.7(AO1)
+04.2{TAB}any two methods with reason from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}•{TAB}Method: insecticides; Reason: to kill mosquitos / vector
+{TAB}{TAB}{TAB}•{TAB}Method: (mosquito) nets; Reason: to avoid being bitten
+{TAB}{TAB}{TAB}•{TAB}Method: insect repellents; Reason: less likely to be bitten
+{TAB}{TAB}{TAB}•{TAB}Method: vaccination; Reason: so people are immune (to malaria)
+{TAB}{TAB}{TAB}•{TAB}Method: anti-malaria tablets; Reason: kills the pathogen / protist
+{TAB}{TAB}{TAB}•{TAB}Method: drain swampy ground / remove pots of water / put oil on water; Reason: fewer breeding grounds for mosquitos
+{TAB}{TAB}{TAB}•{TAB}Method: release GM / sterile mosquitos; Reason: prevent / reduce reproduction
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}1 mark for method and 1 mark for a correctly linked reason
+{TAB}{TAB}{TAB}-{TAB}ignore kill insects unqualified
+{TAB}{TAB}{TAB}-{TAB}allow long clothing
+{TAB}{TAB}{TAB}-{TAB}ignore acts as a physical barrier
+{TAB}{TAB}{TAB}-{TAB}allow DEET or named insect repellent
+{TAB}{TAB}{TAB}-{TAB}allow named anti-malarial e.g. Larium / Malarone
+{TAB}{TAB}{TAB}-{TAB}allow antibiotics
+{TAB}{TAB}{TAB}-{TAB}allow ecf from 04.1
+{TAB}{TAB}{TAB}-{TAB}ignore kills malaria
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for kill mosquitos
+
+4.1.1.1(AO1)
+04.3{TAB}any two from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}does not have a nucleus
+{TAB}{TAB}{TAB}•{TAB}has plasmids
+{TAB}{TAB}{TAB}•{TAB}is smaller
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow DNA is free in cytoplasm
+{TAB}{TAB}{TAB}-{TAB}allow has a single loop of DNA
+{TAB}{TAB}{TAB}-{TAB}allow has a single strand of DNA
+{TAB}{TAB}{TAB}-{TAB}allow description, e.g. (small) ring(s) of DNA
+{TAB}{TAB}{TAB}-{TAB}allow bacterial cells do not have mitochondria or do not have membrane bound organelles
+{TAB}{TAB}{TAB}-{TAB}allow bacteria have smaller ribosomes
+{TAB}{TAB}{TAB}-{TAB}ignore bacterial cells do not have chloroplasts
+
+4.4.2.1(AO3)
+04.4{TAB}to allow air / oxygen in for bacteria to respire
+{TAB}{TAB}or{TAB}so bacteria can respire aerobically (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to allow carbon dioxide produced in respiration to escape
+
+4.1.2.2/4.3.1.1/4.4.2.1/4.4.2.3(AO2)
+04.5{TAB}(A) (no change in population size) because no / limited cell division / reproduction (1)
+{TAB}{TAB}{TAB}(B) (rapid increase in population size) as cells dividing rapidly as (plentiful) supply of nutrients / food (1)
+{TAB}{TAB}{TAB}(C) (population size stays the same) as rate of cell death equals rate of cell division (1)
+{TAB}{TAB}{TAB}(D) (population size decreasing) as cells dying due to nutrients running out (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or (population size decreasing) as cells dying due to toxins / carbon dioxide / cell wastes building up (in solution)
+{TAB}{TAB}{TAB}-{TAB}allow (no change in population size) because bacteria / cells adjusting to environment / culture conditions
+{TAB}{TAB}{TAB}-{TAB}ignore reference to growth unqualified
+{TAB}{TAB}{TAB}-{TAB}allow rapid binary fission as (plentiful) supply of nutrients / food{TAB_RIGHT}(4)
+
+4.1.3.1(AO2/AO1)
+04.6{TAB}ratio X: 2.4 × 10-7 : 8 × 10-12 (1)
+{TAB}{TAB}{TAB}ratio Y: 726:1331 (1)
+{TAB}{TAB}{TAB}scale: 30 000:1 and 0.55:1 (1)
+{TAB}{TAB}{TAB}diffusion: diffusion distance is longer in multicellular organism (1)
+{TAB}{TAB}{TAB}rate: diffusion rate per unit volume is slower in a multicellular organism (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}a ratio of 30 000:1 for X and 0.55:1 for Y scores 3 marks
+{TAB}{TAB}{TAB}-{TAB}if no other calculation marks awarded allow 1 mark for calculation of SA for X and Y or volume for X and Y or calculation of SA and volume for one or both cubes if not given as a ratio
+{TAB}{TAB}{TAB}-{TAB}allow converse
+{TAB}{TAB}{TAB}-{TAB}allow idea that some cells will have no surfaces exposed to outside in multicellular organism{TAB_RIGHT}(5)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 17 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.5(AO1/AO2)
+05.1{TAB}formula: 50 = 43 / size of real object (1)
+{TAB}{TAB}{TAB}rearrangement: (size of real object =) 43 / 50 (1)
+{TAB}{TAB}{TAB}calculation: (size of real object =) 0.86 (mm) (1)
+{TAB}{TAB}{TAB}conversion: (size of real object =) 860 (μm) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}an answer of 860 (μm) scores 4 marks
+{TAB}{TAB}{TAB}-{TAB}allow correct conversion of their calculated value
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for magnification = size of image / size of real object{TAB_RIGHT}(4)
+
+4.1.1.2(AO1)
+05.2{TAB}Level 2: Scientifically relevant facts, events or processes are identified and given in detail to form an accurate account. (3–4)
+{TAB}{TAB}{TAB}Level 1: Facts, events or processes are identified and simply stated but their relevance is not clear. (1–2)
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}• place slide on stage
+{TAB}{TAB}{TAB}• use lowest power / ×4 objective lens (initially)
+{TAB}{TAB}{TAB}• adjust mirror or switch light on so light passes through slide
+{TAB}{TAB}{TAB}• move stage as close to lens as possible
+{TAB}{TAB}{TAB}• slide must not touch lens
+{TAB}{TAB}{TAB}• turn focussing knob so slide moves away from lens
+{TAB}{TAB}{TAB}• turn focussing knob until image comes into focus
+{TAB}{TAB}{TAB}• use fine focus to get clear image
+{TAB}{TAB}{TAB}• change objective lens to ×10
+{TAB}{TAB}{TAB}• ×5 eyepiece and ×10 objective lenses (gives total magnification of ×50)
+{TAB}{TAB}{TAB}• refocus slide using focussing knob
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}For Level 2 reference to how to focus the slide / cells and achieve magnification of ×50 is required{TAB_RIGHT}(4)
+
+4.1.3.3/4.2.3.2(AO3)
+05.3{TAB}any three from:{TAB_RIGHT}(3)
+{TAB}{TAB}{TAB}•{TAB}(rate) fastest in the first 0.5 hours
+{TAB}{TAB}{TAB}•{TAB}(rate gradually) decreases after first 0.5 hours (or throughout investigation)
+{TAB}{TAB}{TAB}•{TAB}rate is constant between 1.0 and 2.0 hours (or between 2.0 and 3.5 hours)
+{TAB}{TAB}{TAB}•{TAB}(rate) becomes zero between 3.0 and 3.5 hours
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ‘it’ for rate
+{TAB}{TAB}{TAB}-{TAB}allow fastest rate is 120 units per hour (at start)
+{TAB}{TAB}{TAB}-{TAB}allow mean rate over 3.5 hours is 37.14 units per hour
+{TAB}{TAB}{TAB}-{TAB}allow (rate) is zero after 3.5 hours
+
+4.1.3.3/4.2.3.2(AO3/AO2/AO1)
+05.4{TAB}more nitrate ions are absorbed in the presence of oxygen (1)
+{TAB}{TAB}{TAB}(which suggests) they are absorbed by active transport / uptake (1)
+{TAB}{TAB}{TAB}which requires energy from respiration (1)
+{TAB}{TAB}{TAB}some nitrate ions absorbed by diffusion (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or some nitrate ions absorbed (by active transport / uptake) requiring energy from anaerobic respiration
+{TAB}{TAB}{TAB}-{TAB}or some nitrate ions absorbed by active transport / uptake using oxygen already dissolved in the solution
+{TAB}{TAB}{TAB}-{TAB}allow nitrate ions absorbed faster in the presence of oxygen
+{TAB}{TAB}{TAB}-{TAB}do not accept energy produced / created / made{TAB_RIGHT}(4)
+
+4.4.1.3/4.4.2.3(AO1)
+05.5{TAB}nitrate ions are used with glucose (1)
+{TAB}{TAB}{TAB}to form amino acids (1)
+{TAB}{TAB}{TAB}(which are) used to synthesise proteins (needed for growth) (1){TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 18 marks{BOLD}{ALIGN RIGHT}

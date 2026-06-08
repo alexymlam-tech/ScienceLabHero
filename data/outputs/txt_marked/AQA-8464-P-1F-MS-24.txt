@@ -1,0 +1,518 @@
+(AO1)
+01.1{TAB}the current in both lamps is the same
+{TAB}{TAB}{TAB}6.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+01.2{TAB}(4.5 – 1.5 =) 3 (V)
+{TAB}{TAB}{TAB}6.2.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (4.5 – 1.5 =) 3.0 (V)
+
+(AO2)
+01.3{TAB}P = 1.5 × 1.2 (1)
+{TAB}{TAB}{TAB}1.8 (W)
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+01.4{TAB}R = 1.51.2 (1)
+{TAB}{TAB}{TAB}1.25 (Ω)
+{TAB}{TAB}{TAB}6.2.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1.3 (Ω)
+
+(AO2)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO1)
+01.6{TAB}the temperature of each lamp increases
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+01.7{TAB}lamp X no longer emits light (1)
+{TAB}{TAB}{TAB}because the circuit is no longer complete (9)
+{TAB}{TAB}{TAB}dependent on MP1
+{TAB}{TAB}{TAB}6.2.2
+{TAB}{TAB}{TAB}Total Question 1
+{TAB}{TAB}{TAB}Question 2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(10)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow because there is no current
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+02.1{TAB}a renewable energy resource that uses hot rocks underground
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.2{TAB}ΔE = 15 × 3800 × 9.0 (1)
+{TAB}{TAB}{TAB}513 000 (J)
+{TAB}{TAB}{TAB}6.3.2.2
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.3{TAB}9600 (J)
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+02.4{TAB}1 W
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 4.0 (m)
+
+(AO1)
+02.6{TAB}EITHER (1)
+{TAB}{TAB}{TAB}releases carbon dioxide
+{TAB}{TAB}{TAB}which contributes to global warming
+{TAB}{TAB}or{TAB}releases sulfur / nitrogen dioxide (1)
+{TAB}{TAB}{TAB}which causes acid rain (1)
+{TAB}{TAB}or{TAB}releases soot (1)
+{TAB}{TAB}{TAB}which can cause global dimming (1)
+{TAB}{TAB}{TAB}6.1.3
+{TAB}{TAB}{TAB}Total Question 2
+{TAB}{TAB}{TAB}Question 3
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore references to pollution
+{TAB}{TAB}{TAB}-{TAB}allow climate change for global warming
+{TAB}{TAB}{TAB}-{TAB}allow which is a greenhouse gas
+{TAB}{TAB}{TAB}-{TAB}allow which contributes to the greenhouse effect
+{TAB}{TAB}{TAB}-{TAB}allow other oxides of nitrogen
+{TAB}{TAB}{TAB}-{TAB}allow carbon for soot
+{TAB}{TAB}{TAB}-{TAB}allow particulates
+{TAB}{TAB}{TAB}-{TAB}allow reduces air quality
+{TAB}{TAB}{TAB}-{TAB}allow causes smog
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+03.1{TAB}radium-228 atoms have two more neutrons
+{TAB}{TAB}{TAB}6.4.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+
+(AO3)
+03.3{TAB}decrease the distance between the toothpaste and the detector
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.4{TAB}answers may be in either order
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.5{TAB}the tube of toothpaste used
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.6{TAB}the activity of the toothpaste
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+03.7{TAB}there is less risk
+{TAB}{TAB}{TAB}6.4.2.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+03.8{TAB}nuclear radiation is ionising
+{TAB}{TAB}{TAB}6.4.2.1 6.4.2.4
+{TAB}{TAB}{TAB}Total Question 3
+{TAB}{TAB}{TAB}Question 4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)(RPA16)
+04.1{TAB}voltmeter symbol correct (1)
+{TAB}{TAB}{TAB}voltmeter connected across diode
+{TAB}{TAB}{TAB}6.2.1
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow voltmeter connected across diode and ammeter
+
+(AO1)(RPA16)
+04.2{TAB}6.2.1
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)(RPA16)
+04.3{TAB}random
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)(RPA16)
+04.4{TAB}0.27 + 0.32 + 0.313 (1)
+{TAB}{TAB}{TAB}0.3 (A)
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 0.30 (A)
+
+(AO2)(6.2.1.4 RPA16)
+04.5{TAB}both points plotted correctly (1)
+{TAB}{TAB}{TAB}line of best fit
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a tolerance of ± ½ small square
+{TAB}{TAB}{TAB}-{TAB}ignore line before 0.5 V
+
+(AO2)(RPA16)
+04.6{TAB}non-linear
+{TAB}{TAB}{TAB}6.2.1.4 6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)(RPA16)
+04.7{TAB}the current decreased to 0.00 A
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Total Question 4
+{TAB}{TAB}{TAB}Question 5
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 15 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+05.1{TAB}metal has a high thermal conductivity
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.2{TAB}6 particles all spread apart irregularly within the box
+{TAB}{TAB}{TAB}e.g.
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.3{TAB}air particles collide with the walls of the container
+{TAB}{TAB}{TAB}6.3.3.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.4{TAB}decreases
+{TAB}{TAB}{TAB}6.3.3.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.5{TAB}(the pressure) decreased as temperature decreased (1)
+{TAB}{TAB}{TAB}(the pressure) increased as temperature increased
+{TAB}{TAB}{TAB}6.3.3.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 2 marks for it decreased then increased
+
+(AO2)
+05.6{TAB}90 (m3)
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+05.7{TAB}density = massvolume
+{TAB}{TAB}or{TAB}𝜌 = mV
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+05.8{TAB}1100 = m90 (1)
+{TAB}{TAB}{TAB}mass = 90 × 1100
+{TAB}{TAB}{TAB}99 000 (kg)
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Total Question 5
+{TAB}{TAB}{TAB}Question 6
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow ecf from question 05.6
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 17 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+06.1{TAB}kinetic energy (of the beater / food) (1)
+{TAB}{TAB}{TAB}internal / thermal energy (of the surroundings / whisk / food)
+{TAB}{TAB}{TAB}6.2.4.2
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore sound
+
+(AO1)
+06.2{TAB}power = work donetime
+{TAB}{TAB}or{TAB}P = Wt
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+06.3{TAB}92 = 23 000time (1)
+{TAB}{TAB}{TAB}time = 23 00092
+{TAB}{TAB}{TAB}250 (s)
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+06.4{TAB}P = I2 R
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO2)
+06.5{TAB}I = 0.500 A (1)
+{TAB}{TAB}{TAB}P = 0.5002 × 640
+{TAB}{TAB}{TAB}P = 160 (W)
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a correct substitution of an incorrectly / not converted current
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using an incorrectly / not converted current
+
+(AO1)
+06.6{TAB}230 (V)
+{TAB}{TAB}{TAB}6.2.3.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1)
+06.7{TAB}decreases
+{TAB}{TAB}{TAB}6.2.4.1
+{TAB}{TAB}{TAB}Total Question 6
+{TAB}{TAB}{TAB}Question 7
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 19 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+07.1{TAB}2 protons and 2 neutrons
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore helium nucleus
+
+(AO1)
+07.2{TAB}6.4.1.2 (1)
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO1/AO3)
+07.3{TAB}Level 2: Scientifically relevant facts, events or processes are (3-4)
+{TAB}{TAB}{TAB}identified and given in detail to form an accurate account.
+{TAB}{TAB}{TAB}4‒6
+{TAB}{TAB}{TAB}6.4.1.3
+{TAB}{TAB}{TAB}Level 1: Facts, events or processes are identified and simply
+{TAB}{TAB}{TAB}stated but their relevance is not clear.
+{TAB}{TAB}{TAB}1‒3
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}Plum pudding model
+{TAB}{TAB}{TAB}•{TAB}the atom is a ball of positive charge
+{TAB}{TAB}{TAB}•{TAB}electrons are embedded in the ball
+{TAB}{TAB}{TAB}Reasons why the plum pudding model was replaced
+{TAB}{TAB}{TAB}•{TAB}the results were not correctly predicted by the plum pudding model
+{TAB}{TAB}{TAB}•{TAB}the plum pudding model did not predict that some particles would be deflected
+{TAB}{TAB}{TAB}•{TAB}the large angle deflections suggest that the atom contains a nucleus
+{TAB}{TAB}{TAB}•{TAB}all deflections suggest that the nucleus is charged
+{TAB}{TAB}{TAB}•{TAB}most alpha particles were not deflected suggesting that atoms are mostly empty space
+{TAB}{TAB}{TAB}Nuclear model
+{TAB}{TAB}{TAB}•{TAB}mass is concentrated in the nucleus
+{TAB}{TAB}{TAB}•{TAB}the nucleus is charged
+{TAB}{TAB}{TAB}•{TAB}the atom is mostly empty space
+{TAB}{TAB}{TAB}•{TAB}electrons orbit the nucleus in the nuclear model
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.
+{TAB_RIGHT}(?)
+
+(AO1)
+07.4{TAB}James Chadwick (9)
+{TAB}{TAB}{TAB}6.4.1.3
+{TAB}{TAB}{TAB}Total Question 7{TAB_RIGHT}(9)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 0 marks{BOLD}{ALIGN RIGHT}

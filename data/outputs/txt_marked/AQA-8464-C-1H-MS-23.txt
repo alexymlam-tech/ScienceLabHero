@@ -1,0 +1,196 @@
+5.4.2.4(AO1)
+01.1{TAB}hydrogen / H+ (1){TAB_RIGHT}(1)
+
+5.4.2.4(AO1)
+01.2{TAB}(indicator): universal; (result): (green to) red / orange / yellow (2)
+{TAB}{TAB}OR{TAB}(indicator): (blue) litmus; (result): (turns) red (2)
+{TAB}{TAB}OR{TAB}(indicator): methyl orange; (result): (turns) red (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}MP2 is dependent upon MP1 being awarded
+{TAB}{TAB}{TAB}-{TAB}ignore pH meter{TAB_RIGHT}(2)
+
+5.3.2.5(AO3)
+01.3{TAB}the solubility decreases (1){TAB_RIGHT}(1)
+
+5.3.2.5/5.4.2.4(AO3)
+01.4{TAB}pH of the solution increases (1){TAB_RIGHT}(1)
+
+5.2.2.2(AO2)
+01.5{TAB}(l) (1){TAB_RIGHT}(1)
+
+5.3.1.3/5.4.2.2(AO3)
+01.6{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative Content:
+{TAB}{TAB}{TAB}-{TAB}• measure a (stated) mass of calcium carbonate; • use a balance; • add calcium carbonate into a conical flask; • measure a (stated) volume of hydrochloric acid; • use a measuring cylinder; • add hydrochloric acid to the conical flask; • immediately place the stopper (and delivery tube) in the conical flask; • record the total volume of carbon dioxide gas or record volume of carbon dioxide collected in set time or time taken to collect fixed volume of gas; • collected in the gas syringe; • repeat; • repeat method with different masses of calcium carbonate{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 12 marks{BOLD}{ALIGN RIGHT}
+
+5.4.2.2(AO1)(RPA 8)
+02.1{TAB}neutralisation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow exothermic{TAB_RIGHT}(1)
+
+5.3.1.2(AO2)
+02.2{TAB}calculation: (1 × 2) + 32 + (4 × 16) (1)
+{TAB}{TAB}{TAB}answer: = 98 (1){TAB_RIGHT}(2)
+
+5.3.1.2(AO2)
+02.3{TAB}calculation: (Ar O × 4 =) 4 × 16 or 64 (1)
+{TAB}{TAB}{TAB}calculation: (percentage of oxygen =) 64 / 110 × 100 (1)
+{TAB}{TAB}{TAB}intermediate: = 58.18 (1)
+{TAB}{TAB}{TAB}answer: = 58 (%) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrectly determined mass of oxygen
+{TAB}{TAB}{TAB}-{TAB}allow a correctly calculated answer to 2 significant figures from an incorrect calculation which uses the values in the question{TAB_RIGHT}(4)
+
+5.3.2.5(AO2)
+02.4{TAB}conversion: (25 cm3 ÷ 1000) = 0.025 dm3 (1)
+{TAB}{TAB}{TAB}calculation: (conc =) 0.30 / 0.025 (g/dm3) (1)
+{TAB}{TAB}{TAB}answer: = 12 (g/dm3) (1)
+{TAB}{TAB}or{TAB}calculation: 0.30 / 25 (g/cm3) (1) = 0.012 (g/cm3) (1)
+{TAB}{TAB}{TAB}conversion: (0.012 × 1000) = 12 (g/dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct use of incorrect / no unit conversion
+{TAB}{TAB}{TAB}-{TAB}allow correct conversion of an incorrect concentration calculation{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.1/5.1.2.5/5.3.1.1/5.4.1.1(AO2)
+03.1{TAB}4 Na + O2 → 2 Na2O (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow multiples{TAB_RIGHT}(1)
+
+5.1.1.7/5.1.2.3/5.1.2.5/5.2.1.2(AO1)
+03.2{TAB}sodium atom loses one electron (1)
+{TAB}{TAB}{TAB}oxygen atom gains two electrons (1)
+{TAB}{TAB}{TAB}two sodium atoms to one oxygen atom (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}(to form) Na+ and O2-
+{TAB}{TAB}{TAB}•{TAB}(to form) sodium ion(s) and oxide ion(s)
+{TAB}{TAB}{TAB}•{TAB}(to form) ions with full outer shells / levels{TAB_RIGHT}(4)
+
+5.1.2.5(AO1)
+03.3{TAB}yellow flame (1)
+{TAB}{TAB}{TAB}any one from: (1)
+{TAB}{TAB}{TAB}•{TAB}sodium melts
+{TAB}{TAB}{TAB}•{TAB}white smoke / solid / powder
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow orange flame{TAB_RIGHT}(2)
+
+5.1.2.5(AO1)
+03.4{TAB}(potassium) lilac flame (1)
+{TAB}{TAB}{TAB}burns faster (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (burns with a) different colour flame
+{TAB}{TAB}{TAB}-{TAB}allow more vigorous reaction{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.3(AO1)
+04.1{TAB}electron → proton → neutron (1){TAB_RIGHT}(1)
+
+5.1.1.5(AO2)
+04.2{TAB}calculation: 1.673 × 10^-27 / 9.109 × 10^-31 (1)
+{TAB}{TAB}{TAB}answer: = 1837 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1836.645076 correctly rounded to at least 3 sig. figs.{TAB_RIGHT}(2)
+
+5.1.1.5(AO2)
+04.3{TAB}46 (1){TAB_RIGHT}(1)
+
+5.1.1.4/5.1.1.5(AO2)
+04.4{TAB}36 (1){TAB_RIGHT}(1)
+
+5.1.1.6(AO2)
+04.5{TAB}calculation: (Ar =) (35 × 75.77) + (37 × 24.23) / 100 (1)
+{TAB}{TAB}{TAB}intermediate: = 35.4846 (1)
+{TAB}{TAB}{TAB}answer: = 35.48 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation to 2 decimal places from incorrect starting values{TAB_RIGHT}(3)
+
+5.1.2.6/5.2.1.1/5.2.1.4(AO1)
+04.6{TAB}one shared pair in overlap (1)
+{TAB}{TAB}{TAB}each chlorine atom with 6 non-bonded electrons (on outer shell) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow combination of circles, dots, crosses, e(-)
+{TAB}{TAB}{TAB}-{TAB}ignore any inner shell electrons
+{TAB}{TAB}{TAB}-{TAB}the diagram below scores 2 marks{TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.2.2.3/5.4.3.1(AO1)
+05.1{TAB}ions are not free to move (1){TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.2(AO1)
+05.2{TAB}liquid or molten (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (when) the solid is melted
+{TAB}{TAB}{TAB}-{TAB}ignore references to aqueous solutions / dissolving{TAB_RIGHT}(1)
+
+5.4.3.1/5.4.3.4(AO3)(RPA 9)
+05.3{TAB}carbon / graphite (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow platinum / gold / silver{TAB_RIGHT}(1)
+
+5.4.1.4/5.4.3.1/5.4.3.4/5.4.3.5(AO2)(RPA 9)
+05.4{TAB}2 Cl- → Cl2 + 2 e- (2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore state symbols
+{TAB}{TAB}{TAB}-{TAB}allow 1 mark for Cl2 + e-{TAB_RIGHT}(2)
+
+5.4.2.4/5.4.3.1/5.4.3.4/5.4.3.5(AO1/AO3)(RPA 9)
+05.5{TAB}water (molecules) break down to produce (equal numbers of) H+ and OH- (ions) (1)
+{TAB}{TAB}{TAB}(so) the hydrogen / H+ ions are attracted to the negative electrode (where) hydrogen ions are discharged / reduced (1)
+{TAB}{TAB}{TAB}(because) hydrogen is less reactive than sodium (1)
+{TAB}{TAB}{TAB}(so there is) a decrease in (the relative number of) H+ ions or an increase in the relative number of OH- ions (1){TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 9 marks{BOLD}{ALIGN RIGHT}
+
+5.1.1.2/5.4.2.1/5.4.2.3(AO1)(RPA 8)
+06.1{TAB}filter (to remove excess magnesium) (1)
+{TAB}{TAB}{TAB}(then) crystallisation (of magnesium chloride solution) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (then) evaporation (of water from solution){TAB_RIGHT}(2)
+
+5.4.1.4/5.4.2.1/5.4.2.3(AO2)(RPA 8)
+06.2{TAB}(magnesium atoms are) oxidised (1)
+{TAB}{TAB}{TAB}(because the atoms) lose (two) electrons (1){TAB_RIGHT}(2)
+
+5.3.1.1/5.3.2.2/5.4.2.1/5.4.2.3(AO2)(RPA 8)
+06.3{TAB}calculation: (moles Mg =) 0.72 / 24 = 0.03 (1)
+{TAB}{TAB}{TAB}ratio: (moles Mg = moles MgCl2) (1)
+{TAB}{TAB}{TAB}calculation: (so mass MgCl2 =) 0.03 × 95 = 2.85 (g) (1)
+{TAB}{TAB}{TAB}conversion: (100.0 cm3 = 0.100 dm3) (1)
+{TAB}{TAB}{TAB}calculation: (concentration = mass / volume) = 2.85 / 0.100 (1)
+{TAB}{TAB}{TAB}answer: = 28.5 (g/dm3) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow correct calculation using incorrect starting values{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 10 marks{BOLD}{ALIGN RIGHT}
+
+5.2.3.3(AO1)
+07.1{TAB}fullerenes and graphene (1){TAB_RIGHT}(1)
+
+5.2.1.5/5.2.2.8(AO1)
+07.2{TAB}delocalised electrons (1)
+{TAB}{TAB}{TAB}(which) move through the structure and transfer energy (2){TAB_RIGHT}(3)
+
+5.2.1.3/5.2.2.3(AO1)
+07.3{TAB}strong (electrostatic) forces of attraction between oppositely charged ions (2)
+{TAB}{TAB}{TAB}(so) large amounts of energy needed to break the many / strong bonds / forces (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow large energy to break bonds in all directions / lattice{TAB_RIGHT}(3)
+
+5.2.1.4/5.2.2.4(AO1)
+07.4{TAB}small molecules (with) weak forces between the molecules / weak intermolecular forces (2)
+{TAB}{TAB}{TAB}(so) little energy required to overcome / break the forces between molecules (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow simple molecules / weak intermolecular bonds
+{TAB}{TAB}{TAB}-{TAB}do not accept incorrect references to covalent bonds
+{TAB}{TAB}{TAB}-{TAB}allow little energy to separate the molecules / overcome intermolecular bonds
+{TAB}{TAB}{TAB}-{TAB}ignore less energy{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 10 marks{BOLD}{ALIGN RIGHT}

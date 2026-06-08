@@ -1,0 +1,356 @@
+4.1.1.1(AO1)
+01.1{TAB}both have a cell membrane (1)
+{TAB}{TAB}{TAB}both have cytoplasm (1){TAB_RIGHT}(2)
+
+4.3.1.3(AO1)
+01.2{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}fever
+{TAB}{TAB}{TAB}•{TAB}abdominal / stomach cramps
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore vomiting / sickness / diarrhoea
+{TAB}{TAB}{TAB}-{TAB}ignore feel unwell unqualified
+{TAB}{TAB}{TAB}-{TAB}ignore rashes
+{TAB}{TAB}{TAB}-{TAB}allow high temperature
+{TAB}{TAB}{TAB}-{TAB}allow sweating / chills
+
+4.3.1.9(AO2)
+01.3{TAB}penicillin (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow phonetic spelling{TAB_RIGHT}(1)
+
+4.3.1.1/4.3.1.3/4.3.1.8(AO3)
+01.4{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}only a few bacteria killed so live bacteria continued to reproduce
+{TAB}{TAB}{TAB}•{TAB}time delay before antibiotic reached bacteria
+{TAB}{TAB}{TAB}•{TAB}time delay before antibiotic could kill bacteria
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow bacteria reproducing when course started
+{TAB}{TAB}{TAB}-{TAB}allow takes time (for antibiotic) to travel through the body
+{TAB}{TAB}{TAB}-{TAB}allow takes time (for antibiotic) to work
+
+4.3.1.1(AO2)
+01.5{TAB}there were fewer toxins in the body than at day 0 (1){TAB_RIGHT}(1)
+
+4.3.1.8(AO1)
+01.6{TAB}to reduce / prevent resistant strains / bacteria developing (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or to reduce / prevent antibiotic resistance (in bacteria)
+{TAB}{TAB}{TAB}-{TAB}ignore references to bacteria becoming immune
+{TAB}{TAB}{TAB}-{TAB}allow because they will get better without taking any antibiotics
+{TAB}{TAB}{TAB}-{TAB}ignore body will fight the infection unqualified
+{TAB}{TAB}{TAB}-{TAB}allow some infections are caused by viruses
+{TAB}{TAB}{TAB}-{TAB}allow because they have been told not to by NHS / NICE{TAB_RIGHT}(1)
+
+4.2.2.3/4.3.1.7(AO2)
+01.7{TAB}B (1){TAB_RIGHT}(1)
+
+4.2.2.3(AO2)
+01.8{TAB}D (1){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.1/4.1.1.2/4.1.2.1(AO1)
+02.1{TAB}gene (1)
+{TAB}{TAB}{TAB}chromosome
+{TAB}{TAB}{TAB}nucleus
+{TAB}{TAB}{TAB}cell
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}must be in this order{TAB_RIGHT}(1)
+
+4.1.1.4(AO1)
+02.2{TAB}differentiation (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore specialisation{TAB_RIGHT}(1)
+
+4.1.2.2(AO2)
+02.3{TAB}4 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 15{TAB_RIGHT}(1)
+
+4.1.2.1/4.1.2.2(AO2)
+02.4{TAB}46 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 23 pairs (of chromosomes){TAB_RIGHT}(1)
+
+4.1.2.2(AO1)
+02.5{TAB}Stage 1: (cell) growth / increase in number of sub-cellular structures / DNA replicates / chromosomes double / duplicate / replicate (1)
+{TAB}{TAB}{TAB}Stage 2: (one set of) chromosomes pulled to each end of cell / two nuclei form (1)
+{TAB}{TAB}{TAB}Stage 3: cytoplasm / membrane divides / two identical cells formed (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow increase in number of organelles / ribosomes / mitochondria
+{TAB}{TAB}{TAB}-{TAB}allow genetic material for DNA
+{TAB}{TAB}{TAB}-{TAB}allow DNA doubles / duplicates
+{TAB}{TAB}{TAB}-{TAB}ignore mitosis occurs
+{TAB}{TAB}{TAB}-{TAB}allow chromosomes line up across the centre of the cell
+{TAB}{TAB}{TAB}-{TAB}allow chromosomes move to opposite ends of the cell
+{TAB}{TAB}{TAB}-{TAB}allow nucleus divides / splits (into two)
+{TAB}{TAB}{TAB}-{TAB}allow cytokinesis{TAB_RIGHT}(3)
+
+4.1.2.2(AO3/AO2)
+02.6{TAB}Level 2: Scientifically relevant features are identified; the way(s) in which they are similar / different is made clear and (where appropriate) the magnitude of the similarity / difference is noted. (4-6)
+{TAB}{TAB}{TAB}Level 1: Relevant features are identified and differences noted. (1-3)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}General comparisons:
+{TAB}{TAB}{TAB}-{TAB}• boys height at birth (slightly) greater than girls height
+{TAB}{TAB}{TAB}-{TAB}• boys are (slightly) taller than girls up to age 11
+{TAB}{TAB}{TAB}-{TAB}• correct height comparisons eg boys are approximately 4 / 5 cm taller than girls up to age 11
+{TAB}{TAB}{TAB}-{TAB}• girls and boys are the same height at age 11
+{TAB}{TAB}{TAB}-{TAB}• girls are taller than boys between age 11 and age 14
+{TAB}{TAB}{TAB}-{TAB}• girls and boys are the same height at age 14
+{TAB}{TAB}{TAB}-{TAB}• boys are taller than girls above age 14
+{TAB}{TAB}{TAB}-{TAB}• correct height comparisons eg boys are 5 to 18 cm taller than girls above age 14
+{TAB}{TAB}{TAB}-{TAB}• boys (eventually) grow taller than girls
+{TAB}{TAB}{TAB}-{TAB}• boys carry on growing for a longer time than girls
+{TAB}{TAB}{TAB}-{TAB}• girls stop growing age 13 / 14 / 15 and boys stop growing age 17 / 18
+{TAB}{TAB}{TAB}-{TAB}Rate comparisons:
+{TAB}{TAB}{TAB}-{TAB}• rate of growth similar up to age 10 / 11
+{TAB}{TAB}{TAB}-{TAB}• girls grow faster than boys between 10 / 11 and 14
+{TAB}{TAB}{TAB}-{TAB}allow girls have a greater increase in height between 11 and 14
+{TAB}{TAB}{TAB}-{TAB}• growth spurt occurs at a younger age in girls
+{TAB}{TAB}{TAB}-{TAB}• growth spurt starts age 10 / 11 in girls and age 13 / 14 in boys
+{TAB}{TAB}{TAB}-{TAB}• increased rate of growth in girls aged 10 to 13 /14 and in boys aged 13 to 17 / 18
+{TAB}{TAB}{TAB}-{TAB}Key points for Level 2 are correct reference to 0-11 year period, 11-14 period and after age 14, with at least one correct reference to rate of growth or use of correct values of height and age to illustrate rate.{TAB_RIGHT}(6)
+
+4.1.1.4(AO1)
+02.7{TAB}repair of tissues (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or replacement of cells
+{TAB}{TAB}{TAB}-{TAB}ignore growth
+{TAB}{TAB}{TAB}-{TAB}allow repair of organs
+{TAB}{TAB}{TAB}-{TAB}ignore repair of cells
+{TAB}{TAB}{TAB}-{TAB}allow replacement of tissues
+{TAB}{TAB}{TAB}-{TAB}ignore replacement of organs{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.2.1/4.2.2.1(AO1)
+03.1{TAB}salivary glands, pancreas and small intestine (1){TAB_RIGHT}(1)
+
+4.2.2.1(AO1)(RPA 4)
+03.2{TAB}pH (of amylase / solution / buffer) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore upper and lower case letters
+{TAB}{TAB}{TAB}-{TAB}allow hydrogen ion / H+ concentration
+{TAB}{TAB}{TAB}-{TAB}ignore acidity / alkalinity{TAB_RIGHT}(1)
+
+4.2.2.1(AO1)(RPA 3/RPA 4)
+03.3{TAB}iodine (solution / reagent) would not turn black / blue-black (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or iodine (solution / reagent) would stay orange / brown
+{TAB}{TAB}{TAB}-{TAB}allow iodine (solution / reagent) would not turn dark blue / dark purple
+{TAB}{TAB}{TAB}-{TAB}ignore iodine solution / reagent would not turn blue / purple
+{TAB}{TAB}{TAB}-{TAB}allow iodine (solution / reagent) would not change colour{TAB_RIGHT}(1)
+
+4.2.2.1(AO3)(RPA 4)
+03.4{TAB}6.8 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer line takes precedence
+{TAB}{TAB}{TAB}-{TAB}allow answer in range 6.75 to 6.85{TAB_RIGHT}(1)
+
+4.2.2.1(AO3)(RPA 4)
+03.5{TAB}82 (seconds) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answer line takes precedence
+{TAB}{TAB}{TAB}-{TAB}allow answer in range 80 to 84 (seconds){TAB_RIGHT}(1)
+
+4.2.2.1(AO2)(RPA 4)
+03.6{TAB}tangent: tangent drawn at 40 seconds (1)
+{TAB}{TAB}{TAB}calculation: (rate =) value for dy / value for dx (1)
+{TAB}{TAB}{TAB}calculation: calculation of rate at 40 seconds (1)
+{TAB}{TAB}{TAB}rate: 2.25 (arbitrary units per minute) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}eg (rate =) 2.25 / 60
+{TAB}{TAB}{TAB}-{TAB}(rate =) 0.0375 (arbitrary units per second)
+{TAB}{TAB}{TAB}-{TAB}allow an answer in the range 0.035 to 0.042 (arbitrary units per second)
+{TAB}{TAB}{TAB}-{TAB}allow an answer in the range 2.1 to 2.5 (arbitrary units per minute)
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for (3.5 / 40 × 60 =) 5.25 (arbitrary units per minute)
+{TAB}{TAB}{TAB}-{TAB}allow an answer in the range 5.175 to 5.25 (arbitrary units per minute) for this mark only{TAB_RIGHT}(4)
+
+4.2.2.1(AO2/AO1)
+03.7{TAB}Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}• enzymes are protein molecules
+{TAB}{TAB}{TAB}-{TAB}• (so) have a 3D structure
+{TAB}{TAB}{TAB}-{TAB}• lock and key theory
+{TAB}{TAB}{TAB}-{TAB}• have an active site
+{TAB}{TAB}{TAB}-{TAB}• (which) has a specific shape
+{TAB}{TAB}{TAB}-{TAB}• shape of active site will only match shape of substrate
+{TAB}{TAB}{TAB}-{TAB}• starch is substrate for amylase
+{TAB}{TAB}{TAB}-{TAB}• at pH values above or below the optimum the shape of active site is changed (in some molecules)
+{TAB}{TAB}{TAB}-{TAB}• (so) substrate can no longer fit the active site
+{TAB}{TAB}{TAB}-{TAB}• at extreme pH values enzyme is denatured
+{TAB}{TAB}{TAB}-{TAB}• (so) shape of active site is changed
+{TAB}{TAB}{TAB}-{TAB}• (so) amylase can no longer digest starch
+{TAB}{TAB}{TAB}-{TAB}• (so) rate of digestion decreases
+{TAB}{TAB}{TAB}-{TAB}For Level 3 reference to enzyme structure and effect of pH on enzyme activity are needed{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 15 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1(AO1)
+04.1{TAB}to transfer energy (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or photosynthesis is an endothermic reaction
+{TAB}{TAB}{TAB}-{TAB}allow idea that light is the source of energy (for the reaction)
+{TAB}{TAB}{TAB}-{TAB}do not accept to produce / make / create / use energy{TAB_RIGHT}(1)
+
+4.4.1.1(AO1)
+04.2{TAB}6CO2 + 6H2O → C6H12O6 + 6O2 (1){TAB_RIGHT}(1)
+
+4.4.1.1/4.4.1.2(AO3/AO1)(RPA 5)
+04.3{TAB}allow the pondweed to equilibrate in the light (1)
+{TAB}{TAB}{TAB}use a gas syringe (1)
+{TAB}{TAB}{TAB}measure time oxygen / gas is collected for using a timer / stopwatch / stopclock (1)
+{TAB}{TAB}{TAB}repeat the measurements and calculate a mean (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or use a (measuring) cylinder to measure / collect the oxygen / gas produced
+{TAB}{TAB}{TAB}-{TAB}allow leave the pondweed in the light (for a few minutes) before taking measurements
+{TAB}{TAB}{TAB}-{TAB}allow use the same concentration of sodium hydrogen carbonate solution
+{TAB}{TAB}{TAB}-{TAB}ignore control carbon dioxide concentration unless method described
+{TAB}{TAB}{TAB}-{TAB}ignore use same intensity / distance of light
+{TAB}{TAB}{TAB}-{TAB}ignore control temperature
+{TAB}{TAB}{TAB}-{TAB}ignore use same pondweed
+{TAB}{TAB}{TAB}-{TAB}do not accept carbon dioxide
+{TAB}{TAB}{TAB}-{TAB}ignore references to counting bubbles
+{TAB}{TAB}{TAB}-{TAB}allow repeat the measurements and discard anomalies{TAB_RIGHT}(4)
+
+4.4.1.2(AO2)(RPA 5)
+04.4{TAB}independent variable in student’s investigation is categoric / discrete (1)
+{TAB}{TAB}{TAB}independent variable in scientist’s investigation is continuous (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore answers relating to the scale on the y-axis
+{TAB}{TAB}{TAB}-{TAB}allow colour of light is a categoric / discrete variable
+{TAB}{TAB}{TAB}-{TAB}ignore discontinuous
+{TAB}{TAB}{TAB}-{TAB}allow wavelength is a continuous variable{TAB_RIGHT}(2)
+
+4.4.1.1/4.4.1.2(AO3)(RPA 5)
+04.5{TAB}492 to 577 (nm) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answers in ranges 475 to 525 and 575 to 650 (nm){TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 9 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.7(AO1)
+05.1{TAB}any {BOLD}4{BOLD} from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}Similarities:
+{TAB}{TAB}{TAB}•{TAB}result from changes in the cell / DNA / genes
+{TAB}{TAB}{TAB}•{TAB}uncontrolled cell growth / division
+{TAB}{TAB}{TAB}•{TAB}can form a lump of cells
+{TAB}{TAB}{TAB}•{TAB}made up of abnormal cells
+{TAB}{TAB}{TAB}Differences:
+{TAB}{TAB}{TAB}Malignant tumours:
+{TAB}{TAB}{TAB}•{TAB}are made of cancer cells, benign tumours are not
+{TAB}{TAB}{TAB}or benign tumours are made up of cells that are more similar to normal cells
+{TAB}{TAB}{TAB}•{TAB}(usually) grow faster than benign tumours
+{TAB}{TAB}{TAB}•{TAB}invade neighbouring tissues, but benign tumours do not
+{TAB}{TAB}{TAB}•{TAB}can spread (to other parts of the body) but benign tumours stay in one place
+{TAB}{TAB}{TAB}or cells can travel in the blood, but benign tumours do not
+{TAB}{TAB}{TAB}•{TAB}can form secondary tumours, benign tumours do not
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max three marks if only similarities or differences given
+{TAB}{TAB}{TAB}-{TAB}allow result from mutations
+{TAB}{TAB}{TAB}-{TAB}allow benign tumours (often) have a layer of covering cells, malignant tumours (usually) do not
+{TAB}{TAB}{TAB}-{TAB}ignore references to level of harm
+
+4.2.2.6/4.2.2.7(AO3/AO2)
+05.2{TAB}little exposure to ionising radiation (1)
+{TAB}{TAB}{TAB}less cell / DNA / gene damage (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or little exposure to carcinogens
+{TAB}{TAB}{TAB}-{TAB}allow little exposure to UV (light) allow little exposure to sunlight
+{TAB}{TAB}{TAB}-{TAB}ignore little exposure Sun unqualified
+{TAB}{TAB}{TAB}-{TAB}allow use sunscreen
+{TAB}{TAB}{TAB}-{TAB}allow do not use sunbeds
+{TAB}{TAB}{TAB}-{TAB}allow named carcinogen e.g. smoking
+{TAB}{TAB}{TAB}-{TAB}allow (so) fewer mutations
+{TAB}{TAB}{TAB}-{TAB}allow older people’s (skin) cells are more susceptible to DNA damage
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for skin cancer takes a long time to develop{TAB_RIGHT}(2)
+
+4.2.2.7(AO3)
+05.3{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}more females than males diagnosed each year up to age 59 (years)
+{TAB}{TAB}{TAB}•{TAB}more new cases in males than in females from 60 (years)
+{TAB}{TAB}{TAB}•{TAB}greatest number of people / males / females diagnosed in age group 65-69 (years)
+{TAB}{TAB}{TAB}•{TAB}number of new cases increases in males up to age group 65−69 (years) after which they decrease / fall
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore the number of cases of skin cancer increases with age
+
+4.2.2.7(AO3)
+05.4{TAB}to account for the different group sizes (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow there are different numbers of people / males / females of different ages
+{TAB}{TAB}{TAB}-{TAB}allow so the different group sizes can be compared
+{TAB}{TAB}{TAB}-{TAB}allow so it can be compared to populations in other countries
+{TAB}{TAB}{TAB}-{TAB}ignore to compare unqualified{TAB_RIGHT}(1)
+
+4.2.2.7(AO2)
+05.5{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}number (of males / females per 100 000 population) increases with age
+{TAB}{TAB}{TAB}•{TAB}in females the number (per 100 000 population) increases at a steady rate
+{TAB}{TAB}{TAB}•{TAB}number (per 100 000 population) in males increases at a similar or at a slightly lower rate as in females up to age 55
+{TAB}{TAB}{TAB}•{TAB}number (per 100 000 population) increases at a much higher rate in males than females above age 59
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept if referring to number of new cases
+{TAB}{TAB}{TAB}-{TAB}allow number (per 100 000 population) in males increases at a steady rate up to 55−59 (years)
+{TAB}{TAB}{TAB}-{TAB}allow number (per 100 000 population) in males increases more rapidly above age 59
+
+4.2.2.7(AO2)
+05.6{TAB}substitution: 116 × 694 000 / 100 000 (1)
+{TAB}{TAB}{TAB}calculation: = 805.04 (1)
+{TAB}{TAB}{TAB}answer: = 805 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow values in the range 114 to 118
+{TAB}{TAB}{TAB}-{TAB}allow an incorrectly calculated number of males correctly rounded to 3 significant figures
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark only for an answer of 5270{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.2.1(AO1)
+06.1{TAB}it is made up of (different) tissues (that perform specific functions) (1){TAB_RIGHT}(1)
+
+4.2.1/4.2.2.2/4.2.2.4/4.4.2.1(AO2)
+06.2{TAB}some blood would flow back into the ventricle / heart (1)
+{TAB}{TAB}{TAB}less oxygenated blood would be pumped to the body (1)
+{TAB}{TAB}{TAB}cells require oxygen for respiration (1)
+{TAB}{TAB}{TAB}person would become out of breath / tired (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or less aerobic respiration or less energy transferred
+{TAB}{TAB}{TAB}-{TAB}allow not all the blood would leave the ventricle / heart
+{TAB}{TAB}{TAB}-{TAB}allow blood clot (may form in the heart)
+{TAB}{TAB}{TAB}-{TAB}do not accept blood would flow back into the right ventricle
+{TAB}{TAB}{TAB}-{TAB}ignore references to glucose
+{TAB}{TAB}{TAB}-{TAB}allow more anaerobic respiration
+{TAB}{TAB}{TAB}-{TAB}(so) lactic acid will build up
+{TAB}{TAB}{TAB}-{TAB}allow the idea of lacking energy
+{TAB}{TAB}{TAB}-{TAB}do not accept less energy produced / made / created{TAB_RIGHT}(4)
+
+4.2.2.2/4.2.2.3/4.2.2.4(AO3)
+06.3{TAB}any {BOLD}4{BOLD} from:{TAB_RIGHT}(4)
+{TAB}{TAB}{TAB}(advantages of biological valve):
+{TAB}{TAB}{TAB}•{TAB}reduced risk of blood clots which could cause heart attack or stroke
+{TAB}{TAB}{TAB}•{TAB}reduced risk of blood clots during pregnancy / birth
+{TAB}{TAB}{TAB}•{TAB}reduced risk of bleeding during pregnancy / birth
+{TAB}{TAB}{TAB}•{TAB}do not need to take anti (blood) clotting drugs
+{TAB}{TAB}{TAB}•{TAB}no risk to foetus / baby from drugs
+{TAB}{TAB}{TAB}•{TAB}reduced risk of serious bleeds if in an accident
+{TAB}{TAB}{TAB}•{TAB}do not need to carry (anti-blood clotting) drugs when travelling
+{TAB}{TAB}{TAB}•{TAB}lower risk of rejection / immune reaction
+{TAB}{TAB}{TAB}(disadvantages of biological valve):
+{TAB}{TAB}{TAB}•{TAB}may be rejected
+{TAB}{TAB}{TAB}•{TAB}may have to go through surgery more than once
+{TAB}{TAB}{TAB}•{TAB}may have to take immunosuppressant drugs
+{TAB}{TAB}{TAB}•{TAB}have to wait for (suitable) donor
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}max three marks if only advantages or disadvantages of biological valve given
+{TAB}{TAB}{TAB}-{TAB}ignore do not need to take blood thinners
+{TAB}{TAB}{TAB}-{TAB}allow do not need to take drugs for life
+{TAB}{TAB}{TAB}-{TAB}allow problems related to losing / obtaining drugs when travelling
+{TAB}{TAB}{TAB}-{TAB}do not credit reference to rejection twice
+{TAB}{TAB}{TAB}-{TAB}allow no risk of side effects from drugs
+{TAB}{TAB}{TAB}-{TAB}ignore risks from surgery unqualified
+{TAB}{TAB}{TAB}-{TAB}allow an animal might be killed
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 9 marks{BOLD}{ALIGN RIGHT}

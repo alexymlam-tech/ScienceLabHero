@@ -1,0 +1,394 @@
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+7
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.1
+both symbols correct and in the correct position
+1
+AO1
+6.2.1.3
+6.2.1.4
+RPA 15
+01.2
+the length of the wire being tested
+1
+AO1
+6.2.1.3
+RPA 15
+01.3
+the resistance of the wire
+1
+AO1
+6.2.1.3
+RPA 15
+01.4
+mean p.d. = 0.16 + 0.17 + 0.153
+mean p.d. = 0.16 (V)
+1
+1
+AO2
+6.2.1.3
+RPA 15
+01.5
+R = 0.32/0.50
+R = 0.64 (Ω)
+1
+1
+AO2/1
+6.2.1.3
+6.2.1.3
+RPA 15
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+8
+01.6
+power = 0.32 × 0.50
+power = 0.16 (W)
+1
+1
+AO2
+6.2.4.1
+01.7
+charge flow = 0.50 × 17
+8.5 (C)
+1
+1
+AO2
+6.2.1.2
+01.8
+a straight line through the origin with a lower gradient
+1
+AO1/2
+6.2.1.3
+RPA 15
+Total
+12
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+9
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+02.1
+contamination
+1
+AO1
+6.4.2.4
+02.2
+2007-1992 = 15
+35 (Bq)
+allow an indication of the student reading from 15 years on the graph
+allow an answer between 34 and 36 (Bq)
+1
+1
+AO2
+6.4.2.3
+02.3
+12.5 (years)
+1
+AO2
+6.4.2.3
+02.4
+12.5 (years)
+allow the same value as their answer to 02.3
+1
+AO1
+6.4.2.3
+02.5
+36 000 000 00045 000 000 000 (× 100)
+80 (%)
+allow 3645 (× 100)
+1
+1
+AO2
+6.4.2.3
+02.6
+radioactive decay is a random process
+1
+AO1
+6.4.2.3
+02.7
+use long tongs to handle the materials
+1
+AO1
+6.4.2.4
+02.8
+peer review
+1
+AO1
+6.4.2.4
+Total
+10
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+10
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.1
+it can be replenished as it is used
+1
+AO1
+6.1.3
+03.2
+biomass – renewable
+nuclear – Non-renewable
+natural gas – Non-renewable
+all 3 correct
+allow 1 mark for two correct answers
+2
+AO1
+6.1.3
+03.3
+kinetic
+chemical
+answers must be in the correct order
+1
+1
+AO2
+6.1.1.1
+03.4
+less energy is needed to heat the house
+the roof is a better insulator
+1
+1
+AO3
+6.1.2.1
+03.5
+E = 26 000 × 30
+780 000 (J)
+1
+1
+AO2
+6.1.1.4 6.2.4.2
+03.6
+efficiency =useful power outputtotal power input
+1
+AO1
+6.1.2.2
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+11
+03.7
+0.15 =useful power output26000
+useful power output = 26000 × 0.15
+useful power output = 3900 (W)
+1
+1
+1
+AO2
+6.1.2.2
+03.8
+sometimes it is not sunny/windy
+so there’s more chance of electricity being generated at any time
+OR
+more electricity is generated (1)
+which reduces the running costs (of the eco-home) (1)
+if no other mark scored, allow a reference to reduced greenhouse gas emissions or reduced global warming for 1 mark
+1
+1
+AO3
+6.1.3
+Total
+15
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+12
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+04.1
+at random speeds in random directions
+1
+AO1
+6.3.3.1
+04.2
+3rd thermometer ticked
+1
+AO2
+6.3.2
+04.3
+to prevent (frost/cold) burns
+or
+to prevent injury from the cold nitrogen
+allow to prevent frostbite
+1
+AO3
+6.3.2.2
+04.4
+decreased
+decreased
+1
+1
+AO1
+6.3.2.1 6.3.3.1
+04.5
+860 = 0.00320 × c × 215
+c = 8600.00320 × 215
+c = 1250 (J/kg°C)
+1
+1
+1
+AO2/1
+4-5
+6.3.2.2
+6.1.1.3
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+13
+04.6
+temperature stays the same
+1
+AO2
+6.3.2.3
+04.7
+a change of state from liquid to gas
+1
+AO1
+6.3.2.3
+04.8
+1440 = 0.0072 × L
+L =14400.0072
+L = 200 000 (J/kg)
+1
+1
+1
+AO2
+6.3.2.3
+Total
+13
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+14
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+05.1
+swap the blue wire and the green and yellow wire
+allow connect the blue wire to the neutral pin and the yellow and green wire to the earth pin.
+allow swap the earth and neutral wires
+ignore the earth wire and neutral wire are wrongly connected
+1
+AO2
+6.2.3.2
+05.2
+230 (V)
+50 (Hz)
+1
+1
+AO1
+6.2.3.1
+6.2.3.2
+05.3
+0 (V)
+1
+AO1
+6.2.3.2
+05.4
+1
+AO1
+6.2.1.1
+05.5
+the person could get an electric shock
+because there is a current in the person
+allow so the person could be electrocuted
+allow because the person provides a connection (from the washing machine) to earth
+allow because there is a potential difference across the person
+1
+1
+AO3
+6.2.3.2
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+15
+05.6
+the charge flows through the earth wire (instead of the person)
+because the resistance of the earth wire is much less than that of a person
+allow so the case does not become live
+allow so the fuse will break / melt / blow
+1
+1
+AO3
+6.2.3.2
+Total
+9
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+16
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.1
+A = 206
+1
+AO2
+6.4.2.2
+06.2
+Z = 82
+1
+AO2
+6.4.2.2
+06.3
+89
+39
+numbers must be in this order
+1
+1
+AO2
+6.4.2.2
+06.4
+electromagnetic waves
+1
+AO1
+6.4.2.1
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/P/1F – JUNE 2020
+17
+Question
+Answers
+Mark
+AO / Spec. Ref.
+06.5
+Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account.
+5–6
+AO1
+6.4.1.2
+6.4.2.1
+6.4.2.2
+Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear.
+3–4
+Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking.
+1–2
+No relevant content
+0
+Indicative content
+alpha radiation
+• an alpha particle is the same as a helium nucleus
+• alpha is the least penetrating
+• alpha is stopped by paper or skin
+• alpha has the shortest range in air
+• alpha will travel a few cm in air
+• because alpha is most ionising
+• because alpha has a charge of +2
+beta radiation
+• a beta particle is an electron (emitted from the nucleus)
+• beta penetrates less than gamma and more than alpha
+• beta is stopped by a thin sheet of aluminium
+• beta has a shorter range than gamma
+• beta will travel up to 1m in air
+• because beta is more ionising that gamma and less ionising than alpha
+• because beta has a charge of -1
+gamma radiation
+• gamma radiation is an electromagnetic wave
+• gamma is the most penetrating
+• gamma is reduced/stopped by several cm of lead or thick concrete
+• gamma has the largest range in air
+• gamma will travel very large distances in air
+• because gamma is least ionising
+• because is uncharged
+to access level 3 the answer should compare alpha, beta and gamma radiation and provide some explanation of their properties
+Total
+11

@@ -1,0 +1,314 @@
+(AO1)(RPA17)
+01.1{TAB}the piece of limestone has an irregular shape
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+(AO1)(6.3.1.1 RPA17)
+01.2{TAB}Level 2: The method would lead to the production of a valid outcome. The key steps are identified and logically sequenced. (3-4)
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}•{TAB}add water to the displacement can until level with the spout
+{TAB}{TAB}{TAB}•{TAB}place the limestone in the water
+{TAB}{TAB}{TAB}•{TAB}avoid splashing water out of the displacement can
+{TAB}{TAB}{TAB}•{TAB}collect the displaced water in the beaker or measuring cylinder
+{TAB}{TAB}{TAB}•{TAB}measure the volume of the displaced water
+{TAB}{TAB}{TAB}•{TAB}using a measuring cylinder
+{TAB}{TAB}{TAB}OR
+{TAB}{TAB}{TAB}•{TAB}use the large measuring cylinder
+{TAB}{TAB}{TAB}•{TAB}part fill the measuring cylinder water
+{TAB}{TAB}{TAB}•{TAB}measure the initial volume on the measuring cylinder
+{TAB}{TAB}{TAB}•{TAB}submerge the limestone in the water
+{TAB}{TAB}{TAB}•{TAB}measure the final volume on the measuring cylinder
+{TAB}{TAB}{TAB}•{TAB}volume of limestone = final volume − initial volume
+{TAB}{TAB}{TAB}To access level 2 the answer must refer to submerging the limestone in water and using the measuring cylinder.
+{TAB_RIGHT}(?)
+
+(AO2)(RPA17)
+01.3{TAB}density = 15562
+{TAB}{TAB}{TAB}density = 2.5 (g/cm3)
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+(AO1)(RPA17)
+01.4{TAB}kg/m3
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+(AO2)(RPA17)
+01.5{TAB}formula: 0.25 × 100 / 7.96 (1)
+{TAB}{TAB}{TAB}calculation: 3.14070352 (1)
+{TAB}{TAB}{TAB}answer: 3.14 (%) (1){TAB_RIGHT}(1)
+
+(AO3)(RPA17)
+01.6{TAB}obsidian
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+(AO3)(RPA17)
+01.7{TAB}other types of rock may have the same density as obsidian
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow not all rock types are plotted on the bar chart
+
+(AO1)
+01.8{TAB}4th box ticked
+{TAB}{TAB}{TAB}6.3.1.1{TAB_RIGHT}(1)
+
+(AO3)
+01.9{TAB}less than (9)
+{TAB}{TAB}{TAB}6.3.1.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(9)
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 0 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+02.1{TAB}kinetic (1)
+{TAB}{TAB}{TAB}chemical
+{TAB}{TAB}{TAB}answers must be in this order
+{TAB}{TAB}{TAB}6.1.1.1{TAB_RIGHT}(1)
+
+(AO1)
+02.2{TAB}gravitational potential energy increases
+{TAB}{TAB}{TAB}6.1.1.1{TAB_RIGHT}(1)
+
+(AO2)
+02.3{TAB}Ep = 50 × 9.8 × 3.0 (1)
+{TAB}{TAB}{TAB}Ep = 1470 (J)
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}6.1.1.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 1500 (J)
+
+(AO1/AO2)
+02.4{TAB}speed =√2 ×160050 (1)
+{TAB}{TAB}{TAB}speed = 8
+{TAB}{TAB}{TAB}m/s
+{TAB}{TAB}{TAB}6.1.1.1
+{TAB}{TAB}{TAB}6.1.1.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 8.0
+
+(AO3)
+02.5{TAB}substitution: 20 = image length / 0.8 (1)
+{TAB}{TAB}{TAB}rearrangement: image length = 0.8 x 20 (1)
+{TAB}{TAB}{TAB}answer: 16 (mm) (1){TAB_RIGHT}(1)
+
+(AO1)
+02.6{TAB}the rate at which the athlete transfers energy
+{TAB}{TAB}{TAB}6.1.1.4{TAB_RIGHT}(1)
+
+(AO1)
+02.7{TAB}more than (1)
+{TAB}{TAB}{TAB}less than
+{TAB}{TAB}{TAB}answers must be in this order
+{TAB}{TAB}{TAB}6.1.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 11 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+03.1{TAB}6.2.1.1{TAB_RIGHT}(1)
+
+(AO1)
+03.2{TAB}substitution: 27 = 68.1 / height^2 (1)
+{TAB}{TAB}{TAB}rearrangement: height^2 = 68.1 ÷ 27 (1)
+{TAB}{TAB}{TAB}answer: 1.59 (m) (1){TAB_RIGHT}(1)
+
+(AO3)
+03.3{TAB}all 4 components connected in a series circuit
+{TAB}{TAB}{TAB}6.2.1.1
+{TAB}{TAB}{TAB}6.2.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a cell instead of a battery
+{TAB}{TAB}{TAB}-{TAB}allow an LED or LDR symbol instead of a lamp
+{TAB}{TAB}{TAB}-{TAB}ignore the + sign on the battery symbol
+
+(AO1)
+03.4{TAB}decrease the resistance of the variable resistor
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO2)
+03.5{TAB}P = 0.75 × 0.16 (1)
+{TAB}{TAB}{TAB}P = 0.12 (W)
+{TAB}{TAB}{TAB}6.2.4.1{TAB_RIGHT}(1)
+
+(AO1)
+03.6{TAB}charge flow = current × time
+{TAB}{TAB}{TAB}Q = It
+{TAB}{TAB}{TAB}6.2.1.2{TAB_RIGHT}(1)
+
+(AO2)
+03.7{TAB}200 mA = 0.2 A (1)
+{TAB}{TAB}{TAB}charge flow = 0.2 × 15
+{TAB}{TAB}{TAB}charge flow = 3.0 (C)
+{TAB}{TAB}{TAB}6.2.1.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a correct substitution using an incorrectly/not converted value for current
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using an incorrectly/not converted value for current
+
+(AO3)
+03.8{TAB}1.6
+{TAB}{TAB}{TAB}6.2.1.2{TAB_RIGHT}(1)
+
+(AO2)
+03.9{TAB}260 mA to 380 mA
+{TAB}{TAB}{TAB}6.2.1.2
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 13 marks{BOLD}{ALIGN RIGHT}
+
+(AO2)
+04.1{TAB}300 (W/m2)
+{TAB}{TAB}{TAB}6.1.3{TAB_RIGHT}(1)
+
+(AO2)
+04.2{TAB}(cities closer to the equator) receive a greater solar intensity
+{TAB}{TAB}{TAB}6.1.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (cities closer to the equator) receive more radiation/energy
+{TAB}{TAB}{TAB}-{TAB}ignore they get more sunshine
+{TAB}{TAB}{TAB}-{TAB}ignore they are hotter
+
+(AO1)
+04.3{TAB}carbon dioxide
+{TAB}{TAB}{TAB}6.1.3{TAB_RIGHT}(1)
+
+(AO2)
+04.4{TAB}0.61 × 1100 (1)
+{TAB}{TAB}{TAB}671 (W)
+{TAB}{TAB}{TAB}6.1.2.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 670 (W)
+
+(AO3)
+04.5{TAB}larger heating panels have a greater input power
+{TAB}{TAB}{TAB}6.1.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow larger heating panels have a greater input energy (per second)
+
+(AO1)
+04.6{TAB}the energy required to increase the temperature of 1kg of water by 1 °C
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}6.3.2.2{TAB_RIGHT}(1)
+
+(AO2)
+04.7{TAB}8 400 000 = 80 × 4200 × Δθ (1)
+{TAB}{TAB}{TAB}Δθ = 840000080 × 4200
+{TAB}{TAB}{TAB}Δθ = 25 (°C)
+{TAB}{TAB}{TAB}6.1.1.3
+{TAB}{TAB}{TAB}6.3.2.2{TAB_RIGHT}(1)
+
+(AO1)
+04.8{TAB}thermal insulation decreases the rate of energy transfer
+{TAB}{TAB}{TAB}6.1.2.1{TAB_RIGHT}(1)
+
+(AO2)
+04.9{TAB}B
+{TAB}{TAB}{TAB}6.1.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 15 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+05.1{TAB}V = I R
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+
+(AO2)
+05.2{TAB}3.9 = 0.12 × R (1)
+{TAB}{TAB}{TAB}R = 3.90.12
+{TAB}{TAB}{TAB}R = 32.5 ()
+{TAB}{TAB}{TAB}6.2.1.3{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow R = 33 ()
+
+(AO1)
+05.3{TAB}energy = power × time
+{TAB}{TAB}or{TAB}E = P t
+{TAB}{TAB}{TAB}6.2.4.2{TAB_RIGHT}(1)
+
+(AO2)
+05.4{TAB}time = 150 000s (1)
+{TAB}{TAB}{TAB}energy = 0.46 × 150 000
+{TAB}{TAB}{TAB}energy = 69 000 (J)
+{TAB}{TAB}{TAB}6.2.4.2{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow a substitution using an incorrectly/not converted value of time
+{TAB}{TAB}{TAB}-{TAB}allow a correct calculation using an incorrectly/not converted value of time
+
+(AO1)
+05.5{TAB}thermistor
+{TAB}{TAB}{TAB}6.2.1.1{TAB_RIGHT}(1)
+
+(AO1)
+05.6{TAB}the current will increase (1)
+{TAB}{TAB}{TAB}(because) the resistance decreases
+{TAB}{TAB}{TAB}6.2.1.4
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Extra information
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 16 marks{BOLD}{ALIGN RIGHT}
+
+(AO1)
+06.1{TAB}more than 10 000 times bigger
+{TAB}{TAB}{TAB}6.4.1.1{TAB_RIGHT}(1)
+
+(AO1)
+06.2{TAB}the atom becomes a positive ion (1)
+{TAB}{TAB}{TAB}the atom loses an electron
+{TAB}{TAB}{TAB}6.4.1.2{TAB_RIGHT}(1)
+
+(AO3)
+06.3{TAB}beta radiation is only weakly ionising
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Question
+{TAB}{TAB}{TAB}Answers
+{TAB}{TAB}{TAB}Mark
+{TAB}{TAB}{TAB}AO / Spec. Ref.{TAB_RIGHT}(1)
+
+(AO3)
+06.4{TAB}Level 3: The method would lead to the production of a valid (3-4)
+{TAB}{TAB}{TAB}outcome. The key steps are identified and logically sequenced.
+{TAB}{TAB}{TAB}5–6
+{TAB}{TAB}{TAB}6.4.2.1
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the method is not fully logically sequenced.
+{TAB}{TAB}{TAB}3–4
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+{TAB}{TAB}{TAB}1–2
+{TAB}{TAB}{TAB}No relevant content
+
+{TAB}{TAB}{TAB}Indicative content
+{TAB}{TAB}{TAB}•{TAB}move the detector very close to the source
+{TAB}{TAB}{TAB}•{TAB}record the count rate
+{TAB}{TAB}{TAB}•{TAB}position the paper between the source and the detector
+{TAB}{TAB}{TAB}•{TAB}record the new count rate
+{TAB}{TAB}{TAB}•{TAB}alpha radiation will not penetrate through paper
+{TAB}{TAB}{TAB}•{TAB}if the count rate with the paper is (significantly) less than without then the source emits alpha radiation
+{TAB}{TAB}{TAB}•{TAB}remove the paper and position the aluminium between the source and the detector
+{TAB}{TAB}{TAB}•{TAB}record the new count rate
+{TAB}{TAB}{TAB}•{TAB}(alpha and) beta radiation will not penetrate through the aluminium
+{TAB}{TAB}{TAB}•{TAB}if the count rate has (significantly) reduced compared with using paper then beta radiation is present
+{TAB}{TAB}{TAB}•{TAB}if radiation penetrates through the aluminium then gamma radiation is present
+{TAB}{TAB}{TAB}•{TAB}the experiment should be repeated and mean results calculated because radioactivity is a random process
+{TAB}{TAB}{TAB}To access level 3, the candidate must use the paper sheet, the aluminium sheet and no sheet, and describe how the results would indicate the presence of alpha, beta or gamma radiation.
+{TAB_RIGHT}(?)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 10 marks{BOLD}{ALIGN RIGHT}

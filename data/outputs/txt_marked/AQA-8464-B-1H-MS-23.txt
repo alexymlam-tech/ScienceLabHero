@@ -1,0 +1,374 @@
+4.2.2.7/4.2.2.6(AO1)
+01.1{TAB}cancer (1){TAB_RIGHT}(1)
+
+4.2.2.4/4.2.2.5/4.2.2.6(AO1)
+01.2{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}(coronary) heart disease / CHD / cardiovascular disease
+{TAB}{TAB}{TAB}•{TAB}diabetes
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore cancer
+{TAB}{TAB}{TAB}-{TAB}allow atherosclerosis
+{TAB}{TAB}{TAB}-{TAB}ignore heart attack
+{TAB}{TAB}{TAB}-{TAB}allow high blood pressure
+{TAB}{TAB}{TAB}-{TAB}allow stroke / asthma / depression / gallstones / (osteo)arthritis
+{TAB}{TAB}{TAB}-{TAB}allow sleep apnoea
+
+4.2.2.5/4.2.2.6(AO3)
+01.3{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}taxes on high energy / fat / sugar foods
+{TAB}{TAB}{TAB}•{TAB}education (about diet and health)
+{TAB}{TAB}{TAB}•{TAB}(government) advertising
+{TAB}{TAB}{TAB}•{TAB}restrict media advertising of high energy / fat / sugar foods
+{TAB}{TAB}{TAB}•{TAB}information on food labels
+{TAB}{TAB}{TAB}•{TAB}help / advice / groups for obese people via the NHS
+{TAB}{TAB}{TAB}•{TAB}calorie information on restaurant / takeaway menus
+{TAB}{TAB}{TAB}•{TAB}regulation of supermarket offers on high sugar / fat / energy foods
+{TAB}{TAB}{TAB}•{TAB}regulation of type of foods for sale near checkouts
+{TAB}{TAB}{TAB}•{TAB}exercise campaigns
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow increase the price on high energy / fat / sugar foods
+
+4.2.2.5/4.2.2.6(AO2/AO3)
+01.4{TAB}substitution: BMI = 69 / 1.64^2 (1)
+{TAB}{TAB}{TAB}calculation: BMI = 25.6(5437….) (1)
+{TAB}{TAB}{TAB}category: overweight (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow BMI = 69 / (1.64 × 1.64)
+{TAB}{TAB}{TAB}-{TAB}allow BMI = 69 / 2.6896
+{TAB}{TAB}{TAB}-{TAB}allow 26 or 25.7
+{TAB}{TAB}{TAB}-{TAB}must be consistent with their calculated BMI value{TAB_RIGHT}(3)
+
+4.2.2.5/4.2.2.6(AO3)
+01.5{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}women will gain mass / weight (during pregnancy)
+{TAB}{TAB}{TAB}•{TAB}(developing) baby will increase mass / weight of woman
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow BMI (of woman) will increase (during pregnancy)
+
+4.2.2.5/4.2.2.6(AO3)
+01.6{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}smokers had babies with lower birth mass
+{TAB}{TAB}{TAB}•{TAB}women / smokers / non-smokers with higher BMI had heavier babies
+{TAB}{TAB}{TAB}•{TAB}smoking had the greatest effect on birth mass in underweight women
+{TAB}{TAB}{TAB}•{TAB}smoking had the least effect on birth mass in overweight women
+{TAB}{TAB}{TAB}•{TAB}smoking had less effect on birth mass in overweight and obese women (than in underweight and healthy weight women)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}statements must be comparative
+{TAB}{TAB}{TAB}-{TAB}allow converse statements
+{TAB}{TAB}{TAB}-{TAB}allow weight for mass
+{TAB}{TAB}{TAB}-{TAB}allow obese women have the heaviest / heavier babies
+{TAB}{TAB}{TAB}-{TAB}allow underweight women have the lightest / lighter babies
+{TAB}{TAB}{TAB}-{TAB}allow there is only a 365 g difference between the smallest and largest babies
+
+4.3.1.1/4.3.1.2(AO1)
+01.7{TAB}coughs / sneezes (spread virus in droplets) (1)
+{TAB}{TAB}{TAB}droplets / virus are inhaled (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}assume ‘it’ refers to the virus
+{TAB}{TAB}{TAB}-{TAB}allow breathing out (spreads virus in droplets)
+{TAB}{TAB}{TAB}-{TAB}allow droplets / virus are breathed in
+{TAB}{TAB}{TAB}-{TAB}ignore contact with infected person unqualified
+{TAB}{TAB}{TAB}-{TAB}allow touch a contaminated surface and then touch your mouth / nose / eyes for 1 mark
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow kissing for 1 mark only{TAB_RIGHT}(2)
+
+4.3.1.4(AO2)
+01.8{TAB}substitution: 17 / 100 × 67 961 900 (1)
+{TAB}{TAB}{TAB}answer: = 11 553 523 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow 0.17 x 67 961 900
+{TAB}{TAB}{TAB}-{TAB}allow 11 553 500{TAB_RIGHT}(2)
+
+4.3.1.1/4.3.1.4(AO2)
+01.9{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}dry feet thoroughly (after washing)
+{TAB}{TAB}{TAB}•{TAB}do not share socks / tights / shoes / towels
+{TAB}{TAB}{TAB}•{TAB}use a fungicide
+{TAB}{TAB}{TAB}•{TAB}do not walk around barefoot in public / contaminated areas
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow use foot powder
+{TAB}{TAB}{TAB}-{TAB}ignore keep feet dry
+{TAB}{TAB}{TAB}-{TAB}ignore wash feet regularly
+{TAB}{TAB}{TAB}-{TAB}allow named fungicide
+{TAB}{TAB}{TAB}-{TAB}allow wear silver(-impregnated) socks
+{TAB}{TAB}{TAB}-{TAB}allow wear flip flops in public / contaminated areas
+{TAB}{TAB}{TAB}-{TAB}ignore avoid moist conditions
+
+{ALIGN RIGHT}{BOLD}Total Question 1: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.2/4.1.1.5(AO2/AO1)(RPA 1)
+02{TAB}Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced. (5-6)
+{TAB}{TAB}{TAB}Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced. (3-4)
+{TAB}{TAB}{TAB}Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Method 1
+{TAB}{TAB}{TAB}-{TAB}• place ruler on (microscope) stage
+{TAB}{TAB}{TAB}-{TAB}• focus on (scale on) ruler
+{TAB}{TAB}{TAB}-{TAB}• measure diameter / width of field of view
+{TAB}{TAB}{TAB}-{TAB}• in millimetres
+{TAB}{TAB}{TAB}-{TAB}• replace ruler with slide
+{TAB}{TAB}{TAB}-{TAB}• focus on cells
+{TAB}{TAB}{TAB}-{TAB}• use same magnification
+{TAB}{TAB}{TAB}-{TAB}• estimate / count number of cells that fit (lengthwise) across field of view
+{TAB}{TAB}{TAB}-{TAB}• (to calculate mean length of onion cells): divide diameter / width of field of view by (estimated) number of cells or 3 cells
+{TAB}{TAB}{TAB}-{TAB}Method 2
+{TAB}{TAB}{TAB}-{TAB}• focus on cells
+{TAB}{TAB}{TAB}-{TAB}• note magnification
+{TAB}{TAB}{TAB}-{TAB}• take a photograph of the image
+{TAB}{TAB}{TAB}-{TAB}• calculate a mean: measure length of several cells (3 or more) cells on the photograph and divide total by number of cells OR measure real size of several cells and calculate mean
+{TAB}{TAB}{TAB}-{TAB}• (mean) size of real cell = (mean cell) image size / magnification
+{TAB}{TAB}{TAB}-{TAB}General points
+{TAB}{TAB}{TAB}-{TAB}• focus under low power first using focusing knob then at ×100 magnification
+{TAB}{TAB}{TAB}-{TAB}• reference to how total magnification is calculated
+{TAB}{TAB}{TAB}-{TAB}• equation: (mean) size of real cell = (mean cell) image size / magnification
+{TAB}{TAB}{TAB}-{TAB}For Level 3 suitable method and calculation of mean length{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 2: 6 marks{BOLD}{ALIGN RIGHT}
+
+4.2.1/4.2.2.2(AO1)
+03.1{TAB}right ventricle pumps blood to the lungs (1)
+{TAB}{TAB}{TAB}left ventricle pumps blood around / to the body (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow right side of heart pumps blood to the lungs
+{TAB}{TAB}{TAB}-{TAB}allow left side of heart pumps blood to the body
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for: (two circuits / pumps) one from heart to lungs and one from heart to body or blood passes twice through heart on each circuit{TAB_RIGHT}(2)
+
+4.2.2.2(AO1)
+03.2{TAB}right atrium (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO1)
+03.3{TAB}pulmonary artery (1){TAB_RIGHT}(1)
+
+4.2.2.2(AO1/AO3)
+03.4{TAB}valves prevent backflow of blood (1)
+{TAB}{TAB}{TAB}blood (in veins) is at lower pressure / force (than in arteries) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow valves prevent blood from flowing in the wrong direction
+{TAB}{TAB}{TAB}-{TAB}allow (because) blood travels more slowly (through veins than arteries)
+{TAB}{TAB}{TAB}-{TAB}allow converse statements eg blood in arteries is at higher pressure (1) (so) do not need valves to prevent backflow (1){TAB_RIGHT}(2)
+
+4.2.2.2(AO1)
+03.5{TAB}any {BOLD}2{BOLD} from:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}lumen in vein is wider (than in an artery)
+{TAB}{TAB}{TAB}•{TAB}(wall of vein) has a thinner layer of muscle (tissue)
+{TAB}{TAB}{TAB}•{TAB}(wall of vein) has a thinner layer of elastic tissue
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}answers must be comparative
+{TAB}{TAB}{TAB}-{TAB}allow converse statements
+{TAB}{TAB}{TAB}-{TAB}ignore reference to valves
+{TAB}{TAB}{TAB}-{TAB}if neither mark awarded allow 1 mark for: veins have thinner walls (than arteries)
+{TAB}{TAB}{TAB}-{TAB}do not accept reference to cell wall
+
+{ALIGN RIGHT}{BOLD}Total Question 3: 8 marks{BOLD}{ALIGN RIGHT}
+
+4.2.1/4.2.3.1(AO1)
+04.1{TAB}A (1){TAB_RIGHT}(1)
+
+4.2.1/4.2.3.1(AO1)
+04.2{TAB}has (large) air spaces (between cells) (1)
+{TAB}{TAB}{TAB}gases can diffuse / move through the leaf (1)
+{TAB}{TAB}{TAB}to / from the photosynthetic / palisade / B layer (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow has (large) gaps (between cells)
+{TAB}{TAB}{TAB}-{TAB}allow carbon dioxide or oxygen or water vapour for gases
+{TAB}{TAB}{TAB}-{TAB}allow to / from the upper mesophyll
+{TAB}{TAB}{TAB}-{TAB}if named gas given for mp 2 direction of movement must be correct
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for cells have chloroplasts for photosynthesis{TAB_RIGHT}(3)
+
+4.2.1/4.2.3.1/4.2.3.2(AO1)
+04.3{TAB}any {BOLD}1{BOLD} from adaptation and reason:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}composed of hollow tubes / cells (1) (so) no obstruction to water flow (1)
+{TAB}{TAB}{TAB}•{TAB}has lignin (1) (to) hold tubes open / strengthen the tubes (1)
+{TAB}{TAB}{TAB}•{TAB}no end walls (1) (so) water flows easily / continuously (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}reason must correctly match the structure
+{TAB}{TAB}{TAB}-{TAB}allow cells are empty
+{TAB}{TAB}{TAB}-{TAB}allow no cytoplasm / nucleus / sub-cellular structures
+{TAB}{TAB}{TAB}-{TAB}allow (so) water flows easily if linked to hollow tubes
+{TAB}{TAB}{TAB}-{TAB}allow to maintain the transpiration stream
+{TAB}{TAB}{TAB}-{TAB}ignore has thick walls
+{TAB}{TAB}{TAB}-{TAB}allow (to) keep water inside xylem
+{TAB}{TAB}{TAB}-{TAB}allow (to) make tubes rigid
+{TAB}{TAB}{TAB}-{TAB}must be linked to an adaptation
+{TAB}{TAB}{TAB}-{TAB}allow (so) maintains a constant water flow
+{TAB}{TAB}{TAB}-{TAB}allow to maintain the transpiration stream
+
+4.1.1.2/4.1.1.3/4.1.3.2/4.2.3.1/4.2.3.2(AO2/AO3)
+04.4{TAB}water enters (guard) cells by osmosis (1)
+{TAB}{TAB}{TAB}cells swell and curve (to open the stoma) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow water enters (guard) cells because the concentration of water is higher outside the cell than inside the cell
+{TAB}{TAB}{TAB}-{TAB}allow cells become turgid and curve (to open the stoma)
+{TAB}{TAB}{TAB}-{TAB}allow inner wall of (guard) cell is thicker / stronger or less flexible than outer wall so cells curve (to open stoma){TAB_RIGHT}(2)
+
+{ALIGN RIGHT}{BOLD}Total Question 4: 8 marks{BOLD}{ALIGN RIGHT}
+
+4.4.1.1/4.4.1.2/4.4.2.1(AO2/AO1)
+05{TAB}Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account. (5-6)
+{TAB}{TAB}{TAB}Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear. (3-4)
+{TAB}{TAB}{TAB}Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking. (1-2)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}Indicative content:
+{TAB}{TAB}{TAB}-{TAB}Bright light:
+{TAB}{TAB}{TAB}-{TAB}• rate of photosynthesis is high due to high light intensity
+{TAB}{TAB}{TAB}-{TAB}• (extra) carbon dioxide is absorbed from the air
+{TAB}{TAB}{TAB}-{TAB}• (so) oxygen is released into the air
+{TAB}{TAB}{TAB}-{TAB}• carbon dioxide produced in respiration is used for photosynthesis
+{TAB}{TAB}{TAB}-{TAB}• (so) no carbon dioxide released from plant or into the air
+{TAB}{TAB}{TAB}-{TAB}• sufficient oxygen for respiration is produced by photosynthesis
+{TAB}{TAB}{TAB}-{TAB}• (so) no extra oxygen absorbed from the air
+{TAB}{TAB}{TAB}-{TAB}• rate of photosynthesis is greater than rate of respiration
+{TAB}{TAB}{TAB}-{TAB}Dim light:
+{TAB}{TAB}{TAB}-{TAB}• no net / overall flow / exchange of carbon dioxide or oxygen with the air
+{TAB}{TAB}{TAB}-{TAB}• (because) rate of respiration equals rate of photosynthesis
+{TAB}{TAB}{TAB}-{TAB}• carbon dioxide produced in respiration is used for photosynthesis
+{TAB}{TAB}{TAB}-{TAB}• no (extra) carbon dioxide is absorbed from the air
+{TAB}{TAB}{TAB}-{TAB}• oxygen produced by photosynthesis is used in respiration
+{TAB}{TAB}{TAB}-{TAB}• no (extra) oxygen is absorbed from the air
+{TAB}{TAB}{TAB}-{TAB}No light:
+{TAB}{TAB}{TAB}-{TAB}• no photosynthesis occurs as no light
+{TAB}{TAB}{TAB}-{TAB}• (so) no carbon dioxide is absorbed and no oxygen released / produced
+{TAB}{TAB}{TAB}-{TAB}• plant respires so takes in oxygen and releases carbon dioxide into the air
+{TAB}{TAB}{TAB}-{TAB}General points:
+{TAB}{TAB}{TAB}-{TAB}• plants photosynthesise when there is light using carbon dioxide and producing oxygen
+{TAB}{TAB}{TAB}-{TAB}• rate of photosynthesis depends on light intensity
+{TAB}{TAB}{TAB}-{TAB}• respiration occurs at all times of the day
+{TAB}{TAB}{TAB}-{TAB}• respiration uses oxygen and produces carbon dioxide
+{TAB}{TAB}{TAB}-{TAB}Level 3 response must include explanation at all three light intensities.{TAB_RIGHT}(6)
+
+{ALIGN RIGHT}{BOLD}Total Question 5: 6 marks{BOLD}{ALIGN RIGHT}
+
+4.2.2.1/4.4.1.3(AO1)
+06.1{TAB}starch (molecules) are large / insoluble (1)
+{TAB}{TAB}{TAB}cannot be absorbed (into the blood) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (so) cannot pass through the wall of the (small) intestine / gut
+{TAB}{TAB}{TAB}-{TAB}allow (so) cannot diffuse into the blood
+{TAB}{TAB}{TAB}-{TAB}allow sugar (molecules) are small / soluble (1) (so) can be absorbed into the blood or pass through the wall of the gut (1){TAB_RIGHT}(2)
+
+4.2.2.1(AO3)(RPA 3)
+06.2{TAB}(10 cm3 dilute) iodine solution and (1 cm3 of) water (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (10 cm3 dilute) iodine solution
+{TAB}{TAB}{TAB}-{TAB}allow water
+{TAB}{TAB}{TAB}-{TAB}ignore iodine unqualified{TAB_RIGHT}(1)
+
+4.2.2.1(AO2)(RPA 3)
+06.3{TAB}percentage of light passing through the liquid decreased with increasing starch concentration (1)
+{TAB}{TAB}{TAB}(because iodine) solution was darker (in colour) (1)
+{TAB}{TAB}{TAB}absorbed more light (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow the more concentrated the starch (suspension) the less light could pass through
+{TAB}{TAB}{TAB}-{TAB}allow (iodine) solution was blacker
+{TAB}{TAB}{TAB}-{TAB}allow the more (insoluble) starch the more cloudy the mixture
+{TAB}{TAB}{TAB}-{TAB}ignore less light passes through{TAB_RIGHT}(3)
+
+4.2.2.1(AO3)(RPA 4)
+06.4{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}to allow them to reach 37 °C
+{TAB}{TAB}{TAB}•{TAB}so they would be at the optimum / same temperature
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow to allow them to reach body temperature
+{TAB}{TAB}{TAB}-{TAB}allow to equilibrate
+
+4.2.2.1(AO2)(RPA 3/RPA 4)
+06.5{TAB}identification: 6.6 (g/dm3) (1)
+{TAB}{TAB}{TAB}subtraction: 6.6 – 0.3 or 6.3 (g/dm3) (1)
+{TAB}{TAB}{TAB}division: 6.3 / 3 (1)
+{TAB}{TAB}{TAB}rate: 2.1 (g/dm3 per minute) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow answer in range 6.5 to 6.7 (g/dm3)
+{TAB}{TAB}{TAB}-{TAB}allow correctly calculated value consistent with range allowed in step 1
+{TAB}{TAB}{TAB}-{TAB}allow correct subtraction of answer to step 1 minus 0.3 for 6.3 in this equation
+{TAB}{TAB}{TAB}-{TAB}allow correctly calculated rate using incorrectly calculated value for 6.3
+{TAB}{TAB}{TAB}-{TAB}if no other marks awarded allow 1 mark for the concentrations 1.8 and 0.8 (g/dm3){TAB_RIGHT}(4)
+
+4.2.2.1(AO2/AO3)(RPA 3/RPA 4)
+06.6{TAB}(at pH 1) shape of active site would be altered (1)
+{TAB}{TAB}{TAB}starch would not be digested (1)
+{TAB}{TAB}{TAB}percentage of light passing through liquid would stay at 10 (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow (at pH 1) enzyme / amylase would be denatured
+{TAB}{TAB}{TAB}-{TAB}allow (so) enzyme / amylase would not work
+{TAB}{TAB}{TAB}-{TAB}allow (so) no reaction would occur
+{TAB}{TAB}{TAB}-{TAB}allow (so) reaction would be (a lot) slower
+{TAB}{TAB}{TAB}-{TAB}allow (so) percentage of light passing through liquid would not change / increase{TAB_RIGHT}(3)
+
+{ALIGN RIGHT}{BOLD}Total Question 6: 14 marks{BOLD}{ALIGN RIGHT}
+
+4.1.1.1/4.1.2.1/4.3.1.8(AO2)
+07.1{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}plasmid
+{TAB}{TAB}{TAB}•{TAB}chromosome
+{TAB}{TAB}{TAB}•{TAB}DNA / genes
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}do not accept nucleus
+{TAB}{TAB}{TAB}-{TAB}allow alleles
+{TAB}{TAB}{TAB}-{TAB}allow genetic material
+
+4.3.1.8(AO2/AO3)
+07.2{TAB}no clear area (around C and E) (1)
+{TAB}{TAB}{TAB}no bacteria killed (by antibiotic) (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}if no letters are given assume they are referring to antibiotics C and E
+{TAB}{TAB}{TAB}-{TAB}allow (so) antibiotic did not work{TAB_RIGHT}(2)
+
+4.3.1.8(AO3/AO2)
+07.3{TAB}increased the concentration of antibiotic (1)
+{TAB}{TAB}{TAB}clear area seen (around disc) / bacteria killed (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow increased the dose of antibiotic
+{TAB}{TAB}{TAB}-{TAB}ignore increased the volume of antibiotic
+{TAB}{TAB}{TAB}-{TAB}ignore left it longer
+{TAB}{TAB}{TAB}-{TAB}ignore used a different temperature
+{TAB}{TAB}{TAB}-{TAB}ignore used a different sized disc
+{TAB}{TAB}{TAB}-{TAB}mark dependent on describing a change to the method{TAB_RIGHT}(2)
+
+4.1.2.3/4.3.1.3/4.3.1.8(AO2)
+07.4{TAB}the treatment injected around the implant (1){TAB_RIGHT}(1)
+
+4.1.2.3/4.2.1(AO3)
+07.5{TAB}any {BOLD}1{BOLD} from:{TAB_RIGHT}(1)
+{TAB}{TAB}{TAB}•{TAB}easier to obtain
+{TAB}{TAB}{TAB}•{TAB}less invasive
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}ignore reference to cost
+{TAB}{TAB}{TAB}-{TAB}allow quicker to obtain
+{TAB}{TAB}{TAB}-{TAB}allow fewer side effects
+{TAB}{TAB}{TAB}-{TAB}allow less painful
+{TAB}{TAB}{TAB}-{TAB}ignore reference to rejection
+
+4.1.1.2/4.1.2.3/4.1.3.1(AO2)
+07.6{TAB}by diffusion (1)
+{TAB}{TAB}{TAB}concentration of antibiotic lower inside cells than in solution (1)
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}or concentration of antibiotic higher in solution than inside cells
+{TAB}{TAB}{TAB}-{TAB}no marks if incorrect process selected
+{TAB}{TAB}{TAB}-{TAB}allow ‘it’ for antibiotic
+{TAB}{TAB}{TAB}-{TAB}allow correct reference to concentration gradient{TAB_RIGHT}(2)
+
+4.1.2.3/4.3.1.1/4.3.1.3/4.3.1.8(AO2)
+07.7{TAB}0.09 to 0.31 (1){TAB_RIGHT}(1)
+
+4.1.2.3/4.3.1.1/4.3.1.3/4.3.1.8(AO3/AO2)
+07.8{TAB}any {BOLD}2{BOLD} from Pros:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}smallest area of infection
+{TAB}{TAB}{TAB}•{TAB}small(est) range of results
+{TAB}{TAB}{TAB}•{TAB}no overlap with unreactive solution (suggesting significant effect)
+{TAB}{TAB}{TAB}any {BOLD}2{BOLD} from Cons:{TAB_RIGHT}(2)
+{TAB}{TAB}{TAB}•{TAB}only tested on 5 patients
+{TAB}{TAB}{TAB}•{TAB}some results for antibiotic treatment similar to stem cells containing antibiotic
+{TAB}{TAB}{TAB}•{TAB}some results for stem cell treatment similar to stem cells containing antibiotic
+{TAB}{TAB}{TAB}•{TAB}age / health of patients not controlled
+{TAB}{TAB}{TAB}•{TAB}only tested on one type of bacterium
+{TAB}{TAB}{TAB}•{TAB}only tested on one type of implant
+{TAB}{TAB}{TAB}•{TAB}only collected results after 7 days
+{TAB}{TAB}{TAB}•{TAB}may lead to antibiotic resistance
+{TAB}{TAB}{TAB}•{TAB}rejection of stem cells / need donors
+{TAB}{TAB}{TAB}•{TAB}allergic reaction to antibiotic
+{TAB}{TAB}{TAB}{BOLD}Extra information{BOLD}
+{TAB}{TAB}{TAB}-{TAB}allow small sample size
+{TAB}{TAB}{TAB}-{TAB}ignore only tested on one infection / cost / religion / use of embryonic stem cells
+{TAB}{TAB}{TAB}-{TAB}ignore references to viruses / side effects unqualified{TAB_RIGHT}(4)
+
+{ALIGN RIGHT}{BOLD}Total Question 7: 14 marks{BOLD}{ALIGN RIGHT}

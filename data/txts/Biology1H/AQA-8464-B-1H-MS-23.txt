@@ -1,0 +1,733 @@
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+7
+Question 1
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.1
+cancer
+1
+AO1 4.2.2.7
+4.2.2.6
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.2
+any one from:
+• (coronary) heart disease / CHD / cardiovascular disease
+• diabetes
+ignore cancer
+allow atherosclerosis
+ignore heart attack
+allow high blood pressure
+allow stroke / asthma / depression / gallstones / (osteo)arthritis
+allow sleep apnoea
+1
+AO1
+4.2.2.4
+4.2.2.5
+4.2.2.6
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+8
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.3
+any one from:
+• taxes on high energy / fat / sugar foods
+• education (about diet and health)
+• (government) advertising
+• restrict media advertising of high energy / fat / sugar foods
+• information on food labels
+• help / advice / groups for obese people via the NHS
+• calorie information on restaurant / takeaway menus
+• regulation of supermarket offers on high sugar / fat / energy foods
+• regulation of type of foods for sale near checkouts
+• exercise campaigns
+allow increase the price on high energy / fat / sugar foods
+1
+AO3
+4.2.2.5 4.2.2.6
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.4
+BMI = 691.642
+BMI = 25.6(5437….)
+(the person’s BMI category is:)
+overweight
+allow BMI = 691.64 × 1.64
+allow BMI = 692.6896
+allow 26 or 25.7
+must be consistent with their calculated BMI value
+1
+1
+1
+AO2
+AO2
+AO3
+4.2.2.5 4.2.2.6
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+9
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.5
+any one from:
+• women will gain mass / weight (during pregnancy)
+• (developing) baby will increase mass / weight of woman
+allow BMI (of woman) will increase (during pregnancy)
+1
+AO3
+4.2.2.5 4.2.2.6
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.6
+any two from:
+• smokers had babies with lower birth mass
+• women / smokers /
+non-smokers with higher BMI had heavier babies
+• smoking had the greatest effect on birth mass in underweight women
+• smoking had the least effect on birth mass in overweight women
+• smoking had less effect on birth mass in overweight and obese women (than in underweight and healthy weight women)
+statements must be comparative
+allow converse statements
+allow weight for mass
+allow obese women have the heaviest / heavier babies
+allow underweight women have the lightest / lighter babies
+allow there is only a 365 g difference between the smallest and largest babies
+2
+AO3
+4.2.2.5 4.2.2.6
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+10
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.7
+coughs / sneezes (spread virus in droplets)
+droplets / virus are inhaled
+assume ‘it’ refers to the virus
+allow breathing out (spreads virus in droplets)
+allow droplets / virus are breathed in
+ignore contact with infected person unqualified
+allow touch a contaminated surface and then touch your mouth / nose / eyes for 1 mark
+if no other marks awarded allow kissing for 1 mark only
+1
+1
+AO1
+4.3.1.1 4.3.1.2
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.8
+17100 × 67 961 900
+= 11 553 523
+allow 0.17 x 67 961 900
+allow 11 553 500
+1
+1
+AO2
+4.3.1.4
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+11
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+01.9
+any one from:
+• dry feet thoroughly (after washing)
+• do not share socks / tights / shoes / towels
+• use a fungicide
+• do not walk around barefoot in public / contaminated areas
+allow use foot powder
+ignore keep feet dry
+ignore wash feet regularly
+allow named fungicide
+allow wear silver(-impregnated) socks
+allow wear flip flops in public / contaminated areas
+ignore avoid moist conditions
+1
+AO2
+4.3.1.1 4.3.1.4
+Total Question 1
+14
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+12
+Question 2
+Question
+Answers
+Mark
+AO / Spec. Ref.
+02
+Level 3: The method would lead to the production of a valid outcome. All key steps are identified and logically sequenced.
+5‒6
+AO2
+Level 2: The method would not necessarily lead to a valid outcome. Most steps are identified, but the plan is not fully logically sequenced.
+3‒4
+AO1
+Level 1: The method would not lead to a valid outcome. Some relevant steps are identified, but links are not made clear.
+1‒2
+AO1
+No relevant content
+0
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+13
+Indicative content
+Method 1
+• place ruler on (microscope) stage
+• focus on (scale on) ruler
+• measure diameter / width of field of view
+• in millimetres
+• replace ruler with slide
+• focus on cells
+• use same magnification
+• estimate / count number of cells that fit (lengthwise) across field of view
+• (to calculate mean length of onion cells):
+divide diameter / width of field of view by (estimated) number of cells
+or
+divide diameter / width of field of view by 3 cells
+Method 2
+• focus on cells
+• note magnification
+• take a photograph of the image
+• calculate a mean:
+o measure length of several cells (3 or more) cells on the photograph
+o add all image lengths together and divide total by number of cells (to calculate mean cell image length)
+OR
+o measure the length of one cell
+o calculate the real size
+o repeat for other cells (3 or more)
+o calculate the mean real size
+• (mean) size of real cell = (mean cell) image size / magnification
+General points
+• focus under low power first
+• using focusing knob
+• then focus at ×100 magnification
+• reference to how total magnification is calculated
+• equation:
+(mean) size of real cell = (mean cell) image size / magnification
+For Level 2 attempt at a method to measure cells plus an indication of how to calculate mean length
+For Level 3 suitable method and calculation of mean length
+4.1.1.2 4.1.1.5 RPA1
+Total Question 2
+6
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+14
+Question 3
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.1
+right ventricle pumps blood to the lungs
+left ventricle pumps blood around / to the body
+allow right side of heart pumps blood to the lungs
+allow left side of heart pumps blood to the body
+if no other marks awarded allow 1 mark for:
+(two circuits / pumps) one from heart to lungs and one from heart to body
+or
+blood passes twice through heart on each circuit
+1
+1
+AO1
+4.2.1 4.2.2.2
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.2
+right atrium
+1
+AO1
+4.2.2.2
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.3
+pulmonary artery
+1
+AO1
+4.2.2.2
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+15
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.4
+valves prevent backflow of blood
+(because) blood (in veins) is at lower pressure / force (than in arteries)
+allow valves prevent blood from flowing in the wrong direction
+allow (because) blood travels more slowly (through veins than arteries)
+allow converse statements eg
+blood in arteries is at higher pressure (1)
+(so) do not need valves to prevent backflow (1)
+1
+1
+AO1
+AO3
+4.2.2.2
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+03.5
+any two from:
+• lumen in vein is wider (than in an artery)
+• (wall of vein) has a thinner layer of muscle (tissue)
+• (wall of vein) has a thinner layer of elastic tissue
+answers must be comparative
+allow converse statements
+ignore reference to valves
+if neither mark awarded allow 1 mark for:
+veins have thinner walls (than arteries)
+do not accept reference to cell wall
+2
+AO1
+4.2.2.2
+Total Question 3
+8
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+16
+Question 4
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+04.1
+A
+1
+AO1
+4.2.1 4.2.3.1
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+04.2
+has (large) air spaces (between cells)
+(so) gases can diffuse / move through the leaf
+to / from the photosynthetic / palisade / B layer
+allow has (large) gaps (between cells)
+allow carbon dioxide or oxygen or water vapour for gases
+allow to / from the upper mesophyll
+if named gas given for mp 2 direction of movement must be correct
+if no other marks awarded allow 1 mark for cells have chloroplasts for photosynthesis
+1
+1
+1
+AO1
+4.2.1 4.2.3.1
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+17
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+04.3
+composed of hollow tubes / cells
+(so) no obstruction to water flow
+OR
+has lignin (1)
+(to) hold tubes open (1)
+or
+(to) strengthen the tubes
+OR
+no end walls (1)
+(so) water flows easily (1)
+or
+(so) water flows continuously
+reason must correctly match the structure
+allow cells are empty
+allow no cytoplasm / nucleus / sub-cellular structures
+allow (so) water flows easily if linked to hollow tubes
+allow to maintain the transpiration stream
+ignore has thick walls
+allow (to) keep water inside xylem
+allow (to) make tubes rigid
+must be linked to an adaptation
+allow (so) maintains a constant water flow
+allow to maintain the transpiration stream
+1
+1
+AO1
+4.2.1 4.2.3.1
+4.2.3.2
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+18
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+04.4
+water enters (guard) cells by osmosis
+cells swell and curve (to open the stoma)
+allow water enters (guard) cells because the concentration of water is higher outside the cell than inside the cell
+allow cells become turgid and curve (to open the stoma)
+allow inner wall of (guard) cell is thicker / stronger or less flexible than outer wall so cells curve (to open stoma)
+1
+1
+AO2
+AO3
+4.1.1.2 4.1.1.3 4.1.3.2 4.2.3.1
+4.2.3.2
+Total Question 4
+8
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+19
+Question 5
+Question
+Answers
+Mark
+AO / Spec. Ref.
+05
+Level 3: Relevant points (reasons/causes) are identified, given in detail and logically linked to form a clear account.
+5–6
+AO2
+Level 2: Relevant points (reasons/causes) are identified, and there are attempts at logical linking. The resulting account is not fully clear.
+3–4
+AO1
+Level 1: Points are identified and stated simply, but their relevance is not clear and there is no attempt at logical linking.
+1–2
+AO1
+No relevant content
+0
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+20
+Indicative content
+Bright light:
+• rate of photosynthesis is high due to high light intensity
+• (extra) carbon dioxide is absorbed from the air
+• (so) oxygen is released into the air
+• carbon dioxide produced in respiration is used for photosynthesis
+• (so) no carbon dioxide released from plant or into the air
+• sufficient oxygen for respiration is produced by photosynthesis
+• (so) no extra oxygen absorbed from the air
+• rate of photosynthesis is greater than rate of respiration
+Dim light:
+• no net / overall flow / exchange of carbon dioxide or oxygen with the air
+• (because) rate of respiration equals rate of photosynthesis
+• carbon dioxide produced in respiration is used for photosynthesis
+• no (extra) carbon dioxide is absorbed from the air
+• oxygen produced by photosynthesis is used in respiration
+• no (extra) oxygen is absorbed from the air
+No light:
+• no photosynthesis occurs as no light
+• (so) no carbon dioxide is absorbed and no oxygen released / produced
+• plant respires so takes in oxygen and releases carbon dioxide into the air
+General points:
+• plants photosynthesise when there is light using carbon dioxide and producing oxygen
+• rate of photosynthesis depends on light intensity
+• respiration occurs at all times of the day
+• respiration uses oxygen and produces carbon dioxide
+Level 3 response must include explanation at all three light intensities, demonstrating a good understanding of both photosynthesis and respiration.
+For Level 2 correct reference to both processes and to both gases
+4.4.1.1 4.4.1.2 4.4.2.1
+Total Question 5
+6
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+21
+Question 6
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.1
+starch (molecules) are large / insoluble
+(so) cannot be absorbed (into the blood)
+allow (so) cannot pass through the wall of the (small) intestine / gut
+allow (so) cannot diffuse into the blood
+allow sugar (molecules) are small / soluble (1)
+(so) can be absorbed into the blood
+or
+(so) can pass through the wall of the (small) intestine / gut (1)
+1
+1
+AO1
+4.2.2.1
+4.4.1.3
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.2
+(10 cm3 dilute) iodine solution and (1 cm3 of) water
+allow (10 cm3 dilute) iodine solution
+allow water
+ignore iodine unqualified
+1
+AO3
+4.2.2.1 RPA3
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+22
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.3
+percentage of light passing through the liquid decreased with increasing starch concentration
+(because iodine) solution was darker (in colour)
+(so) absorbed more light
+allow the more concentrated the starch (suspension) the less light could pass through
+allow (iodine) solution was blacker
+allow the more (insoluble) starch the more cloudy the mixture
+ignore less light passes through
+1
+1
+1
+AO2
+4.2.2.1 RPA3
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.4
+any one from:
+• to allow them to reach 37 °C
+• so they would be at the optimum / same temperature
+allow to allow them to reach body temperature
+allow to equilibrate
+1
+AO3
+4.2.2.1 RPA4
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+23
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.5
+6.6 (g/dm3)
+6.6 – 0.3
+or
+6.3 (g/dm3)
+6.33
+2.1 (g/dm3 per minute)
+allow answer in range 6.5 to 6.7 (g/dm3)
+allow correctly calculated value consistent with range allowed in step 1
+allow correct subtraction of answer to step 1 minus 0.3 for 6.3 in this equation
+allow correctly calculated rate using incorrectly calculated value for 6.3
+if no other marks awarded allow 1 mark for the concentrations 1.8 and 0.8 (g/dm3)
+1
+1
+1
+1
+AO2
+4.2.2.1 RPA3 RPA4
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+06.6
+(at pH 1) shape of active site would be altered
+(so) starch would not be digested
+(so) percentage of light passing through liquid would stay at 10
+allow (at pH 1) enzyme / amylase would be denatured
+allow (so) enzyme / amylase would not work
+allow (so) no reaction would occur
+allow (so) reaction would be (a lot) slower
+allow (so) percentage of light passing through liquid would not change / increase
+1
+1
+1
+AO2
+AO2
+AO3
+4.2.2.1 RPA3 RPA4
+Total Question 6
+14
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+24
+Question 7
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.1
+any one from:
+• plasmid
+• chromosome
+• DNA / genes
+do not accept nucleus
+allow alleles
+allow genetic material
+1
+AO2
+4.1.1.1 4.1.2.1 4.3.1.8
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.2
+no clear area (around C and E)
+(so) no bacteria killed (by antibiotic)
+if no letters are given assume they are referring to antibiotics C and E
+allow (so) antibiotic did not work
+1
+1
+AO2
+AO3
+4.3.1.8
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.3
+increased the concentration of antibiotic
+clear area seen (around disc)
+or
+bacteria (around disc) killed
+allow increased the dose of antibiotic
+ignore increased the volume of antibiotic
+ignore left it longer
+ignore used a different temperature
+ignore used a different sized disc
+mark dependent on describing a change to the method
+1
+1
+AO3
+AO2
+4.3.1.8
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+25
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.4
+the treatment injected around the implant
+1
+AO2
+4.1.2.3
+4.3.1.3
+4.3.1.8
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.5
+any one from:
+(stem cells from fat tissue)
+• easier to obtain
+• less invasive
+ignore reference to cost
+allow quicker to obtain
+allow fewer side effects
+allow less painful
+ignore reference to rejection
+1
+AO3
+4.1.2.3
+4.2.1
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.6
+by diffusion
+concentration of antibiotic lower inside cells than in solution
+or
+concentration of antibiotic higher in solution than inside cells
+no marks if incorrect process selected
+allow ‘it’ for antibiotic
+allow correct reference to concentration gradient
+1
+1
+AO2
+4.1.1.2
+4.1.2.3
+4.1.3.1
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.7
+0.09 to 0.31
+allow 0.31 to 0.09
+1
+AO2
+4.1.2.3 4.3.1.1 4.3.1.3 4.3.1.8
+MARK SCHEME – GCSE COMBINED SCIENCE: TRILOGY – 8464/B/1H – JUNE 2023
+26
+Question
+Answers
+Extra information
+Mark
+AO / Spec. Ref.
+07.8
+any two from:
+Pros:
+stem cells containing antibiotic had:
+• smallest area of infection (: total tissue area)
+• small(est) range of results
+• no overlap with unreactive solution (suggesting significant effect)
+any two from:
+Cons:
+• only tested on 5 patients
+• some results for antibiotic treatment similar to stem cells containing antibiotic
+• some results for stem cell treatment similar to stem cells containing antibiotic
+• age / health of patients not controlled
+• only tested on one type of bacterium
+• only tested on one type of implant
+• only collected results after 7 days
+• may lead to antibiotic resistance (in S. aureus bacteria)
+• rejection of stem cells
+• need donors for stem cells
+• allergic reaction to antibiotic
+allow small sample size
+ignore only tested on one infection
+ignore cost
+ignore religion
+ignore use of embryonic stem cells
+ignore references to viruses
+ignore side effects unqualified
+2
+2
+AO3
+AO3
+AO2
+4.1.2.3 4.3.1.1 4.3.1.3 4.3.1.8
+Total Question 7
+14
